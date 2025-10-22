@@ -31,9 +31,9 @@ export default function AboutPage() {
             and play.
           </p>
           <p className="text-gray-700 text-lg leading-relaxed">
-            Austin is known as one of the most dog-friendly cities in America, and we're proud to 
+            Austin is known as one of the most dog-friendly cities in America, and we are proud to 
             showcase the incredible variety of dog parks available throughout the metro area. From 
-            scenic lakeside parks to neighborhood favorites, we've compiled comprehensive information 
+            scenic lakeside parks to neighborhood favorites, we have compiled comprehensive information 
             to help you make the best choice for your pup.
           </p>
         </div>
@@ -71,7 +71,7 @@ export default function AboutPage() {
             <FaUsers className="text-4xl text-primary-600 mb-4" />
             <h3 className="text-xl font-bold text-gray-900 mb-3">Community Focused</h3>
             <p className="text-gray-700">
-              We're building a resource that brings together Austin's dog-loving community and 
+              We are building a resource that brings together the Austin dog-loving community and 
               promotes responsible pet ownership.
             </p>
           </div>
@@ -103,7 +103,7 @@ export default function AboutPage() {
             </li>
             <li className="flex items-start gap-3">
               <span className="text-primary-600 font-bold">•</span>
-              <span>Photos showcasing each park's unique features</span>
+              <span>Photos showcasing each park and its unique features</span>
             </li>
             <li className="flex items-start gap-3">
               <span className="text-primary-600 font-bold">•</span>
