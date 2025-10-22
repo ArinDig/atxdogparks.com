@@ -1,0 +1,273 @@
+[
+  {
+    "id": "auditorium-shores",
+    "name": "Auditorium Shores Off-Leash Area",
+    "slug": "auditorium-shores-off-leash-area",
+    "address": "900 W Riverside Dr, Austin, TX 78704",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/auditorium-shores",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Located along Lady Bird Lake, this popular downtown park offers open spaces with stunning skyline views and water access for dogs who love to swim. The park features well-maintained trails and plenty of room for dogs to run and socialize. It's one of Austin's most scenic dog parks with easy access to the lake.",
+    "features": [
+      "Water access to Lady Bird Lake",
+      "Downtown skyline views",
+      "Open grassy areas",
+      "Walking trails",
+      "Parking available"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
+    ],
+    "latitude": 30.2627,
+    "longitude": -97.7594
+  },
+  {
+    "id": "red-bud-isle",
+    "name": "Red Bud Isle",
+    "slug": "red-bud-isle",
+    "address": "3401 Red Bud Trail, Austin, TX 78746",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/red-bud-isle",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "A scenic peninsula surrounded by Lady Bird Lake, Red Bud Isle is a paradise for water-loving dogs. This beautiful natural area features winding trails through trees and multiple lake access points. It's consistently rated as one of the best dog parks in Austin for its peaceful atmosphere and stunning natural setting.",
+    "features": [
+      "Surrounded by water on three sides",
+      "Natural trails through trees",
+      "Multiple lake access points",
+      "Shaded areas",
+      "Great for swimming dogs"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.2856,
+    "longitude": -97.7908
+  },
+  {
+    "id": "zilker-park",
+    "name": "Zilker Metropolitan Park",
+    "slug": "zilker-metropolitan-park",
+    "address": "2100 Barton Springs Rd, Austin, TX 78704",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/zilker-metropolitan-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Areas",
+    "fees": "Free",
+    "description": "Austin's most famous park offers dedicated off-leash areas where dogs can run and play with beautiful city views. This 350-acre metropolitan park is the heart of outdoor recreation in Austin. The off-leash areas provide ample space for exercise while maintaining the park's natural beauty.",
+    "features": [
+      "Large open spaces",
+      "Beautiful city and nature views",
+      "Multiple off-leash zones",
+      "Adjacent to Barton Springs Pool",
+      "Plenty of parking"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.2672,
+    "longitude": -97.7731
+  },
+  {
+    "id": "walnut-creek",
+    "name": "Walnut Creek Metropolitan Park",
+    "slug": "walnut-creek-metropolitan-park",
+    "address": "12138 N Lamar Blvd, Austin, TX 78753",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/walnut-creek-metropolitan-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Areas",
+    "fees": "Free",
+    "description": "This expansive 293-acre park in North Austin features one of the largest off-leash areas in the city. With extensive hiking trails, open fields, and natural landscapes, it's perfect for dogs who love to explore. The park also includes a swimming pool and playgrounds for the whole family.",
+    "features": [
+      "293 acres of parkland",
+      "Large off-leash area",
+      "Extensive hiking trails",
+      "Natural landscapes",
+      "Swimming pool on site"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
+    ],
+    "latitude": 30.3840,
+    "longitude": -97.6947
+  },
+  {
+    "id": "norwood-estate",
+    "name": "Norwood Estate Dog Park",
+    "slug": "norwood-estate-dog-park",
+    "address": "1009 Edgecliff Terrace, Austin, TX 78704",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/norwood-estate-dog-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "A well-maintained neighborhood park featuring separate areas for small and large dogs, ensuring a safe and comfortable environment for all sizes. The park includes benches, waste stations, and water fountains for both dogs and their owners. It's a favorite among South Austin residents.",
+    "features": [
+      "Separate areas for small and large dogs",
+      "Well-maintained facilities",
+      "Benches and shade",
+      "Water fountains",
+      "Waste stations"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
+    ],
+    "latitude": 30.2564,
+    "longitude": -97.7647
+  },
+  {
+    "id": "shoal-creek",
+    "name": "Shoal Creek Greenbelt",
+    "slug": "shoal-creek-greenbelt",
+    "address": "2600 N Lamar Blvd, Austin, TX 78705",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/shoal-creek-greenbelt",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash (Between 24th and 29th Streets)",
+    "fees": "Free",
+    "description": "This urban greenbelt offers shaded trails along Shoal Creek with a designated off-leash area between 24th and 29th streets. The tree-covered paths provide a cool respite during hot Austin summers, and the creek offers a natural water source for dogs. It's a convenient option for central Austin residents.",
+    "features": [
+      "Shaded trails",
+      "Creek access",
+      "Urban greenbelt",
+      "Designated off-leash zone",
+      "Close to central Austin"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
+    ],
+    "latitude": 30.2942,
+    "longitude": -97.7447
+  },
+  {
+    "id": "mary-moore-searight",
+    "name": "Mary Moore Searight Metropolitan Park",
+    "slug": "mary-moore-searight-metropolitan-park",
+    "address": "907 Slaughter Ln, Austin, TX 78748",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/mary-moore-searight-metropolitan-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash Trail Available",
+    "fees": "Free",
+    "description": "This South Austin park features a one-mile off-leash loop trail and a shallow stream where dogs can cool off. The natural setting provides a peaceful environment for both dogs and owners to enjoy nature. It's less crowded than some of the more central parks, making it ideal for dogs who prefer quieter settings.",
+    "features": [
+      "One-mile off-leash loop trail",
+      "Shallow stream for cooling off",
+      "Natural wooded areas",
+      "Less crowded atmosphere",
+      "Ample parking"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.1929,
+    "longitude": -97.8223
+  },
+  {
+    "id": "bull-creek",
+    "name": "Bull Creek District Park",
+    "slug": "bull-creek-district-park",
+    "address": "6701 Lakewood Dr, Austin, TX 78731",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/bull-creek-district-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "On-Leash (Off-leash in creek areas)",
+    "fees": "Free",
+    "description": "Located in Northwest Austin, Bull Creek offers beautiful limestone creek beds and natural swimming holes where dogs love to play. While the park requires leashes on trails, dogs are allowed off-leash in the creek areas. The scenic greenbelt is perfect for hiking with your dog and cooling off in the water.",
+    "features": [
+      "Limestone creek beds",
+      "Natural swimming holes",
+      "Scenic hiking trails",
+      "Off-leash in water areas",
+      "Beautiful natural setting"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
+    ],
+    "latitude": 30.3675,
+    "longitude": -97.7779
+  },
+  {
+    "id": "emma-long",
+    "name": "Emma Long Metropolitan Park",
+    "slug": "emma-long-metropolitan-park",
+    "address": "1600 City Park Rd, Austin, TX 78730",
+    "phone": "(512) 346-1831",
+    "website": "https://www.austintexas.gov/department/emma-long-metropolitan-park",
+    "hours": "7:00 AM - 10:00 PM Daily",
+    "leashPolicy": "On-Leash on trails, Off-leash in designated areas",
+    "fees": "$5 per vehicle on weekends, Free on weekdays",
+    "description": "Austin's largest city park at 1,147 acres, Emma Long offers extensive trails and Lake Austin access. While dogs must be leashed on trails, there are designated off-leash areas and lake access points. The park provides a more rugged, natural experience away from the city.",
+    "features": [
+      "1,147 acres of parkland",
+      "Lake Austin access",
+      "Extensive trail system",
+      "Camping available",
+      "Boat ramp"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.3515,
+    "longitude": -97.8801
+  },
+  {
+    "id": "bartholomew",
+    "name": "Bartholomew District Park",
+    "slug": "bartholomew-district-park",
+    "address": "5201 Berkman Dr, Austin, TX 78723",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/bartholomew-district-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Area",
+    "fees": "Free",
+    "description": "This East Austin park features a fenced off-leash area that's perfect for dogs to run and play safely. The park includes separate sections for small and large dogs, water stations, and plenty of shade. It's a community favorite with a friendly, welcoming atmosphere.",
+    "features": [
+      "Fenced off-leash area",
+      "Separate small and large dog areas",
+      "Water stations",
+      "Shaded areas",
+      "Community atmosphere"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.3009,
+    "longitude": -97.6847
+  }
+]
+
