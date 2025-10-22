@@ -2,8 +2,20 @@ import { FaDog, FaMapMarkedAlt, FaHeart } from 'react-icons/fa'
 
 export default function Hero() {
   return (
-    <section className="bg-gradient-to-br from-primary-600 via-primary-700 to-primary-800 text-white py-20 px-4">
-      <div className="max-w-6xl mx-auto text-center">
+    <section className="relative bg-gradient-to-br from-primary-600 via-primary-700 to-primary-800 text-white py-20 px-4 overflow-hidden">
+      {/* Background Image */}
+      <div 
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-30"
+        style={{
+          backgroundImage: 'url(https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1600&q=80)',
+        }}
+      />
+      
+      {/* Gradient Overlay */}
+      <div className="absolute inset-0 bg-gradient-to-br from-primary-600/90 via-primary-700/90 to-primary-800/90" />
+      
+      {/* Content */}
+      <div className="relative max-w-6xl mx-auto text-center">
         <div className="flex justify-center mb-6">
           <div className="bg-white/10 p-4 rounded-full">
             <FaDog className="text-6xl" />
