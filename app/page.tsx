@@ -42,7 +42,7 @@ export default function Home() {
           <div className="prose prose-lg max-w-none text-gray-700 space-y-4">
             <p>
               Austin, Texas is known as one of the most dog-friendly cities in America, and for good reason. 
-              With over {dogParks.length} dedicated dog parks throughout the metro area, there's no shortage 
+              With over {dogParks.length} dedicated dog parks throughout the metro area, there is no shortage 
               of places for your furry friend to run, play, and socialize.
             </p>
 
@@ -50,7 +50,7 @@ export default function Home() {
               Off-Leash Dog Parks in Austin
             </h3>
             <p>
-              Many of Austin's dog parks feature designated off-leash areas where dogs can roam freely 
+              Many of Austin dog parks feature designated off-leash areas where dogs can roam freely 
               and safely. Popular off-leash locations include Red Bud Isle, Auditorium Shores, and 
               Zilker Park. These spaces allow dogs to exercise, socialize, and explore in a secure environment.
             </p>
@@ -59,7 +59,7 @@ export default function Home() {
               What to Expect at Austin Dog Parks
             </h3>
             <p>
-              Austin's dog parks offer a variety of amenities including water stations, waste disposal 
+              Austin dog parks offer a variety of amenities including water stations, waste disposal 
               stations, shaded areas, and often separate sections for small and large dogs. Many parks 
               also feature natural swimming areas where water-loving dogs can cool off during hot Texas summers.
             </p>

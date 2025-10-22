@@ -6,7 +6,7 @@ import Footer from '@/components/Footer'
 export const metadata: Metadata = {
   metadataBase: new URL('https://atxdogparks.com'),
   title: {
-    default: 'ATX Dog Parks - Austin\'s Complete Dog Park Directory',
+    default: 'ATX Dog Parks - Austin Complete Dog Park Directory',
     template: '%s | ATX Dog Parks'
   },
   description: 'Discover the best dog parks in Austin, Texas. Find off-leash areas, dog-friendly parks, amenities, directions, and more. Your complete guide to Austin dog parks.',
@@ -32,13 +32,13 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://atxdogparks.com',
-    title: 'ATX Dog Parks - Austin\'s Complete Dog Park Directory',
+    title: 'ATX Dog Parks - Austin Complete Dog Park Directory',
     description: 'Discover the best dog parks in Austin, Texas. Find off-leash areas, dog-friendly parks, amenities, and more.',
     siteName: 'ATX Dog Parks',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ATX Dog Parks - Austin\'s Complete Dog Park Directory',
+    title: 'ATX Dog Parks - Austin Complete Dog Park Directory',
     description: 'Discover the best dog parks in Austin, Texas. Find off-leash areas, dog-friendly parks, amenities, and more.',
   },
   robots: {

@@ -8,7 +8,7 @@ export default function NotFound() {
         <FaDog className="text-6xl text-primary-600 mx-auto mb-4" />
         <h1 className="text-4xl font-bold text-gray-900 mb-4">Park Not Found</h1>
         <p className="text-gray-600 mb-8">
-          Sorry, we couldn't find the dog park you're looking for.
+          Sorry, we could not find the dog park you are looking for.
         </p>
         <Link
           href="/"

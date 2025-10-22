@@ -10,7 +10,7 @@ export default function Header() {
             <FaDog className="text-3xl" />
             <div>
               <h1 className="text-2xl font-bold">ATX Dog Parks</h1>
-              <p className="text-xs text-primary-100">Austin's Dog Park Directory</p>
+              <p className="text-xs text-primary-100">Austin Dog Park Directory</p>
             </div>
           </Link>
           
