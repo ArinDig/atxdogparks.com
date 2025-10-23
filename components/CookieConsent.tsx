@@ -50,7 +50,7 @@ export default function CookieConsent() {
           <div className="text-sm">
             <p className="mb-2">
               We use cookies to enhance your experience, serve personalized ads, and analyze our traffic. 
-              By clicking "Accept All", you consent to our use of cookies.
+              By clicking Accept All, you consent to our use of cookies.
             </p>
             <a 
               href="/privacy" 
