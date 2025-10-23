@@ -50,7 +50,7 @@ export default function PrivacyPage() {
               <p className="text-gray-700 mb-4">
                 We use Google AdSense to display advertisements on our website. Google AdSense uses cookies to serve 
                 ads based on your prior visits to our website or other websites. Google uses advertising cookies 
-                to enable it and its partners to serve ads based on your visit to our site and/or other sites on the Internet.
+                to enable it and its partners to serve ads based on your visit to our site and other sites on the Internet.
               </p>
               <p className="text-gray-700 mb-4">
                 You may opt out of personalized advertising by visiting{' '}
@@ -103,7 +103,7 @@ export default function PrivacyPage() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Changes to This Privacy Policy</h2>
               <p className="text-gray-700 mb-4">
                 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the 
-                new Privacy Policy on this page and updating the "Last Updated" date.
+                new Privacy Policy on this page and updating the Last Updated date.
               </p>
             </section>
 
@@ -139,4 +139,3 @@ export default function PrivacyPage() {
     </div>
   );
 }
-
