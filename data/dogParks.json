@@ -436,6 +436,34 @@
     ],
     "latitude": 30.3849,
     "longitude": -97.8862
+  },
+  {
+    "id": "hancock",
+    "name": "Hancock Dog Park",
+    "slug": "hancock-dog-park",
+    "address": "3307 Kim Ln, Austin, TX 78705",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/parks-and-recreation",
+    "hours": "8:00 AM - 8:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "A neighborhood off-leash dog park in Central Austin near the Hyde Park area. This fenced park features a mix of grassy areas and rocky terrain, providing a stimulating environment for dogs of all sizes. Shaded spots and seating areas ensure comfort for both pets and owners. Note: visitors should bring their own water as fountains may not be available.",
+    "features": [
+      "Fenced off-leash area",
+      "Shaded seating areas",
+      "Waste bag stations",
+      "Mixed terrain (grass and rocks)",
+      "Central Austin location",
+      "Neighborhood atmosphere"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.3047,
+    "longitude": -97.7348
   }
 ]
 
