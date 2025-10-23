@@ -30,7 +30,7 @@ export default function TermsPage() {
               </p>
               <p className="text-gray-700 mb-4">
                 You agree to use our website only for lawful purposes and in a way that does not infringe the 
-                rights of, restrict, or inhibit anyone else's use and enjoyment of the website.
+                rights of, restrict, or inhibit anyone else from using and enjoying the website.
               </p>
             </section>
 

@@ -49,8 +49,8 @@ export default function PrivacyPage() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Google AdSense</h2>
               <p className="text-gray-700 mb-4">
                 We use Google AdSense to display advertisements on our website. Google AdSense uses cookies to serve 
-                ads based on your prior visits to our website or other websites. Google's use of advertising cookies 
-                enables it and its partners to serve ads based on your visit to our site and/or other sites on the Internet.
+                ads based on your prior visits to our website or other websites. Google uses advertising cookies 
+                to enable it and its partners to serve ads based on your visit to our site and/or other sites on the Internet.
               </p>
               <p className="text-gray-700 mb-4">
                 You may opt out of personalized advertising by visiting{' '}
@@ -77,7 +77,7 @@ export default function PrivacyPage() {
             </section>
 
             <section className="mb-8">
-              <h2 className="text-2xl font-semibold text-gray-900 mb-4">Children's Privacy</h2>
+              <h2 className="text-2xl font-semibold text-gray-900 mb-4">Children Privacy</h2>
               <p className="text-gray-700 mb-4">
                 Our website does not knowingly collect any personally identifiable information from children under the 
                 age of 13. If you are a parent or guardian and believe your child has provided us with personal information, 
