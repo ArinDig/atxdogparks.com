@@ -61,6 +61,17 @@ export default function Footer() {
               <li>• Keep vaccinations current</li>
               <li>• Respect other dogs and owners</li>
               <li>• Follow posted park rules</li>
+              <li>
+                •{' '}
+                <a 
+                  href="https://austinglutenfree.com" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="hover:text-primary-400 transition-colors"
+                >
+                  Gluten Free Eating in Austin
+                </a>
+              </li>
             </ul>
           </div>
         </div>
