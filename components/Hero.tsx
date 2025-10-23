@@ -27,7 +27,7 @@ export default function Hero() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12 max-w-4xl mx-auto">
           <div className="bg-white/10 backdrop-blur-sm p-6 rounded-lg">
             <FaMapMarkedAlt className="text-3xl mx-auto mb-3" />
-            <h3 className="font-bold text-lg mb-2">10+ Locations</h3>
+            <h3 className="font-bold text-lg mb-2">15+ Locations</h3>
             <p className="text-primary-100 text-sm">
               From downtown to surrounding areas
             </p>
