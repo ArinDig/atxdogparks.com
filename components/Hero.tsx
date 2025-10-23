@@ -5,7 +5,7 @@ export default function Hero() {
     <section 
       className="relative text-white py-20 px-4 overflow-hidden"
       style={{
-        background: 'linear-gradient(135deg, rgba(37, 99, 235, 0.95), rgba(29, 78, 216, 0.95), rgba(30, 64, 175, 0.95)), url(https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1600&q=80) center/cover'
+        background: 'linear-gradient(135deg, rgba(37, 99, 235, 0.75), rgba(29, 78, 216, 0.75), rgba(30, 64, 175, 0.8)), url(https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1600&q=80) center/cover'
       }}
     >
       {/* Content */}
