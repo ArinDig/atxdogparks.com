@@ -35,14 +35,19 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <a 
-                  href="https://www.austintexas.gov/department/parks-and-recreation" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="text-gray-400 hover:text-primary-400 transition-colors text-sm"
-                >
-                  Austin Parks & Recreation
-                </a>
+                <Link href="/contact" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
+                  Contact
+                </Link>
+              </li>
+              <li>
+                <Link href="/privacy" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
+                <Link href="/terms" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
+                  Terms of Service
+                </Link>
               </li>
             </ul>
           </div>

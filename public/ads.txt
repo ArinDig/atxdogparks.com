@@ -1,0 +1,13 @@
+# ads.txt file for atxdogparks.com
+# This file helps prevent advertising fraud
+# Replace PUBLISHER_ID with your actual Google AdSense publisher ID after approval
+
+# Google AdSense
+# google.com, pub-PUBLISHER_ID, DIRECT, f08c47fec0942fa0
+
+# INSTRUCTIONS:
+# 1. Apply for Google AdSense
+# 2. Once approved, Google will provide your Publisher ID (starts with "pub-")
+# 3. Uncomment the line above and replace PUBLISHER_ID with your actual ID
+# 4. Example: google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
+
