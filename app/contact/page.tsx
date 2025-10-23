@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { FaEnvelope, FaGithub, FaMapMarkerAlt } from 'react-icons/fa';
+import { FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
 
 export const metadata: Metadata = {
   title: 'Contact Us | ATX Dog Parks',
