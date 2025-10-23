@@ -268,6 +268,174 @@
     ],
     "latitude": 30.3009,
     "longitude": -97.6847
+  },
+  {
+    "id": "west-austin-park",
+    "name": "West Austin Park",
+    "slug": "west-austin-park",
+    "address": "1317 W 10th St, Austin, TX 78703",
+    "phone": "(512) 974-6700",
+    "website": "https://www.westaustinpark.org",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Area",
+    "fees": "Free",
+    "description": "A fully-fenced 3-acre neighborhood park in the heart of West Austin featuring a dedicated off-leash area for dogs. This community favorite offers a safe environment for dogs to socialize and play. The park also includes basketball courts, tennis courts, picnic tables, and a pool for human visitors.",
+    "features": [
+      "Fully-fenced off-leash area",
+      "Separate areas for large and small dogs",
+      "Basketball and tennis courts",
+      "Picnic tables",
+      "Pool on site",
+      "Central West Austin location"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.2796,
+    "longitude": -97.7633
+  },
+  {
+    "id": "yard-bar",
+    "name": "Yard Bar",
+    "slug": "yard-bar",
+    "address": "6700 Burnet Rd, Austin, TX 78757",
+    "phone": "(512) 900-3354",
+    "website": "https://yardbar.com",
+    "hours": "11:00 AM - 12:00 AM Daily",
+    "leashPolicy": "Off-Leash in Dog Park Area",
+    "fees": "$10-20 (Day Pass or Membership Required)",
+    "description": "A unique combination of a bar and dog park that has become an Austin favorite. Yard Bar offers a spacious off-leash area with professional agility equipment, park attendants, and ample seating for owners. Enjoy craft cocktails and food while your dog plays in a safe, monitored environment. Perfect for socializing with both dogs and humans!",
+    "features": [
+      "Bar and restaurant on site",
+      "Professional agility equipment",
+      "Park attendants",
+      "Spacious off-leash area",
+      "Day passes and memberships available",
+      "Food and craft cocktails"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
+    ],
+    "latitude": 30.3373,
+    "longitude": -97.7411
+  },
+  {
+    "id": "onion-creek",
+    "name": "Onion Creek District Park",
+    "slug": "onion-creek-district-park",
+    "address": "7002 Onion Creek Dr, Austin, TX 78739",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/onion-creek-district-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Area",
+    "fees": "Free",
+    "description": "This expansive 179-acre park in South Austin features Dog Park Blue, an off-leash area on the northeast tip of the park. The unfenced area is close to Onion Creek, providing excellent opportunities for dogs who love to swim and cool off. The natural setting offers plenty of space for dogs to run and explore.",
+    "features": [
+      "179-acre parkland",
+      "Creek access for swimming",
+      "Large off-leash area",
+      "Natural terrain",
+      "Plenty of shade",
+      "South Austin location"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
+    ],
+    "latitude": 30.1447,
+    "longitude": -97.8353
+  },
+  {
+    "id": "barton-creek",
+    "name": "Barton Creek Greenbelt",
+    "slug": "barton-creek-greenbelt",
+    "address": "3755 S Capital of Texas Hwy, Austin, TX 78704",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/barton-creek-greenbelt",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "On-Leash Required",
+    "fees": "Free",
+    "description": "One of Austin's most beloved outdoor spaces, the Barton Creek Greenbelt spans 809 acres with nearly 8 miles of scenic trails. While dogs must remain on-leash, this greenbelt offers stunning limestone cliffs, natural swimming holes, and diverse wildlife. Perfect for hiking with your dog in a beautiful natural setting.",
+    "features": [
+      "809 acres of natural beauty",
+      "8 miles of hiking trails",
+      "Natural swimming holes",
+      "Limestone cliffs and caves",
+      "Diverse wildlife",
+      "Popular hiking destination"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
+    ],
+    "latitude": 30.2588,
+    "longitude": -97.8172
+  },
+  {
+    "id": "domain-central",
+    "name": "Domain Central Dog Park",
+    "slug": "domain-central-dog-park",
+    "address": "11100 Alterra Pkwy, Austin, TX 78758",
+    "phone": "(512) 821-5850",
+    "website": "https://www.domainnorthside.com",
+    "hours": "6:00 AM - 11:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "A modern, fully-fenced dog park in the upscale Domain neighborhood of North Austin. This well-maintained park features double gates for safety, mature shade trees, and comfortable seating areas. Located in the heart of a shopping and entertainment district, it is perfect for combining a dog park visit with shopping or dining.",
+    "features": [
+      "Fully fenced with double gates",
+      "Mature shade trees",
+      "Comfortable seating",
+      "Well-maintained grounds",
+      "Near Domain shopping",
+      "Modern amenities"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
+    ],
+    "latitude": 30.3984,
+    "longitude": -97.7229
+  },
+  {
+    "id": "bob-wentz",
+    "name": "Bob Wentz Park at Windy Point",
+    "slug": "bob-wentz-park-at-windy-point",
+    "address": "7000 Comanche Trail, Austin, TX 78732",
+    "phone": "(512) 346-1831",
+    "website": "https://www.austintexas.gov/department/bob-wentz-park-windy-point",
+    "hours": "7:00 AM - 10:00 PM Daily",
+    "leashPolicy": "On-Leash Required",
+    "fees": "Free",
+    "description": "A stunning 211-acre park on the shores of Lake Travis in West Austin. While dogs must be on-leash, the park offers beautiful lake views, rocky shorelines, and excellent swimming spots. The park features scenic trails and is a popular destination for outdoor enthusiasts and their canine companions seeking lakeside adventures.",
+    "features": [
+      "211 acres on Lake Travis",
+      "Lake access and swimming",
+      "Rocky shorelines",
+      "Scenic trails",
+      "Beautiful lake views",
+      "West Austin location"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.3849,
+    "longitude": -97.8862
   }
 ]
 
