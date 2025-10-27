@@ -3,8 +3,15 @@ import { DogPark } from '@/types/dogPark'
 import DogParkCard from '@/components/DogParkCard'
 import Hero from '@/components/Hero'
 import SearchBar from '@/components/SearchBar'
+import type { Metadata } from 'next'
 
 const dogParks = dogParksData as DogPark[]
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://atxdogparks.com',
+  },
+}
 
 export default function Home() {
   return (
@@ -84,6 +91,40 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'WebSite',
+            name: 'ATX Dog Parks',
+            url: 'https://atxdogparks.com',
+            description: 'Discover the best dog parks in Austin, Texas. Find off-leash areas, dog-friendly parks, amenities, directions, and more.',
+            potentialAction: {
+              '@type': 'SearchAction',
+              target: 'https://atxdogparks.com/?search={search_term_string}',
+              'query-input': 'required name=search_term_string'
+            }
+          })
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'ItemList',
+            itemListElement: dogParks.map((park, index) => ({
+              '@type': 'ListItem',
+              position: index + 1,
+              url: `https://atxdogparks.com/parks/${park.slug}`,
+              name: park.name
+            }))
+          })
+        }}
+      />
     </div>
   )
 }

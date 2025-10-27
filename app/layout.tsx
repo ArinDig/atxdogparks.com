@@ -66,6 +66,35 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        {/* Organization Structured Data */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Organization',
+              name: 'ATX Dog Parks',
+              url: 'https://atxdogparks.com',
+              logo: 'https://atxdogparks.com/icon.svg',
+              description: 'Your complete guide to dog parks in Austin, Texas',
+              sameAs: [],
+              contactPoint: {
+                '@type': 'ContactPoint',
+                email: 'info@atxdogparks.com',
+                contactType: 'Customer Service',
+                areaServed: 'US',
+                availableLanguage: 'English'
+              },
+              areaServed: {
+                '@type': 'City',
+                name: 'Austin',
+                '@id': 'https://en.wikipedia.org/wiki/Austin,_Texas'
+              }
+            })
+          }}
+        />
+      </head>
       <body className="min-h-screen flex flex-col bg-gray-50">
         <Script
           async

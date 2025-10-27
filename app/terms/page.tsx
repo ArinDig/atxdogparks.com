@@ -3,6 +3,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Terms of Service | ATX Dog Parks',
   description: 'Terms of Service for ATX Dog Parks - Read our terms and conditions for using our website.',
+  alternates: {
+    canonical: 'https://atxdogparks.com/terms',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function TermsPage() {

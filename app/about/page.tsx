@@ -4,6 +4,9 @@ import { FaDog, FaHeart, FaMapMarkedAlt, FaUsers } from 'react-icons/fa'
 export const metadata: Metadata = {
   title: 'About Us',
   description: 'Learn more about ATX Dog Parks, your comprehensive guide to dog parks in Austin, Texas. Discover our mission to help dogs and their owners find the perfect places to play.',
+  alternates: {
+    canonical: 'https://atxdogparks.com/about',
+  },
 }
 
 export default function AboutPage() {

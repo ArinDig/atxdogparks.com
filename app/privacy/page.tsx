@@ -3,6 +3,13 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Privacy Policy | ATX Dog Parks',
   description: 'Privacy Policy for ATX Dog Parks - Learn how we collect, use, and protect your information.',
+  alternates: {
+    canonical: 'https://atxdogparks.com/privacy',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function PrivacyPage() {

@@ -48,10 +48,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       'dog park Austin TX',
       'ATX dog parks',
     ],
+    alternates: {
+      canonical: `https://atxdogparks.com/parks/${park.slug}`,
+    },
     openGraph: {
       title: `${park.name} - Austin Dog Park`,
       description: park.description,
       type: 'website',
+      url: `https://atxdogparks.com/parks/${park.slug}`,
       images: [
         {
           url: park.mainImage,
@@ -60,6 +64,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
           alt: park.name,
         },
       ],
+    },
+    robots: {
+      index: true,
+      follow: true,
     },
   }
 }
@@ -274,6 +282,30 @@ export default function ParkPage({ params }: PageProps) {
               '@type': 'LocationFeatureSpecification',
               name: feature,
             })),
+          }),
+        }}
+      />
+      {/* Breadcrumb Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              {
+                '@type': 'ListItem',
+                position: 1,
+                name: 'Home',
+                item: 'https://atxdogparks.com'
+              },
+              {
+                '@type': 'ListItem',
+                position: 2,
+                name: park.name,
+                item: `https://atxdogparks.com/parks/${park.slug}`
+              }
+            ]
           }),
         }}
       />
