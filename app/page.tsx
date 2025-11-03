@@ -1,42 +1,85 @@
+'use client'
+
+import { useState, useMemo } from 'react'
 import dogParksData from '@/data/dogParks.json'
 import { DogPark } from '@/types/dogPark'
 import DogParkCard from '@/components/DogParkCard'
 import Hero from '@/components/Hero'
 import SearchBar from '@/components/SearchBar'
-import type { Metadata } from 'next'
 
 const dogParks = dogParksData as DogPark[]
 
-export const metadata: Metadata = {
-  alternates: {
-    canonical: 'https://atxdogparks.com',
-  },
-}
-
 export default function Home() {
+  const [searchTerm, setSearchTerm] = useState('')
+
+  // Filter parks based on search term
+  const filteredParks = useMemo(() => {
+    if (!searchTerm.trim()) {
+      return dogParks
+    }
+
+    const searchLower = searchTerm.toLowerCase()
+    
+    return dogParks.filter((park) => {
+      // Search in name
+      if (park.name.toLowerCase().includes(searchLower)) return true
+      
+      // Search in address
+      if (park.address.toLowerCase().includes(searchLower)) return true
+      
+      // Search in description
+      if (park.description.toLowerCase().includes(searchLower)) return true
+      
+      // Search in features
+      if (park.features.some(feature => feature.toLowerCase().includes(searchLower))) return true
+      
+      // Search in leash policy
+      if (park.leashPolicy.toLowerCase().includes(searchLower)) return true
+      
+      return false
+    })
+  }, [searchTerm])
+
   return (
     <div>
       <Hero />
       
       <section className="py-12 px-4 max-w-7xl mx-auto">
         <div className="mb-8">
-          <SearchBar />
+          <SearchBar searchTerm={searchTerm} onSearchChange={setSearchTerm} />
         </div>
 
         <div className="mb-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-2">
-            All Austin Dog Parks
+            {searchTerm ? `Search Results (${filteredParks.length})` : 'All Austin Dog Parks'}
           </h2>
           <p className="text-gray-600">
-            {dogParks.length} amazing dog parks to explore in Austin, Texas
+            {searchTerm 
+              ? `Found ${filteredParks.length} ${filteredParks.length === 1 ? 'park' : 'parks'} matching "${searchTerm}"`
+              : `${dogParks.length} amazing dog parks to explore in Austin, Texas`
+            }
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {dogParks.map((park) => (
-            <DogParkCard key={park.id} park={park} />
-          ))}
-        </div>
+        {filteredParks.length > 0 ? (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {filteredParks.map((park) => (
+              <DogParkCard key={park.id} park={park} />
+            ))}
+          </div>
+        ) : (
+          <div className="text-center py-12">
+            <p className="text-gray-500 text-lg mb-4">
+              No dog parks found matching your search.
+            </p>
+            <button
+              onClick={() => setSearchTerm('')}
+              className="text-primary-600 hover:text-primary-700 font-semibold"
+            >
+              Clear search and show all parks
+            </button>
+          </div>
+        )}
       </section>
 
       {/* SEO Content Section */}
