@@ -1,5 +1,1 @@
-# ads.txt file for atxdogparks.com
-# This file helps prevent advertising fraud
-
-# Google AdSense
 google.com, pub-1749871118217579, DIRECT, f08c47fec0942fa0
