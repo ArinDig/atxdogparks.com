@@ -67,6 +67,24 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Ezoic Privacy Scripts - MUST load first for compliance */}
+        <Script
+          src="https://cmp.gatekeeperconsent.com/min.js"
+          data-cfasync="false"
+          strategy="beforeInteractive"
+        />
+        <Script
+          src="https://the.gatekeeperconsent.com/cmp.min.js"
+          data-cfasync="false"
+          strategy="beforeInteractive"
+        />
+        
+        {/* Ezoic Header Script */}
+        <Script
+          src="//www.ezojs.com/ezoic/sa.min.js"
+          strategy="beforeInteractive"
+        />
+        
         {/* Organization Structured Data */}
         <script
           type="application/ld+json"
