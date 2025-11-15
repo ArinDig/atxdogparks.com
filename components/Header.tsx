@@ -22,6 +22,12 @@ export default function Header() {
               Home
             </Link>
             <Link 
+              href="/blog" 
+              className="hover:text-primary-100 transition-colors font-medium"
+            >
+              Blog
+            </Link>
+            <Link 
               href="/about" 
               className="hover:text-primary-100 transition-colors font-medium"
             >

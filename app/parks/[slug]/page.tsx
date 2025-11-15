@@ -135,6 +135,113 @@ export default function ParkPage({ params }: PageProps) {
               </ul>
             </section>
 
+            {/* What to Expect */}
+            <section className="bg-white rounded-xl shadow-md p-6">
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">What to Expect at {park.name}</h2>
+              <div className="space-y-4 text-gray-700 leading-relaxed">
+                <p>
+                  When you arrive at {park.name}, you will find a welcoming environment designed specifically for dogs and their owners. 
+                  {park.leashPolicy === 'Off-Leash' || park.leashPolicy.includes('Off-Leash') 
+                    ? ' This off-leash area allows your dog to run freely and socialize with other dogs in a safe, controlled environment. The open spaces provide plenty of room for exercise and play, making it an ideal spot for energetic dogs who need to burn off some steam.'
+                    : ' While this park requires dogs to remain on-leash, it offers beautiful walking paths and scenic areas perfect for a relaxing stroll with your canine companion. The well-maintained trails provide excellent opportunities for exercise while maintaining control and safety.'}
+                </p>
+                <p>
+                  The park is well-maintained by the City of Austin Parks and Recreation Department, ensuring that facilities remain clean and safe for all visitors. 
+                  You will find waste disposal stations throughout the park, making it easy to clean up after your dog and help keep the park pristine for everyone to enjoy. 
+                  Water stations are typically available during operating hours, but it is always a good idea to bring your own water and a portable bowl, especially during hot Texas summer days.
+                </p>
+                <p>
+                  Regular visitors appreciate the friendly community atmosphere at {park.name}. Dog owners here tend to be responsible and attentive, 
+                  creating a positive environment where dogs can socialize safely. Whether your dog is meeting new friends or playing with familiar faces, 
+                  the park provides an excellent setting for healthy canine socialization. Many owners find that regular visits help their dogs develop better 
+                  social skills and enjoy a happier, more balanced lifestyle.
+                </p>
+              </div>
+            </section>
+
+            {/* Best Times to Visit */}
+            <section className="bg-white rounded-xl shadow-md p-6">
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">Best Times to Visit</h2>
+              <div className="space-y-4 text-gray-700 leading-relaxed">
+                <p>
+                  The park is open {park.hours}, giving you plenty of flexibility to plan your visit. However, certain times tend to be more popular 
+                  and crowded than others. Early mornings, typically between 7:00 AM and 9:00 AM on weekdays, attract dog owners who visit before heading 
+                  to work. This can be a great time if your dog enjoys socializing with other dogs, as there is usually a regular group of morning visitors.
+                </p>
+                <p>
+                  Late afternoons and early evenings, particularly between 5:00 PM and 7:00 PM, represent the busiest period at most Austin dog parks. 
+                  After-work hours bring the largest crowds, which can be wonderful for social dogs but potentially overwhelming for shy or anxious pets. 
+                  If your dog is still learning social skills or prefers quieter environments, consider visiting during off-peak hours.
+                </p>
+                <p>
+                  Midday visits on weekdays, roughly between 10:00 AM and 3:00 PM, often provide a more peaceful experience with fewer dogs present. 
+                  This can be ideal for senior dogs, puppies still learning proper behavior, or dogs who are more comfortable in smaller groups. 
+                  Weekend mornings tend to be busy but manageable, while weekend afternoons typically see the highest traffic of the week.
+                </p>
+                <p>
+                  During the hot Texas summer months (June through September), early morning or evening visits are strongly recommended. 
+                  The pavement and ground can become extremely hot during midday hours, potentially burning your dog paws. Always check the ground 
+                  temperature with your hand before allowing your dog to walk on paved surfaces. Many experienced Austin dog owners avoid the parks 
+                  entirely during the hottest part of summer days, opting for early morning or post-sunset visits instead.
+                </p>
+              </div>
+            </section>
+
+            {/* Visitor Tips */}
+            <section className="bg-white rounded-xl shadow-md p-6">
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">Tips for Your Visit</h2>
+              <div className="space-y-4 text-gray-700 leading-relaxed">
+                <p>
+                  <strong>Before You Go:</strong> Make sure your dog is up-to-date on all vaccinations, including rabies, distemper, and bordetella (kennel cough). 
+                  Most dog parks, including those in Austin, require current vaccinations to protect all dogs in the community. It is also important that your 
+                  dog is treated for fleas and ticks. Consider bringing proof of vaccination on your first visit, although it is rarely checked, it demonstrates 
+                  responsible pet ownership.
+                </p>
+                <p>
+                  <strong>What to Bring:</strong> Pack a bag with essentials including fresh water, a collapsible water bowl, waste bags (even though the park 
+                  provides them, it is good to have extras), and towels if your dog likes to swim. A first aid kit with basic supplies like gauze, antiseptic, 
+                  and tweezers can be helpful for minor incidents. Some owners also bring tennis balls or other toys, though be aware that toy sharing can 
+                  sometimes lead to disputes between dogs. Always monitor your dog play closely when toys are involved.
+                </p>
+                <p>
+                  <strong>Safety First:</strong> Never leave your dog unsupervised, even for a moment. Watch for signs of overheating, including excessive 
+                  panting, drooling, or lethargy. Provide water frequently and take breaks in shaded areas. If your dog shows any signs of aggression or 
+                  seems overwhelmed, calmly remove them from the situation. It is better to leave early than to risk an incident that could harm your dog 
+                  or others. Pay attention to your dog body language and energy levels throughout your visit.
+                </p>
+                <p>
+                  <strong>Etiquette Matters:</strong> Pick up after your dog immediately - this is the most important rule of any dog park. Keep your dog 
+                  under voice control at all times. If your dog does not reliably respond to recall commands, consider additional training before visiting 
+                  off-leash areas. Intervene quickly if your dog displays bullying behavior or becomes overly rough with other dogs. Respect other visitors 
+                  by managing your dog interactions and being courteous in shared spaces. Finally, close all gates behind you to prevent dogs from escaping.
+                </p>
+              </div>
+            </section>
+
+            {/* Nearby Amenities */}
+            <section className="bg-white rounded-xl shadow-md p-6">
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">Nearby Amenities</h2>
+              <div className="space-y-4 text-gray-700 leading-relaxed">
+                <p>
+                  The area surrounding {park.name} offers various amenities that can enhance your visit. Austin is known for being an exceptionally 
+                  dog-friendly city, and you will find numerous businesses that welcome pets. Many local coffee shops and restaurants feature dog-friendly 
+                  patios where you can grab a bite or beverage before or after your park visit. Some establishments even provide water bowls and treats 
+                  for canine visitors.
+                </p>
+                <p>
+                  Pet supply stores and veterinary clinics are conveniently located throughout Austin, should you need supplies or services during your visit. 
+                  Several grooming facilities in the area offer self-service dog washing stations, which can be perfect after a muddy or sandy play session 
+                  at the park. These facilities typically provide tubs at comfortable heights, professional grooming products, and all the towels you need.
+                </p>
+                <p>
+                  Parking availability varies by location, but most Austin dog parks offer dedicated parking areas. Some parks are accessible via public 
+                  transportation or bike trails, making them easy to reach even without a car. The city extensive trail system connects many parks, 
+                  allowing for extended walks or jogs with your dog before or after visiting the off-leash areas. Check the specific location details 
+                  for parking information and alternative transportation options.
+                </p>
+              </div>
+            </section>
+
             {/* Photo Gallery */}
             <section className="bg-white rounded-xl shadow-md p-6">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">Photo Gallery</h2>
@@ -150,6 +257,23 @@ export default function ParkPage({ params }: PageProps) {
                     />
                   </div>
                 ))}
+              </div>
+            </section>
+
+            {/* Author Byline */}
+            <section className="bg-gray-50 rounded-xl border-2 border-gray-200 p-6">
+              <div className="flex items-start gap-4">
+                <div className="bg-primary-600 text-white w-12 h-12 rounded-full flex items-center justify-center flex-shrink-0">
+                  <FaDog className="text-xl" />
+                </div>
+                <div>
+                  <p className="text-sm text-gray-600 mb-1">Written by</p>
+                  <p className="font-bold text-gray-900 mb-2">ATX Dog Parks Team</p>
+                  <p className="text-gray-700 text-sm leading-relaxed">
+                    Our team of Austin dog lovers and pet experts is dedicated to helping you discover the best places for your furry friends to play, 
+                    exercise, and socialize. We regularly visit and review dog parks throughout the Austin area to provide accurate, up-to-date information.
+                  </p>
+                </div>
               </div>
             </section>
           </div>

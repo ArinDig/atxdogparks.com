@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useMemo } from 'react'
+import Link from 'next/link'
 import dogParksData from '@/data/dogParks.json'
 import { DogPark } from '@/types/dogPark'
 import DogParkCard from '@/components/DogParkCard'
@@ -131,6 +132,21 @@ export default function Home() {
               at all times, and ensure they are up-to-date on vaccinations. Always respect other dogs and 
               their owners, and follow posted rules and regulations at each park.
             </p>
+
+            <div className="mt-8 p-6 bg-primary-50 border-2 border-primary-200 rounded-lg">
+              <h3 className="text-xl font-bold text-gray-900 mb-2">
+                Want More Dog Park Tips?
+              </h3>
+              <p className="text-gray-700 mb-4">
+                Check out our blog for expert advice, safety tips, training guides, and helpful articles about enjoying Austin dog parks.
+              </p>
+              <Link 
+                href="/blog" 
+                className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors"
+              >
+                Read Our Blog
+              </Link>
+            </div>
           </div>
         </div>
       </section>
