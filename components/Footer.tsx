@@ -49,6 +49,11 @@ export default function Footer() {
                   Terms of Service
                 </Link>
               </li>
+              <li>
+                <Link href="/gear" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
+                  Dog Park Gear
+                </Link>
+              </li>
             </ul>
           </div>
 
