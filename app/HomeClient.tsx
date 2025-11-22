@@ -1,27 +1,16 @@
-import { Metadata } from 'next'
-import HomeClient from './HomeClient'
+'use client'
 
-export const metadata: Metadata = {
-  title: 'ATX Dog Parks - Austin Complete Dog Park Directory',
-  description: 'Discover the best dog parks in Austin, Texas. Find off-leash areas, dog-friendly parks, amenities, directions, and more. Your complete guide to Austin dog parks.',
-  alternates: {
-    canonical: 'https://atxdogparks.com',
-  },
-  openGraph: {
-    title: 'ATX Dog Parks - Austin Complete Dog Park Directory',
-    description: 'Discover the best dog parks in Austin, Texas. Find off-leash areas, dog-friendly parks, amenities, and more.',
-    type: 'website',
-    url: 'https://atxdogparks.com',
-  },
-  robots: {
-    index: true,
-    follow: true,
-  },
-}
+import { useState, useMemo } from 'react'
+import Link from 'next/link'
+import dogParksData from '@/data/dogParks.json'
+import { DogPark } from '@/types/dogPark'
+import DogParkCard from '@/components/DogParkCard'
+import Hero from '@/components/Hero'
+import SearchBar from '@/components/SearchBar'
 
-export default function Home() {
-  return <HomeClient />
-}
+const dogParks = dogParksData as DogPark[]
+
+export default function HomeClient() {
   const [searchTerm, setSearchTerm] = useState('')
 
   // Filter parks based on search term
@@ -172,11 +161,6 @@ export default function Home() {
             name: 'ATX Dog Parks',
             url: 'https://atxdogparks.com',
             description: 'Discover the best dog parks in Austin, Texas. Find off-leash areas, dog-friendly parks, amenities, directions, and more.',
-            potentialAction: {
-              '@type': 'SearchAction',
-              target: 'https://atxdogparks.com/?search={search_term_string}',
-              'query-input': 'required name=search_term_string'
-            }
           })
         }}
       />

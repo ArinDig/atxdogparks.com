@@ -1,0 +1,14 @@
+# robots.txt for atxdogparks.com
+
+User-agent: *
+Allow: /
+
+# Block URLs with query parameters to prevent duplicate content
+Disallow: /*?*
+
+# Allow specific URLs
+Allow: /$
+
+# Sitemap
+Sitemap: https://atxdogparks.com/sitemap.xml
+
