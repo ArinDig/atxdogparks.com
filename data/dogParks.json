@@ -86,7 +86,7 @@
     "slug": "walnut-creek-metropolitan-park",
     "address": "12138 N Lamar Blvd, Austin, TX 78753",
     "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/walnut-creek-metropolitan-park",
+    "website": "https://www.austintexas.gov/page/park-directory",
     "hours": "5:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash in Designated Areas",
     "fees": "Free",
@@ -98,7 +98,7 @@
       "Natural landscapes",
       "Swimming pool on site"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=800&q=80",
+    "mainImage": "/blog/images/Walnut_Creek-1.png",
     "images": [
       "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
       "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
