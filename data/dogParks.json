@@ -32,7 +32,7 @@
     "slug": "red-bud-isle",
     "address": "3401 Red Bud Trail, Austin, TX 78746",
     "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/red-bud-isle",
+    "website": "https://www.austintexas.gov/page/park-directory",
     "hours": "5:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
@@ -44,7 +44,7 @@
       "Shaded areas",
       "Great for swimming dogs"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "mainImage": "/blog/images/Red-Bud-1.png",
     "images": [
       "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
       "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
