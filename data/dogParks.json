@@ -140,7 +140,7 @@
     "slug": "shoal-creek-greenbelt",
     "address": "2600 N Lamar Blvd, Austin, TX 78705",
     "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/shoal-creek-greenbelt",
+    "website": "https://www.austintexas.gov/page/park-directory",
     "hours": "5:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash (Between 24th and 29th Streets)",
     "fees": "Free",
@@ -152,7 +152,7 @@
       "Designated off-leash zone",
       "Close to central Austin"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80",
+    "mainImage": "/blog/images/Shoal_Creek_Greenbelt-1.png",
     "images": [
       "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
       "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
