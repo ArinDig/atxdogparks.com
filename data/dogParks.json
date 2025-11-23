@@ -5,7 +5,7 @@
     "slug": "auditorium-shores-off-leash-area",
     "address": "900 W Riverside Dr, Austin, TX 78704",
     "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/auditorium-shores",
+    "website": "https://www.austintexas.gov/page/park-directory",
     "hours": "5:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
@@ -17,7 +17,7 @@
       "Walking trails",
       "Parking available"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "mainImage": "/blog/images/Auditorium_Shores-1.png",
     "images": [
       "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
       "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
