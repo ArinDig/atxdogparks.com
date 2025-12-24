@@ -186,6 +186,7 @@ export default function GearPage() {
                           src={product.imageUrl}
                           alt={product.imageAlt}
                           fill
+                          loading="lazy"
                           className="object-contain p-4"
                           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                         />

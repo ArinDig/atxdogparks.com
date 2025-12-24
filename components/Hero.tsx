@@ -1,13 +1,22 @@
+import Image from 'next/image'
 import { FaDog, FaMapMarkedAlt, FaHeart } from 'react-icons/fa'
 
 export default function Hero() {
   return (
-    <section 
-      className="relative text-white py-20 px-4 overflow-hidden"
-      style={{
-        background: 'linear-gradient(135deg, rgba(37, 99, 235, 0.6), rgba(29, 78, 216, 0.65), rgba(30, 64, 175, 0.7)), url(https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1600&q=80) center/cover'
-      }}
-    >
+    <section className="relative text-white py-20 px-4 overflow-hidden">
+      {/* Background Image */}
+      <div className="absolute inset-0 z-0">
+        <Image
+          src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1600&q=80"
+          alt="Austin Dog Parks"
+          fill
+          priority
+          className="object-cover"
+          sizes="100vw"
+        />
+        <div className="absolute inset-0 bg-gradient-to-br from-primary-600/60 via-primary-700/65 to-primary-800/70" />
+      </div>
+
       {/* Content */}
       <div className="relative max-w-6xl mx-auto text-center z-10">
         <div className="flex justify-center mb-6">
