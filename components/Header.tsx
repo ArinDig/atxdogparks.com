@@ -34,6 +34,12 @@ export default function Header() {
                 Gear
               </Link>
               <Link 
+                href="/faq" 
+                className="hover:text-primary-100 transition-colors font-medium"
+              >
+                FAQ
+              </Link>
+              <Link 
                 href="/about" 
                 className="hover:text-primary-100 transition-colors font-medium"
               >
