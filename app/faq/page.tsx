@@ -55,7 +55,7 @@ const faqs: FAQItem[] = [
     category: "Park Rules & Etiquette",
     icon: FaShieldAlt,
     question: "Can I bring food or treats to dog parks?",
-    answer: "Generally, food and treats should be avoided at dog parks as they can trigger resource guarding and fights. If you need treats for training during quiet times, use them discreetly and put them away if other dogs approach. Never scatter food or share treats with dogs you don't know."
+    answer: "Generally, food and treats should be avoided at dog parks as they can trigger resource guarding and fights. If you need treats for training during quiet times, use them discreetly and put them away if other dogs approach. Never scatter food or share treats with dogs you don&apos;t know."
   },
   {
     category: "Park Rules & Etiquette",
@@ -67,7 +67,7 @@ const faqs: FAQItem[] = [
     category: "Park Rules & Etiquette",
     icon: FaShieldAlt,
     question: "What is proper gate etiquette?",
-    answer: "Use the double-gate system properly: enter the first gate, close it completely, unleash your dog, then open the second gate. Keep your dog from rushing at incoming dogs. Move away from the gate area quickly after entering so you don't block others or create crowding that can lead to conflicts."
+    answer: "Use the double-gate system properly: enter the first gate, close it completely, unleash your dog, then open the second gate. Keep your dog from rushing at incoming dogs. Move away from the gate area quickly after entering so you don&apos;t block others or create crowding that can lead to conflicts."
   },
   
   // Timing & Conditions
@@ -87,13 +87,13 @@ const faqs: FAQItem[] = [
     category: "Timing & Conditions",
     icon: FaThermometerHalf,
     question: "Is it safe to visit dog parks in Texas summer heat?",
-    answer: "Summer visits require extra precautions. Go early morning (before 10 AM) or evening (after 6 PM). Bring extra water, watch for signs of overheating (excessive panting, drooling, lethargy), check ground temperature with your hand (if it's too hot for your hand, it's too hot for paws), and consider cooling vests for your dog. Avoid midday visits from May through September."
+    answer: "Summer visits require extra precautions. Go early morning (before 10 AM) or evening (after 6 PM). Bring extra water, watch for signs of overheating (excessive panting, drooling, lethargy), check ground temperature with your hand (if it&apos;s too hot for your hand, it&apos;s too hot for paws), and consider cooling vests for your dog. Avoid midday visits from May through September."
   },
   {
     category: "Timing & Conditions",
     icon: FaThermometerHalf,
-    question: "Should I go to dog parks when it's raining?",
-    answer: "Light rain doesn't necessarily prevent park visits if your dog enjoys water, but avoid parks after heavy rains until standing water drains and ground dries. Muddy conditions can make play difficult and messy. After storms, check for debris and damage before allowing off-leash play. Some parks may close temporarily after severe weather."
+    question: "Should I go to dog parks when it&apos;s raining?",
+    answer: "Light rain doesn&apos;t necessarily prevent park visits if your dog enjoys water, but avoid parks after heavy rains until standing water drains and ground dries. Muddy conditions can make play difficult and messy. After storms, check for debris and damage before allowing off-leash play. Some parks may close temporarily after severe weather."
   },
   
   // Specific Parks
@@ -159,7 +159,7 @@ const faqs: FAQItem[] = [
     category: "What to Bring",
     icon: FaPaw,
     question: "Do Austin dog parks provide water and waste bags?",
-    answer: "Many parks have water fountains and waste bag dispensers, but these are frequently empty or non-functional. Always bring your own supplies rather than depending on park amenities. Bringing your own ensures you're prepared regardless of what the park provides that day."
+    answer: "Many parks have water fountains and waste bag dispensers, but these are frequently empty or non-functional. Always bring your own supplies rather than depending on park amenities. Bringing your own ensures you&apos;re prepared regardless of what the park provides that day."
   },
   
   // Fees & Access
@@ -192,8 +192,8 @@ const faqs: FAQItem[] = [
   {
     category: "Behavioral Issues",
     icon: FaDog,
-    question: "What if my dog won't come when called at the park?",
-    answer: "If your dog doesn't have reliable recall, they're not ready for off-leash areas. Practice recall extensively in controlled environments before attempting dog parks. Use high-value treats, never repeat commands they ignore, and make coming to you the best choice. If recall fails consistently at parks, return to on-leash training areas until the skill strengthens."
+    question: "What if my dog won&apos;t come when called at the park?",
+    answer: "If your dog doesn&apos;t have reliable recall, they&apos;re not ready for off-leash areas. Practice recall extensively in controlled environments before attempting dog parks. Use high-value treats, never repeat commands they ignore, and make coming to you the best choice. If recall fails consistently at parks, return to on-leash training areas until the skill strengthens."
   },
   {
     category: "Behavioral Issues",
@@ -260,7 +260,7 @@ export default function FAQPage() {
             Still Have Questions?
           </h2>
           <p className="text-lg text-gray-700 mb-6">
-            Can't find what you're looking for? Check out our comprehensive blog guides or get in touch.
+            Can&apos;t find what you&apos;re looking for? Check out our comprehensive blog guides or get in touch.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 
