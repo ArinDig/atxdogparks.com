@@ -40,6 +40,12 @@ export default function Header() {
                 FAQ
               </Link>
               <Link 
+                href="/resources" 
+                className="hover:text-primary-100 transition-colors font-medium"
+              >
+                Resources
+              </Link>
+              <Link 
                 href="/about" 
                 className="hover:text-primary-100 transition-colors font-medium"
               >
