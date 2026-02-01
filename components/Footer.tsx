@@ -64,11 +64,6 @@ export default function Footer() {
                   FAQ
                 </Link>
               </li>
-              <li>
-                <Link href="/resources" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
-                  Austin Dog Resources
-                </Link>
-              </li>
             </ul>
           </div>
 
