@@ -35,7 +35,7 @@ export default function NotFound() {
             <p className="text-gray-600 mb-4">Popular Austin Dog Parks:</p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link
-                href="/parks/zilker-park-off-leash-area"
+                href="/parks/zilker-metropolitan-park"
                 className="text-primary-600 hover:text-primary-700 underline"
               >
                 Zilker Park
