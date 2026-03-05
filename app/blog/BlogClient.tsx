@@ -1,23 +1,87 @@
-import type { Metadata } from 'next'
-import BlogClient from './BlogClient'
+'use client'
 
-export const metadata: Metadata = {
-  title: 'Dog Park Tips & Guides',
-  description: 'Expert advice, safety tips, training guides, and helpful articles about enjoying dog parks in Austin, Texas. Learn how to make the most of your dog park visits.',
-  alternates: {
-    canonical: 'https://atxdogparks.com/blog',
-  },
-  openGraph: {
-    title: 'Dog Park Tips & Guides | ATX Dog Parks',
-    description: 'Expert advice, safety tips, training guides, and helpful articles about enjoying dog parks in Austin, Texas.',
-    type: 'website',
-    url: 'https://atxdogparks.com/blog',
-  },
-}
+import { useState } from 'react'
+import Link from 'next/link'
+import Image from 'next/image'
+import blogArticlesData from '@/data/blogArticles.json'
+import { BlogArticle } from '@/types/blogArticle'
+import { FaCalendar, FaClock, FaFolder } from 'react-icons/fa'
 
-export default function BlogPage() {
-  return <BlogClient />
-}
+const blogArticles = blogArticlesData as BlogArticle[]
+
+// Get unique categories with counts
+const categories = blogArticles.reduce((acc, article) => {
+  const cat = article.category
+  acc[cat] = (acc[cat] || 0) + 1
+  return acc
+}, {} as Record<string, number>)
+
+const sortedCategories = Object.entries(categories).sort((a, b) => b[1] - a[1])
+
+export default function BlogClient() {
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
+
+  const filteredArticles = selectedCategory
+    ? blogArticles.filter((article) => article.category === selectedCategory)
+    : blogArticles
+
+  return (
+    <div className="min-h-screen bg-gray-50">
+      {/* Hero Section */}
+      <section className="bg-gradient-to-br from-primary-600 to-primary-700 text-white py-16 px-4">
+        <div className="max-w-4xl mx-auto text-center">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Dog Park Tips & Guides</h1>
+          <p className="text-xl text-primary-100">
+            Expert advice to help you and your dog make the most of Austin dog parks
+          </p>
+        </div>
+      </section>
+
+      {/* Category Navigation */}
+      <section className="bg-white border-b border-gray-200 sticky top-16 z-40 shadow-sm">
+        <div className="max-w-7xl mx-auto px-4 py-4">
+          <div className="flex items-center gap-2 mb-2">
+            <FaFolder className="text-primary-600" />
+            <h2 className="text-lg font-bold text-gray-900">Browse by Category:</h2>
+          </div>
+          <div className="flex flex-wrap gap-3">
+            <button
+              onClick={() => setSelectedCategory(null)}
+              className={`px-4 py-2 rounded-lg font-semibold border-2 transition-colors ${
+                selectedCategory === null
+                  ? 'bg-primary-600 text-white border-primary-600'
+                  : 'bg-gray-50 text-gray-700 border-gray-200 hover:bg-gray-100'
+              }`}
+            >
+              All Articles ({blogArticles.length})
+            </button>
+            {sortedCategories.map(([category, count]) => (
+              <button
+                key={category}
+                onClick={() => setSelectedCategory(category)}
+                className={`px-4 py-2 rounded-lg font-semibold border-2 transition-colors ${
+                  selectedCategory === category
+                    ? 'bg-primary-600 text-white border-primary-600'
+                    : 'bg-primary-50 text-primary-700 border-primary-200 hover:bg-primary-100'
+                }`}
+              >
+                {category} ({count})
+              </button>
+            ))}
+          </div>
+          <p className="text-sm text-gray-600 mt-3">
+            {selectedCategory 
+              ? `Showing ${filteredArticles.length} articles in ${selectedCategory}`
+              : `All ${blogArticles.length} articles organized into ${sortedCategories.length} focused categories`
+            }
+          </p>
+        </div>
+      </section>
+
+      {/* Blog Articles Grid */}
+      <section className="max-w-7xl mx-auto px-4 py-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {filteredArticles.map((article) => (
             <article key={article.id} className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow">
               <Link href={`/blog/${article.slug}`}>
                 <div className="relative h-48 w-full">
@@ -85,4 +149,3 @@ export default function BlogPage() {
     </div>
   )
 }
-
