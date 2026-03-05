@@ -21,6 +21,15 @@ export const metadata: Metadata = {
   },
 }
 
+// Get unique categories with counts
+const categories = blogArticles.reduce((acc, article) => {
+  const cat = article.category
+  acc[cat] = (acc[cat] || 0) + 1
+  return acc
+}, {} as Record<string, number>)
+
+const sortedCategories = Object.entries(categories).sort((a, b) => b[1] - a[1])
+
 export default function BlogPage() {
   return (
     <div className="min-h-screen bg-gray-50">
@@ -30,6 +39,29 @@ export default function BlogPage() {
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Dog Park Tips & Guides</h1>
           <p className="text-xl text-primary-100">
             Expert advice to help you and your dog make the most of Austin dog parks
+          </p>
+        </div>
+      </section>
+
+      {/* Category Navigation */}
+      <section className="bg-white border-b border-gray-200 sticky top-16 z-40 shadow-sm">
+        <div className="max-w-7xl mx-auto px-4 py-4">
+          <div className="flex items-center gap-2 mb-2">
+            <FaFolder className="text-primary-600" />
+            <h2 className="text-lg font-bold text-gray-900">Browse by Category:</h2>
+          </div>
+          <div className="flex flex-wrap gap-3">
+            {sortedCategories.map(([category, count]) => (
+              <div 
+                key={category}
+                className="bg-primary-50 text-primary-700 px-4 py-2 rounded-lg font-semibold border-2 border-primary-200 hover:bg-primary-100 transition-colors"
+              >
+                {category} ({count} articles)
+              </div>
+            ))}
+          </div>
+          <p className="text-sm text-gray-600 mt-3">
+            All {blogArticles.length} articles organized into {sortedCategories.length} focused categories
           </p>
         </div>
       </section>
