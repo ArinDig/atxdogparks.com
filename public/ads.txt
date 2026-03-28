@@ -1,5 +1,6 @@
 #Ads.txt atxdogparks.com
 #Ads.txt managed by AdsTxtManager.com - the free ads.txt management tool for publishers
+#Last verified: March 28, 2026
 ownerdomain=atxdogparks.com
 contact=directsales@ezoic.com
 managerdomain=ezoic.ai
