@@ -26,7 +26,27 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link href="/" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
-                  Home
+                  Dog Parks Directory
+                </Link>
+              </li>
+              <li>
+                <Link href="/guides" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
+                  Dog Park Guides
+                </Link>
+              </li>
+              <li>
+                <Link href="/blog" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
+                  Blog
+                </Link>
+              </li>
+              <li>
+                <Link href="/gear" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
+                  Dog Park Gear
+                </Link>
+              </li>
+              <li>
+                <Link href="/faq" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
+                  FAQ
                 </Link>
               </li>
               <li>
@@ -47,21 +67,6 @@ export default function Footer() {
               <li>
                 <Link href="/terms" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
                   Terms of Service
-                </Link>
-              </li>
-              <li>
-                <Link href="/blog" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
-                  Blog
-                </Link>
-              </li>
-              <li>
-                <Link href="/gear" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
-                  Dog Park Gear
-                </Link>
-              </li>
-              <li>
-                <Link href="/faq" className="text-gray-400 hover:text-primary-400 transition-colors text-sm">
-                  FAQ
                 </Link>
               </li>
             </ul>

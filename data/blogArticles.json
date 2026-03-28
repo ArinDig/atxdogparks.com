@@ -5,7 +5,7 @@
     "title": "First Aid for Dogs at the Park: Essential Guide for Austin Dog Owners",
     "excerpt": "Learn critical first aid skills every Austin dog owner needs to know. From heat exhaustion to minor injuries, be prepared to handle emergencies at the dog park.",
     "publishDate": "2026-03-02",
-    "author": "Arin B.",
+    "author": "Arin Brown",
     "category": "Safety & Training",
     "mainImage": "https://images.unsplash.com/photo-1530126483408-aa533e55bdb2?w=1200&q=80",
     "readTime": "11 min read"
@@ -16,7 +16,7 @@
     "title": "Austin's Best Dog-Friendly Hiking Trails Near Dog Parks",
     "excerpt": "Discover amazing hiking trails near Austin's top dog parks. Perfect for dogs who love adventure beyond the typical park experience.",
     "publishDate": "2026-02-28",
-    "author": "Arin B.",
+    "author": "Arin Brown",
     "category": "Park Guides",
     "mainImage": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=1200&q=80",
     "readTime": "10 min read"
@@ -27,7 +27,7 @@
     "title": "Dog Park Aggression: Prevention Strategies and What to Do When It Happens",
     "excerpt": "Expert guidance on recognizing, preventing, and safely handling aggressive behavior at Austin dog parks. Learn the warning signs and proper intervention techniques.",
     "publishDate": "2026-02-25",
-    "author": "ATX Dog Parks Team",
+    "author": "Arin Brown",
     "category": "Safety & Training",
     "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=1200&q=80",
     "readTime": "13 min read"
@@ -38,120 +38,10 @@
     "title": "Choosing the Right Austin Dog Park Based on Your Dog's Personality",
     "excerpt": "Not all dog parks are created equal. Learn how to match your dog's unique personality, energy level, and social style with the perfect Austin dog park.",
     "publishDate": "2026-02-22",
-    "author": "Arin B.",
+    "author": "Arin Brown",
     "category": "Park Guides",
     "mainImage": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=1200&q=80",
     "readTime": "9 min read"
-  },
-  {
-    "id": "diy-dog-park-games",
-    "slug": "diy-dog-park-games",
-    "title": "DIY Dog Park Games: Creative Ways to Keep Your Pup Engaged",
-    "excerpt": "Transform your Austin dog park visits with fun, interactive games that stimulate your dog's mind and body. From recall games to scent work activities.",
-    "publishDate": "2026-02-18",
-    "author": "ATX Dog Parks Team",
-    "category": "Park Guides",
-    "mainImage": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=1200&q=80",
-    "readTime": "8 min read"
-  },
-  {
-    "id": "austin-dog-park-locals-qa",
-    "slug": "austin-dog-park-locals-qa",
-    "title": "Austin Dog Park FAQs: Locals Answer Your Top Questions",
-    "excerpt": "Real Austin dog owners share insider tips, answer common questions, and reveal what they wish they'd known before their first dog park visit.",
-    "publishDate": "2026-02-14",
-    "author": "Arin B.",
-    "category": "Park Guides",
-    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=1200&q=80",
-    "readTime": "10 min read"
-  },
-  {
-    "id": "winter-holiday-dog-park-safety",
-    "slug": "winter-holiday-dog-park-safety",
-    "title": "Holiday Safety: Taking Your Dog to Austin Parks During Winter",
-    "excerpt": "Discover essential safety tips for enjoying Austin dog parks during the holiday season, from cold weather precautions to managing holiday stress for your pup.",
-    "publishDate": "2025-12-20",
-    "author": "ATX Dog Parks Team",
-    "category": "Dog Care",
-    "mainImage": "https://images.unsplash.com/photo-1544568100-847a948585b9?w=1200&q=80",
-    "readTime": "8 min read"
-  },
-  {
-    "id": "instagram-worthy-austin-dog-parks-2025",
-    "slug": "instagram-worthy-austin-dog-parks-2025",
-    "title": "Austin's Most Instagram-Worthy Dog Parks (2025 Update)",
-    "excerpt": "From sunset skyline views to picturesque lake backdrops, discover the best spots in Austin to capture amazing photos of your dog at the park.",
-    "publishDate": "2025-12-18",
-    "author": "ATX Dog Parks Team",
-    "category": "Park Guides",
-    "mainImage": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=1200&q=80",
-    "readTime": "7 min read"
-  },
-  {
-    "id": "common-dog-park-mistakes-beginners",
-    "slug": "common-dog-park-mistakes-beginners",
-    "title": "Common Mistakes New Dog Owners Make at Austin Parks",
-    "excerpt": "Learn from the experiences of seasoned dog park visitors and avoid these common pitfalls that can ruin your dog park experience.",
-    "publishDate": "2025-12-15",
-    "author": "ATX Dog Parks Team",
-    "category": "Safety & Training",
-    "mainImage": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200&q=80",
-    "readTime": "9 min read"
-  },
-  {
-    "id": "rainy-day-alternatives-austin-dogs",
-    "slug": "rainy-day-alternatives-austin-dogs",
-    "title": "Rainy Day Alternatives When Austin Dog Parks Are Closed",
-    "excerpt": "Keep your dog active and entertained with these creative alternatives when weather or maintenance closes your favorite Austin dog parks.",
-    "publishDate": "2025-12-12",
-    "author": "ATX Dog Parks Team",
-    "category": "Park Guides",
-    "mainImage": "https://images.unsplash.com/photo-1527526029430-319f10814151?w=1200&q=80",
-    "readTime": "8 min read"
-  },
-  {
-    "id": "shy-dogs-making-friends",
-    "slug": "shy-dogs-making-friends",
-    "title": "Making Friends at the Dog Park: A Guide for Shy Dogs",
-    "excerpt": "Help your reserved or anxious dog build confidence and develop positive social skills at Austin dog parks with these proven strategies.",
-    "publishDate": "2025-12-10",
-    "author": "ATX Dog Parks Team",
-    "category": "Safety & Training",
-    "mainImage": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?w=1200&q=80",
-    "readTime": "10 min read"
-  },
-  {
-    "id": "austin-dog-park-etiquette-2025",
-    "slug": "austin-dog-park-etiquette-2025",
-    "title": "Austin Dog Park Etiquette: What Changed in 2025",
-    "excerpt": "Stay up to date with evolving dog park norms, new community standards, and updated rules that Austin dog owners are following in 2025.",
-    "publishDate": "2025-12-08",
-    "author": "ATX Dog Parks Team",
-    "category": "Safety & Training",
-    "mainImage": "https://images.unsplash.com/photo-1422565096762-bdb997a56a84?w=1200&q=80",
-    "readTime": "8 min read"
-  },
-  {
-    "id": "best-times-visit-austin-dog-parks",
-    "slug": "best-times-visit-austin-dog-parks",
-    "title": "The Best Times to Visit Each Austin Dog Park (Insider Tips)",
-    "excerpt": "Maximize your dog park experience with insider knowledge about peak hours, quiet times, and the best moments to visit each Austin park.",
-    "publishDate": "2025-12-05",
-    "author": "ATX Dog Parks Team",
-    "category": "Park Guides",
-    "mainImage": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?w=1200&q=80",
-    "readTime": "9 min read"
-  },
-  {
-    "id": "dog-park-training-mistakes",
-    "slug": "dog-park-training-mistakes",
-    "title": "Dog Park Training Mistakes That Could Get You Kicked Out",
-    "excerpt": "Avoid these critical training errors that frustrate other owners, endanger dogs, and can result in being asked to leave Austin dog parks.",
-    "publishDate": "2025-12-02",
-    "author": "ATX Dog Parks Team",
-    "category": "Safety & Training",
-    "mainImage": "https://images.unsplash.com/photo-1554224311-beee415c201f?w=1200&q=80",
-    "readTime": "8 min read"
   },
   {
     "id": "essential-dog-park-gear-austin",
@@ -159,7 +49,7 @@
     "title": "9 Must-Have Items for Austin Dog Park Visits",
     "excerpt": "From hydration solutions to safety gear, discover the essential items that will make your Austin dog park visits safer, more comfortable, and more enjoyable for both you and your pup.",
     "publishDate": "2025-11-22",
-    "author": "Arin B.",
+    "author": "Arin Brown",
     "category": "Park Guides",
     "mainImage": "/blog/images/Dog_w_water_bowl.png",
     "readTime": "9 min read"
@@ -170,7 +60,7 @@
     "title": "10 Best Off-Leash Dog Parks in Austin, Texas",
     "excerpt": "Discover the top off-leash dog parks in Austin where your furry friend can run free, socialize, and enjoy the beautiful Texas outdoors.",
     "publishDate": "2025-11-10",
-    "author": "ATX Dog Parks Team",
+    "author": "Arin Brown",
     "category": "Park Guides",
     "mainImage": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?w=1200&q=80",
     "readTime": "8 min read"
@@ -181,7 +71,7 @@
     "title": "Essential Dog Park Safety Tips Every Owner Should Know",
     "excerpt": "Keep your dog safe and happy at the park with these expert-approved safety tips and best practices for responsible dog park visits.",
     "publishDate": "2025-11-05",
-    "author": "ATX Dog Parks Team",
+    "author": "Arin Brown",
     "category": "Safety & Training",
     "mainImage": "https://images.unsplash.com/photo-1450778869180-41d0601e046e?w=1200&q=80",
     "readTime": "7 min read"
@@ -192,109 +82,10 @@
     "title": "How to Train Your Dog for Off-Leash Park Success",
     "excerpt": "Master the art of off-leash training with our comprehensive guide to building reliable recall and good park behavior in your dog.",
     "publishDate": "2025-10-28",
-    "author": "ATX Dog Parks Team",
+    "author": "Arin Brown",
     "category": "Safety & Training",
     "mainImage": "https://images.unsplash.com/photo-1554224311-beee415c201f?w=1200&q=80",
     "readTime": "10 min read"
-  },
-  {
-    "id": "seasonal-guide-austin-dog-parks",
-    "slug": "seasonal-guide-austin-dog-parks",
-    "title": "Seasonal Guide to Visiting Austin Dog Parks Year-Round",
-    "excerpt": "Learn the best times to visit Austin dog parks throughout the year, with tips for handling summer heat, spring allergies, and seasonal challenges.",
-    "publishDate": "2025-10-15",
-    "author": "ATX Dog Parks Team",
-    "category": "Dog Care",
-    "mainImage": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=1200&q=80",
-    "readTime": "9 min read"
-  },
-  {
-    "id": "dog-park-etiquette-guide",
-    "slug": "dog-park-etiquette-guide",
-    "title": "The Complete Guide to Dog Park Etiquette",
-    "excerpt": "Be a responsible dog owner with our comprehensive guide to proper dog park etiquette, unwritten rules, and community standards.",
-    "publishDate": "2025-09-20",
-    "author": "ATX Dog Parks Team",
-    "category": "Safety & Training",
-    "mainImage": "https://images.unsplash.com/photo-1422565096762-bdb997a56a84?w=1200&q=80",
-    "readTime": "8 min read"
-  },
-  {
-    "id": "dog-breeds-best-for-parks",
-    "slug": "dog-breeds-best-for-parks",
-    "title": "Which Dog Breeds Thrive at Off-Leash Parks?",
-    "excerpt": "Discover which dog breeds naturally excel at dog parks and how to set up any breed for success in off-leash environments.",
-    "publishDate": "2025-08-10",
-    "author": "ATX Dog Parks Team",
-    "category": "Dog Care",
-    "mainImage": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?w=1200&q=80",
-    "readTime": "9 min read"
-  },
-  {
-    "id": "socializing-your-dog",
-    "slug": "socializing-your-dog",
-    "title": "Socializing Your Dog: A Step-by-Step Guide",
-    "excerpt": "Help your dog become confident and friendly with our proven strategies for successful dog socialization at parks and beyond.",
-    "publishDate": "2025-11-15",
-    "author": "ATX Dog Parks Team",
-    "category": "Safety & Training",
-    "mainImage": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?w=1200&q=80",
-    "readTime": "10 min read"
-  },
-  {
-    "id": "summer-safety-hot-weather",
-    "slug": "summer-safety-hot-weather",
-    "title": "Keeping Your Dog Safe in Austin Summer Heat",
-    "excerpt": "Essential tips for protecting your dog from heat exhaustion and enjoying Austin dog parks safely during hot summer months.",
-    "publishDate": "2025-11-08",
-    "author": "ATX Dog Parks Team",
-    "category": "Dog Care",
-    "mainImage": "https://images.unsplash.com/photo-1527526029430-319f10814151?w=1200&q=80",
-    "readTime": "8 min read"
-  },
-  {
-    "id": "dog-park-health-benefits",
-    "slug": "dog-park-health-benefits",
-    "title": "The Amazing Health Benefits of Regular Dog Park Visits",
-    "excerpt": "Discover how regular dog park visits improve your dog physical health, mental wellbeing, and overall quality of life.",
-    "publishDate": "2025-10-25",
-    "author": "ATX Dog Parks Team",
-    "category": "Dog Care",
-    "mainImage": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=1200&q=80",
-    "readTime": "7 min read"
-  },
-  {
-    "id": "puppy-first-dog-park",
-    "slug": "puppy-first-dog-park",
-    "title": "Taking Your Puppy to the Dog Park: When and How",
-    "excerpt": "Learn the right age and approach for introducing your puppy to dog parks, with expert tips for a positive first experience.",
-    "publishDate": "2025-10-18",
-    "author": "ATX Dog Parks Team",
-    "category": "Safety & Training",
-    "mainImage": "https://images.unsplash.com/photo-1544568100-847a948585b9?w=1200&q=80",
-    "readTime": "9 min read"
-  },
-  {
-    "id": "dog-park-gear-essentials",
-    "slug": "dog-park-gear-essentials",
-    "title": "Dog Park Essentials: What to Pack for Every Visit",
-    "excerpt": "Never forget important supplies again with our comprehensive checklist of must-have items for successful dog park outings.",
-    "publishDate": "2025-10-05",
-    "author": "ATX Dog Parks Team",
-    "category": "Park Guides",
-    "mainImage": "https://images.unsplash.com/photo-1514984879728-be0aff75a6e8?w=1200&q=80",
-    "readTime": "6 min read"
-  },
-  {
-    "id": "small-dogs-at-parks",
-    "slug": "small-dogs-at-parks",
-    "title": "Small Dogs at Dog Parks: Tips for Keeping Them Safe",
-    "excerpt": "Special considerations and safety strategies for bringing small breed dogs to multi-size dog parks in Austin.",
-    "publishDate": "2025-09-28",
-    "author": "ATX Dog Parks Team",
-    "category": "Dog Care",
-    "mainImage": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?w=1200&q=80",
-    "readTime": "8 min read"
   },
   {
     "id": "reading-dog-body-language",
@@ -302,7 +93,7 @@
     "title": "Reading Dog Body Language at the Park",
     "excerpt": "Learn to identify stress signals, play behavior, and warning signs to keep your dog safe and happy at dog parks.",
     "publishDate": "2025-09-22",
-    "author": "ATX Dog Parks Team",
+    "author": "Arin Brown",
     "category": "Safety & Training",
     "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=1200&q=80",
     "readTime": "10 min read"
@@ -313,7 +104,7 @@
     "title": "Water Safety: Swimming with Your Dog at Austin Parks",
     "excerpt": "Essential water safety tips for dogs enjoying swimming areas at Austin lakeside and creek-side dog parks.",
     "publishDate": "2025-09-15",
-    "author": "ATX Dog Parks Team",
+    "author": "Arin Brown",
     "category": "Safety & Training",
     "mainImage": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=1200&q=80",
     "readTime": "8 min read"
@@ -324,21 +115,20 @@
     "title": "Dog Parks for Senior Dogs: Special Considerations",
     "excerpt": "How to help your older dog enjoy dog parks safely, with tips for exercise, socialization, and health monitoring.",
     "publishDate": "2025-09-08",
-    "author": "ATX Dog Parks Team",
+    "author": "Arin Brown",
     "category": "Dog Care",
     "mainImage": "/blog/images/Senior Dogs_Special Considerations.png",
     "readTime": "9 min read"
   },
   {
-    "id": "austin-dog-friendly-activities",
-    "slug": "austin-dog-friendly-activities",
-    "title": "Beyond Dog Parks: Other Dog-Friendly Activities in Austin",
-    "excerpt": "Explore restaurants, trails, events, and attractions where your dog is welcome in dog-friendly Austin, Texas.",
-    "publishDate": "2025-09-02",
-    "author": "ATX Dog Parks Team",
-    "category": "Park Guides",
-    "mainImage": "https://images.unsplash.com/photo-1560807707-8cc77767d783?w=1200&q=80",
-    "readTime": "10 min read"
+    "id": "small-dogs-at-parks",
+    "slug": "small-dogs-at-parks",
+    "title": "Small Dogs at Dog Parks: Tips for Keeping Them Safe",
+    "excerpt": "Special considerations and safety strategies for bringing small breed dogs to multi-size dog parks in Austin.",
+    "publishDate": "2025-08-28",
+    "author": "Arin Brown",
+    "category": "Dog Care",
+    "mainImage": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?w=1200&q=80",
+    "readTime": "8 min read"
   }
 ]
-

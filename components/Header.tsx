@@ -19,8 +19,14 @@ export default function Header() {
               href="/" 
               className="hover:text-primary-100 transition-colors font-medium"
             >
-              Home
+              Parks
             </Link>
+              <Link 
+                href="/guides" 
+                className="hover:text-primary-100 transition-colors font-medium"
+              >
+                Guides
+              </Link>
               <Link 
                 href="/blog" 
                 className="hover:text-primary-100 transition-colors font-medium"
@@ -34,16 +40,16 @@ export default function Header() {
                 Gear
               </Link>
               <Link 
-                href="/faq" 
-                className="hover:text-primary-100 transition-colors font-medium"
-              >
-                FAQ
-              </Link>
-              <Link 
                 href="/about" 
                 className="hover:text-primary-100 transition-colors font-medium"
               >
                 About
+              </Link>
+              <Link 
+                href="/faq" 
+                className="hover:text-primary-100 transition-colors font-medium"
+              >
+                FAQ
               </Link>
               <Link 
                 href="/contact" 
