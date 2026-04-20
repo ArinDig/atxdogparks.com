@@ -369,9 +369,44 @@ export default function ParkPage({ params }: PageProps) {
           </div>
         </div>
 
+        {/* Related Guides */}
+        <div className="mt-12 border-t border-gray-200 pt-10">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">Helpful Guides Before You Go</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+            <Link href="/guides/dog-park-etiquette" className="flex items-start p-4 bg-primary-50 border border-primary-100 rounded-lg hover:border-primary-400 hover:shadow-sm transition-all">
+              <span className="text-2xl mr-3">🐾</span>
+              <div>
+                <div className="font-semibold text-primary-800">Dog Park Etiquette</div>
+                <div className="text-sm text-gray-600">The rules every dog owner should know before visiting any Austin park.</div>
+              </div>
+            </Link>
+            <Link href="/guides/first-timer-guide" className="flex items-start p-4 bg-primary-50 border border-primary-100 rounded-lg hover:border-primary-400 hover:shadow-sm transition-all">
+              <span className="text-2xl mr-3">🚀</span>
+              <div>
+                <div className="font-semibold text-primary-800">First-Timer&apos;s Guide</div>
+                <div className="text-sm text-gray-600">What to bring, what to expect, and how to have a great first visit.</div>
+              </div>
+            </Link>
+            <Link href="/guides/dog-park-safety" className="flex items-start p-4 bg-primary-50 border border-primary-100 rounded-lg hover:border-primary-400 hover:shadow-sm transition-all">
+              <span className="text-2xl mr-3">🛡️</span>
+              <div>
+                <div className="font-semibold text-primary-800">Dog Park Safety</div>
+                <div className="text-sm text-gray-600">Keep your dog safe — what to watch for at Austin&apos;s parks.</div>
+              </div>
+            </Link>
+            <Link href="/guides/seasonal-tips" className="flex items-start p-4 bg-primary-50 border border-primary-100 rounded-lg hover:border-primary-400 hover:shadow-sm transition-all">
+              <span className="text-2xl mr-3">☀️</span>
+              <div>
+                <div className="font-semibold text-primary-800">Seasonal Tips for Austin</div>
+                <div className="text-sm text-gray-600">Beat the heat — best times to visit parks in Austin&apos;s climate.</div>
+              </div>
+            </Link>
+          </div>
+        </div>
+
         {/* Back to All Parks */}
-        <div className="mt-12 text-center">
-          <Link 
+        <div className="mt-4 text-center">
+          <Link
             href="/"
             className="inline-flex items-center gap-2 text-primary-600 hover:text-primary-700 font-semibold"
           >

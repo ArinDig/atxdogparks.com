@@ -174,6 +174,43 @@ export default function DogParkEtiquette() {
           </div>
         </div>
 
+        {/* Parks Known for Great Community */}
+        <div className="bg-white rounded-lg shadow-md p-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">Austin Parks with Great Communities</h2>
+          <p className="text-gray-600 mb-6">These parks are known for friendly regulars who take etiquette seriously.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+            <Link href="/parks/auditorium-shores-off-leash-area" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌊</span>
+              <div>
+                <div className="font-semibold text-gray-900">Auditorium Shores</div>
+                <div className="text-sm text-gray-600">One of Austin&apos;s most popular off-leash areas with an active, respectful community.</div>
+              </div>
+            </Link>
+            <Link href="/parks/norwood-estate-dog-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🐕</span>
+              <div>
+                <div className="font-semibold text-gray-900">Norwood Estate Dog Park</div>
+                <div className="text-sm text-gray-600">Dedicated, fenced park with regulars who set the tone for good etiquette.</div>
+              </div>
+            </Link>
+            <Link href="/parks/red-bud-isle" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌿</span>
+              <div>
+                <div className="font-semibold text-gray-900">Red Bud Isle</div>
+                <div className="text-sm text-gray-600">Popular off-leash island — a great place to see Austin dog culture at its best.</div>
+              </div>
+            </Link>
+            <Link href="/parks/zilker-metropolitan-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🏞️</span>
+              <div>
+                <div className="font-semibold text-gray-900">Zilker Metropolitan Park</div>
+                <div className="text-sm text-gray-600">Austin&apos;s iconic park — busy, social, and a good place to practice park manners.</div>
+              </div>
+            </Link>
+          </div>
+          <Link href="/" className="text-primary-600 font-semibold hover:underline text-sm">Browse all Austin dog parks →</Link>
+        </div>
+
         {/* Related Guides */}
         <div className="bg-white rounded-lg shadow-md p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Related Guides</h2>

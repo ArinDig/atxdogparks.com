@@ -265,6 +265,44 @@ export default function DogParkSafetyGuide() {
           </div>
         </div>
 
+
+        {/* Featured Parks */}
+        <div className="bg-white rounded-lg shadow-md p-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">Austin Parks with Strong Safety Features</h2>
+          <p className="text-gray-600 mb-6">These parks have good fencing, shade, and features that make for a safer visit.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+            <Link href="/parks/norwood-estate-dog-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🐕</span>
+              <div>
+                <div className="font-semibold text-gray-900">Norwood Estate Dog Park</div>
+                <div className="text-sm text-gray-600">Fully fenced with separate large/small dog areas — great safety setup.</div>
+              </div>
+            </Link>
+            <Link href="/parks/bartholomew-district-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🏞️</span>
+              <div>
+                <div className="font-semibold text-gray-900">Bartholomew District Park</div>
+                <div className="text-sm text-gray-600">Dedicated off-leash area with clear boundaries and good sight lines.</div>
+              </div>
+            </Link>
+            <Link href="/parks/bull-creek-district-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">💧</span>
+              <div>
+                <div className="font-semibold text-gray-900">Bull Creek District Park</div>
+                <div className="text-sm text-gray-600">Popular water spot — check for algae advisories before visiting in summer.</div>
+              </div>
+            </Link>
+            <Link href="/parks/mary-moore-searight-metropolitan-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌳</span>
+              <div>
+                <div className="font-semibold text-gray-900">Mary Moore Searight Park</div>
+                <div className="text-sm text-gray-600">Fenced dog area, shade trees, and water stations for hot days.</div>
+              </div>
+            </Link>
+          </div>
+          <Link href="/" className="text-primary-600 font-semibold hover:underline text-sm">Browse all Austin dog parks →</Link>
+        </div>
+
         {/* Related Guides */}
         <div className="bg-white rounded-lg shadow-md p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Related Guides</h2>

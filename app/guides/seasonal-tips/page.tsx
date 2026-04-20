@@ -189,6 +189,44 @@ export default function SeasonalTips() {
           </div>
         </div>
 
+
+        {/* Featured Parks */}
+        <div className="bg-white rounded-lg shadow-md p-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">Best Parks by Season</h2>
+          <p className="text-gray-600 mb-6">Summer means shade and water. Fall and spring are perfect for anything.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+            <Link href="/parks/emma-long-metropolitan-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🏖️</span>
+              <div>
+                <div className="font-semibold text-gray-900">Emma Long Metropolitan Park</div>
+                <div className="text-sm text-gray-600">Lake Travis access with shade — a summer standout for water-loving dogs.</div>
+              </div>
+            </Link>
+            <Link href="/parks/red-bud-isle" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌿</span>
+              <div>
+                <div className="font-semibold text-gray-900">Red Bud Isle</div>
+                <div className="text-sm text-gray-600">Shaded trails and water access. Great year-round but magical in fall.</div>
+              </div>
+            </Link>
+            <Link href="/parks/auditorium-shores-off-leash-area" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌊</span>
+              <div>
+                <div className="font-semibold text-gray-900">Auditorium Shores</div>
+                <div className="text-sm text-gray-600">Open area with lake access — go early in summer, any time in spring/fall.</div>
+              </div>
+            </Link>
+            <Link href="/parks/walnut-creek-metropolitan-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌲</span>
+              <div>
+                <div className="font-semibold text-gray-900">Walnut Creek Metropolitan Park</div>
+                <div className="text-sm text-gray-600">Tree-lined trails and off-leash areas — perfect for a cool fall morning.</div>
+              </div>
+            </Link>
+          </div>
+          <Link href="/" className="text-primary-600 font-semibold hover:underline text-sm">Browse all Austin dog parks →</Link>
+        </div>
+
         {/* Related Guides */}
         <div className="bg-white rounded-lg shadow-md p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Related Guides</h2>

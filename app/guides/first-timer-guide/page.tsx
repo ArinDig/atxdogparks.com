@@ -276,6 +276,43 @@ export default function FirstTimerGuide() {
           </div>
         </div>
 
+        {/* Great Parks for First-Timers */}
+        <div className="bg-white rounded-lg shadow-md p-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">Great Parks for First-Timers</h2>
+          <p className="text-gray-600 mb-6">These parks are welcoming, well-maintained, and easy to navigate on a first visit.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+            <Link href="/parks/norwood-estate-dog-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🐕</span>
+              <div>
+                <div className="font-semibold text-gray-900">Norwood Estate Dog Park</div>
+                <div className="text-sm text-gray-600">Fenced, well-maintained, separate areas for large and small dogs.</div>
+              </div>
+            </Link>
+            <Link href="/parks/auditorium-shores-off-leash-area" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌊</span>
+              <div>
+                <div className="font-semibold text-gray-900">Auditorium Shores</div>
+                <div className="text-sm text-gray-600">Scenic Lady Bird Lake views, popular with locals, open and spacious.</div>
+              </div>
+            </Link>
+            <Link href="/parks/red-bud-isle" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌿</span>
+              <div>
+                <div className="font-semibold text-gray-900">Red Bud Isle</div>
+                <div className="text-sm text-gray-600">Off-leash island park with water access. A true Austin dog park classic.</div>
+              </div>
+            </Link>
+            <Link href="/parks/bartholomew-district-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🏞️</span>
+              <div>
+                <div className="font-semibold text-gray-900">Bartholomew District Park</div>
+                <div className="text-sm text-gray-600">Large park with dedicated off-leash area and good amenities.</div>
+              </div>
+            </Link>
+          </div>
+          <Link href="/" className="text-primary-600 font-semibold hover:underline text-sm">View all 17 Austin dog parks →</Link>
+        </div>
+
         {/* Related Guides */}
         <div className="bg-white rounded-lg shadow-md p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Continue Learning</h2>

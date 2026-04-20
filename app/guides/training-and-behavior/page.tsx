@@ -198,6 +198,44 @@ export default function TrainingAndBehavior() {
           </div>
         </div>
 
+
+        {/* Featured Parks */}
+        <div className="bg-white rounded-lg shadow-md p-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">Good Parks for Training & Socialization</h2>
+          <p className="text-gray-600 mb-6">Controlled environments with enough space and variety to practice good behavior.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+            <Link href="/parks/norwood-estate-dog-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🐕</span>
+              <div>
+                <div className="font-semibold text-gray-900">Norwood Estate Dog Park</div>
+                <div className="text-sm text-gray-600">Fenced with separate areas — ideal for controlled socialization.</div>
+              </div>
+            </Link>
+            <Link href="/parks/bartholomew-district-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🏞️</span>
+              <div>
+                <div className="font-semibold text-gray-900">Bartholomew District Park</div>
+                <div className="text-sm text-gray-600">Spacious enough to practice recall and off-leash commands safely.</div>
+              </div>
+            </Link>
+            <Link href="/parks/west-austin-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌳</span>
+              <div>
+                <div className="font-semibold text-gray-900">West Austin Park</div>
+                <div className="text-sm text-gray-600">Quieter crowd — good for dogs still learning to be comfortable around others.</div>
+              </div>
+            </Link>
+            <Link href="/parks/shoal-creek-greenbelt" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌿</span>
+              <div>
+                <div className="font-semibold text-gray-900">Shoal Creek Greenbelt</div>
+                <div className="text-sm text-gray-600">Trail-based off-leash area — great for leash-free hiking practice.</div>
+              </div>
+            </Link>
+          </div>
+          <Link href="/" className="text-primary-600 font-semibold hover:underline text-sm">Browse all Austin dog parks →</Link>
+        </div>
+
         {/* Related Guides */}
         <div className="bg-white rounded-lg shadow-md p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Related Guides</h2>

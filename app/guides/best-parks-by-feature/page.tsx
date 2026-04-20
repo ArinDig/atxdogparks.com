@@ -369,6 +369,44 @@ export default function BestParksByFeature() {
           </div>
         </section>
 
+
+        {/* Featured Parks */}
+        <div className="bg-white rounded-lg shadow-md p-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-2">Explore Austin Parks by Feature</h2>
+          <p className="text-gray-600 mb-6">Browse some of Austin's most popular parks, each with something different to offer.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
+            <Link href="/parks/red-bud-isle" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌿</span>
+              <div>
+                <div className="font-semibold text-gray-900">Red Bud Isle</div>
+                <div className="text-sm text-gray-600">Best for: water access, off-leash trails, nature.</div>
+              </div>
+            </Link>
+            <Link href="/parks/auditorium-shores-off-leash-area" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌊</span>
+              <div>
+                <div className="font-semibold text-gray-900">Auditorium Shores</div>
+                <div className="text-sm text-gray-600">Best for: open space, lake views, socializing.</div>
+              </div>
+            </Link>
+            <Link href="/parks/norwood-estate-dog-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🐕</span>
+              <div>
+                <div className="font-semibold text-gray-900">Norwood Estate Dog Park</div>
+                <div className="text-sm text-gray-600">Best for: fenced play, separate small/large dog areas.</div>
+              </div>
+            </Link>
+            <Link href="/parks/walnut-creek-metropolitan-park" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
+              <span className="text-2xl">🌲</span>
+              <div>
+                <div className="font-semibold text-gray-900">Walnut Creek Metropolitan Park</div>
+                <div className="text-sm text-gray-600">Best for: hiking, trails, active dogs who need a workout.</div>
+              </div>
+            </Link>
+          </div>
+          <Link href="/" className="text-primary-600 font-semibold hover:underline text-sm">Browse all Austin dog parks →</Link>
+        </div>
+
         {/* Related Guides */}
         <div className="bg-white rounded-lg shadow-md p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Related Guides</h2>
