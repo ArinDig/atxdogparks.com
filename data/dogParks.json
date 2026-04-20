@@ -104,7 +104,7 @@
       "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
       "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
     ],
-    "latitude": 30.3840,
+    "latitude": 30.384,
     "longitude": -97.6947
   },
   {
@@ -464,6 +464,313 @@
     ],
     "latitude": 30.3047,
     "longitude": -97.7348
+  },
+  {
+    "id": "great-northern",
+    "name": "Great Northern Dog Park",
+    "slug": "great-northern-dog-park",
+    "address": "7525 Great Northern Blvd, Austin, TX 78757",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "A neighborhood off-leash dog park in North Austin's Great Northern area, popular with locals who want a quieter alternative to the busier parks closer to downtown. The park features a fenced off-leash area with grassy open space, shaded seating, and waste bag stations. It tends to attract a friendly, regular crowd and has a relaxed neighborhood feel.",
+    "features": [
+      "Fenced off-leash area",
+      "Grassy open space",
+      "Shaded seating",
+      "Waste bag stations",
+      "Neighborhood atmosphere",
+      "Less crowded than central parks"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
+    ],
+    "latitude": 30.3851,
+    "longitude": -97.7358
+  },
+  {
+    "id": "harris-branch",
+    "name": "Harris Branch Dog Park",
+    "slug": "harris-branch-dog-park",
+    "address": "14201 Burnet Rd, Austin, TX 78728",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Located in the fast-growing Northeast Austin corridor, Harris Branch Dog Park serves the growing residential communities near Parmer Lane and Burnet Road. The park offers fenced off-leash space with open grassy areas and is a convenient option for dog owners in North Austin who want to avoid the drive to more distant parks.",
+    "features": [
+      "Fenced off-leash area",
+      "Open grassy space",
+      "Waste stations",
+      "Northeast Austin location",
+      "Convenient for Parmer Lane area",
+      "Free parking"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
+    ],
+    "latitude": 30.4285,
+    "longitude": -97.6821
+  },
+  {
+    "id": "cedar-bark",
+    "name": "Cedar Bark Dog Park at Elizabeth Milburn Park",
+    "slug": "cedar-bark-dog-park",
+    "address": "1901 Sun Chase Blvd, Cedar Park, TX 78613",
+    "phone": "(512) 401-5000",
+    "website": "https://www.cedarparktexas.gov/parks",
+    "hours": "6:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "One of the best dog parks in the Cedar Park area, located within Elizabeth Milburn Park just north of Austin. The park features separate small and large dog sections, both fully fenced with double-gate entry. Well-maintained grounds, shade trees, and water stations make it a comfortable all-year destination. Cedar Park residents love it for the consistent upkeep and active dog owner community.",
+    "features": [
+      "Separate small and large dog areas",
+      "Double-gate entry system",
+      "Water stations",
+      "Shade trees",
+      "Well-maintained grounds",
+      "Part of Elizabeth Milburn Park"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
+    ],
+    "latitude": 30.5053,
+    "longitude": -97.8224
+  },
+  {
+    "id": "round-rock-old-settlers",
+    "name": "Old Settlers Dog Park",
+    "slug": "old-settlers-dog-park",
+    "address": "3300 E Palm Valley Blvd, Round Rock, TX 78665",
+    "phone": "(512) 218-7022",
+    "website": "https://www.roundrocktexas.gov/departments/parks-and-recreation/",
+    "hours": "6:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Part of the expansive Old Settlers Park in Round Rock, this off-leash dog area is one of the most popular in the northern suburbs. The park offers a large fenced space with separate sections for small and large dogs, water stations, and plenty of room to run. Round Rock's investment in park infrastructure shows here \u2014 the facilities are well-maintained and the community is active and dog-friendly.",
+    "features": [
+      "Large fenced off-leash area",
+      "Separate small and large dog sections",
+      "Water stations",
+      "Well-maintained facilities",
+      "Part of Old Settlers Park complex",
+      "Active dog community"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.5219,
+    "longitude": -97.6471
+  },
+  {
+    "id": "steeplechase",
+    "name": "Steeplechase Park Dog Park",
+    "slug": "steeplechase-park-dog-park",
+    "address": "1800 Gattis School Rd, Round Rock, TX 78664",
+    "phone": "(512) 218-7022",
+    "website": "https://www.roundrocktexas.gov/departments/parks-and-recreation/",
+    "hours": "6:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "A neighborhood off-leash dog park in Round Rock's Steeplechase community, popular with residents in the northeast Round Rock and Pflugerville border area. The park offers fenced off-leash space with grassy terrain and is a convenient local option for dog owners in this fast-growing suburban corridor. A solid neighborhood park that doesn't require a long drive.",
+    "features": [
+      "Fenced off-leash area",
+      "Grassy terrain",
+      "Waste bag stations",
+      "Neighborhood setting",
+      "Round Rock northeast location",
+      "Free parking"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
+    ],
+    "latitude": 30.5118,
+    "longitude": -97.6312
+  },
+  {
+    "id": "falcon-point",
+    "name": "Falcon Point Dog Park",
+    "slug": "falcon-point-dog-park",
+    "address": "18500 Weiss Ln, Pflugerville, TX 78660",
+    "phone": "(512) 990-6363",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "6:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "A community dog park serving Pflugerville's Falcon Point neighborhood and surrounding areas in northeast Travis County. The park features a fenced off-leash area with open space ideal for dogs who like to run. As Pflugerville continues to grow, this park fills an important gap for dog owners in the northeast corridor who previously had to drive to Austin proper.",
+    "features": [
+      "Fenced off-leash area",
+      "Open running space",
+      "Waste stations",
+      "Pflugerville northeast location",
+      "Growing community",
+      "Free access"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
+    ],
+    "latitude": 30.4512,
+    "longitude": -97.6048
+  },
+  {
+    "id": "georgetown-bark",
+    "name": "Georgetown Bark Park",
+    "slug": "georgetown-bark-park",
+    "address": "445 E Morrow St, Georgetown, TX 78626",
+    "phone": "(512) 930-3595",
+    "website": "https://parks.georgetown.org",
+    "hours": "6:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Georgetown's dedicated off-leash dog park is a well-loved community spot in one of the fastest-growing cities near Austin. The park features separate areas for large and small dogs, both fully fenced, along with water access, shade structures, and waste bag stations. Georgetown's dog community is active and the park reflects the city's investment in quality of life amenities.",
+    "features": [
+      "Separate large and small dog areas",
+      "Fully fenced",
+      "Water access",
+      "Shade structures",
+      "Waste bag stations",
+      "Georgetown city park"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
+    ],
+    "latitude": 30.6332,
+    "longitude": -97.6779
+  },
+  {
+    "id": "garey-park",
+    "name": "Garey Park",
+    "slug": "garey-park",
+    "address": "7507 RM 2243, Georgetown, TX 78628",
+    "phone": "(512) 930-3595",
+    "website": "https://parks.georgetown.org/garey-park/",
+    "hours": "7:00 AM - 9:00 PM Daily (seasonal variation)",
+    "leashPolicy": "On-Leash Required on Trails; Off-Leash Area Available",
+    "fees": "$3/person (resident), $5/person (non-resident)",
+    "description": "A stunning 312-acre nature park on the San Gabriel River just west of Georgetown. Garey Park is more of a nature experience than a traditional dog park, but dogs are very welcome throughout. The park features miles of trails along the river, open meadows, and beautiful Hill Country scenery. There is a designated off-leash area, and the expansive grounds make for an exceptional outing for active dogs and their owners.",
+    "features": [
+      "312 acres of Hill Country landscape",
+      "San Gabriel River access",
+      "Miles of hiking trails",
+      "Designated off-leash area",
+      "Open meadows",
+      "Beautiful natural setting"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758174114-e711c0cb5c21?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
+    ],
+    "latitude": 30.6401,
+    "longitude": -97.7315
+  },
+  {
+    "id": "buda-sportsplex",
+    "name": "Buda City Park Dog Park",
+    "slug": "buda-city-park-dog-park",
+    "address": "305 S Main St, Buda, TX 78610",
+    "phone": "(512) 295-9901",
+    "website": "https://www.cityofbuda.net/parks",
+    "hours": "6:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Buda's community dog park offers fenced off-leash space in this growing suburb just south of Austin on I-35. The park serves dog owners in Buda, Kyle, and the nearby Manchaca community who want a local option without driving into Austin. Well-maintained and free to use, it's a solid neighborhood resource that reflects Buda's investment in its growing community.",
+    "features": [
+      "Fenced off-leash area",
+      "Open grassy space",
+      "Waste bag stations",
+      "South of Austin on I-35",
+      "Serves Buda and Kyle area",
+      "Free access"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.0852,
+    "longitude": -97.8413
+  },
+  {
+    "id": "bicentennial",
+    "name": "Bicentennial Park Dog Run",
+    "slug": "bicentennial-park-dog-run",
+    "address": "2100 E Howard Ln, Pflugerville, TX 78660",
+    "phone": "(512) 990-6363",
+    "website": "https://www.pflugervilletx.gov/city-departments/parks-recreation",
+    "hours": "6:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Pflugerville's Bicentennial Park includes a popular off-leash dog run area that has become a go-to for dog owners throughout the northeast suburbs. The park features fenced off-leash space alongside sports fields, playgrounds, and recreational amenities \u2014 making it a good destination for families with dogs. Pflugerville's parks system is consistently well-funded and maintained.",
+    "features": [
+      "Fenced off-leash dog run",
+      "Part of larger recreational complex",
+      "Well-maintained facilities",
+      "Pflugerville central location",
+      "Family-friendly setting",
+      "Free access"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
+    ],
+    "latitude": 30.4388,
+    "longitude": -97.6201
+  },
+  {
+    "id": "dog-house-drinkery",
+    "name": "Dog House Drinkery + Dog Park",
+    "slug": "dog-house-drinkery",
+    "address": "6219 Convict Hill Rd, Austin, TX 78749",
+    "phone": "(512) 645-4649",
+    "website": "https://www.doghousedrinkery.com",
+    "hours": "Mon-Thu 3:00 PM - 10:00 PM; Fri 3:00 PM - 11:00 PM; Sat-Sun 12:00 PM - 11:00 PM",
+    "leashPolicy": "Off-Leash in Dog Park Area",
+    "fees": "$5 dog fee (first visit), memberships available",
+    "description": "South Austin's beloved combination of craft beer bar and fenced off-leash dog park. Dog House Drinkery lets your dog run and socialize while you enjoy cold drinks in a relaxed, dog-forward atmosphere. The fenced dog area is supervised and well-maintained, with separate zones to keep play safe. A popular weekend hangout for the Oak Hill and Southwest Austin crowd, it perfectly captures Austin's dog-friendly culture.",
+    "features": [
+      "Full bar with craft beer and cocktails",
+      "Fenced off-leash dog area",
+      "Separate play zones",
+      "Supervised environment",
+      "South Austin / Oak Hill location",
+      "Membership options available"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.2247,
+    "longitude": -97.8213
   }
 ]
-
