@@ -373,7 +373,7 @@ export default function BestParksByFeature() {
         {/* Featured Parks */}
         <div className="bg-white rounded-lg shadow-md p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Explore Austin Parks by Feature</h2>
-          <p className="text-gray-600 mb-6">Browse some of Austin's most popular parks, each with something different to offer.</p>
+          <p className="text-gray-600 mb-6">Browse some of Austin&apos;s most popular parks, each with something different to offer.</p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
             <Link href="/parks/red-bud-isle" className="flex items-start gap-3 p-4 bg-primary-50 rounded-lg hover:bg-primary-100 transition-colors">
               <span className="text-2xl">🌿</span>
