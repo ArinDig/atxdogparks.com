@@ -9,6 +9,8 @@ export interface DogPark {
   leashPolicy: string;
   fees: string;
   description: string;
+  metaTitle?: string;
+  metaDescription?: string;
   features: string[];
   mainImage: string;
   images: string[];

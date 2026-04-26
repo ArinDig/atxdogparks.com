@@ -38,9 +38,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     }
   }
 
+  const metaTitle = park.metaTitle ?? `${park.name} - Austin Dog Park`
+  const metaDescription = park.metaDescription ?? park.description
+
   return {
-    title: `${park.name} - Austin Dog Park`,
-    description: park.description,
+    title: metaTitle,
+    description: metaDescription,
     keywords: [
       park.name,
       'Austin dog park',
@@ -52,8 +55,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       canonical: `https://atxdogparks.com/parks/${park.slug}`,
     },
     openGraph: {
-      title: `${park.name} - Austin Dog Park`,
-      description: park.description,
+      title: metaTitle,
+      description: metaDescription,
       type: 'website',
       url: `https://atxdogparks.com/parks/${park.slug}`,
       images: [
