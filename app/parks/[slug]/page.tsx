@@ -122,7 +122,13 @@ export default function ParkPage({ params }: PageProps) {
             {/* Description */}
             <section className="bg-white rounded-xl shadow-md p-6">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">About This Park</h2>
-              <p className="text-gray-700 leading-relaxed">{park.description}</p>
+              {park.description
+                .split(/\n\s*\n/)
+                .map((paragraph, i) => (
+                  <p key={i} className="text-gray-700 leading-relaxed mb-4 last:mb-0">
+                    {paragraph.trim()}
+                  </p>
+                ))}
             </section>
 
             {/* Features */}

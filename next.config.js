@@ -7,6 +7,14 @@ const nextConfig = {
         destination: '/blog',
         permanent: true,
       },
+      {
+        // Corrected Aug 2026: this listing described Round Rock's off-leash park but
+        // used Old Settlers Park's name and address. Old Settlers is leash-only; the
+        // actual off-leash park is Dog Depot on Deerfoot Drive.
+        source: '/parks/old-settlers-dog-park',
+        destination: '/parks/dog-depot-dog-park',
+        permanent: true,
+      },
     ]
   },
   images: {
