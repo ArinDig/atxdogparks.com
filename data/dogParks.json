@@ -558,22 +558,23 @@
   },
   {
     "id": "cedar-bark",
-    "name": "Cedar Bark Dog Park at Elizabeth Milburn Park",
+    "name": "Cedar Bark Park",
     "slug": "cedar-bark-dog-park",
-    "address": "1901 Sun Chase Blvd, Cedar Park, TX 78613",
+    "address": "2525 W New Hope Dr, Cedar Park, TX 78613",
     "phone": "(512) 401-5000",
     "website": "https://www.cedarparktexas.gov/parks",
-    "hours": "6:00 AM - 10:00 PM Daily",
+    "hours": "6:00 AM - 10:00 PM (Tue opens 3:00 PM, Fri opens 11:00 AM for maintenance)",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "One of the best dog parks in the Cedar Park area, located within Elizabeth Milburn Park just north of Austin. The park features separate small and large dog sections, both fully fenced with double-gate entry. Well-maintained grounds, shade trees, and water stations make it a comfortable all-year destination. Cedar Park residents love it for the consistent upkeep and active dog owner community.",
+    "description": "Cedar Bark Park is five fenced acres inside Veterans Memorial Park on West New Hope Drive. It is not at Elizabeth Milburn Park, which is a separate Cedar Park facility a few miles away and a common mix-up.\n\nThe draw here is water. There's a dog pond for swimming and, more unusually, dog showers on site — so the muddy retriever who just discovered the pond doesn't have to ride home that way. Drinking fountains, waste stations, and benches are spread through the grounds, and the site keeps a fair amount of natural landscape rather than being scraped flat and sodded.\n\nCheck the day before you drive over, because the maintenance schedule closes the park on two mornings a week. Tuesdays it stays shut from 7am until 3pm, and Fridays from 7am until 11am, while the city services the wash stations and clears trash. Every other day runs 6am to 10pm.\n\nCedar Park asks visitors to be diligent about picking up, and the reason is specific rather than generic: waste left near the pond ends up in the water the dogs are swimming in.",
     "features": [
-      "Separate small and large dog areas",
-      "Double-gate entry system",
-      "Water stations",
-      "Shade trees",
-      "Well-maintained grounds",
-      "Part of Elizabeth Milburn Park"
+      "5 fenced acres",
+      "Dog pond for swimming",
+      "Dog wash stations",
+      "Drinking fountains",
+      "Pet waste stations",
+      "Benches and natural landscaping",
+      "Inside Veterans Memorial Park"
     ],
     "mainImage": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
     "images": [
@@ -582,7 +583,10 @@
       "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
     ],
     "latitude": 30.5053,
-    "longitude": -97.8224
+    "longitude": -97.8224,
+    "metaTitle": "Cedar Bark Park | 5-Acre Dog Park with Pond & Showers in Cedar Park",
+    "metaDescription": "Cedar Park's 5-acre fenced dog park in Veterans Memorial Park, with a swimming pond and dog wash stations. Closed Tuesday mornings and Friday mornings for maintenance. Free.",
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "round-rock-old-settlers",
@@ -680,17 +684,17 @@
     "address": "445 E Morrow St, Georgetown, TX 78626",
     "phone": "(512) 930-3595",
     "website": "https://parks.georgetown.org",
-    "hours": "6:00 AM - 10:00 PM Daily",
+    "hours": "5:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Georgetown's dedicated off-leash dog park is a well-loved community spot in one of the fastest-growing cities near Austin. The park features separate areas for large and small dogs, both fully fenced, along with water access, shade structures, and waste bag stations. Georgetown's dog community is active and the park reflects the city's investment in quality of life amenities.",
+    "description": "Georgetown's Bark Park sits in a pecan grove on East Morrow Street, and the trees are the whole reason to choose it over a newer park. Most dog parks in the region are open turf with a couple of young shade structures. This one has mature canopy, which changes what an August afternoon feels like for everyone standing in it.\n\nThere are two fenced sections, split at 30 pounds — worth noting if your dog sits near the line, since other parks in the area draw it at 40. Both sides have drinking fountains for dogs and people, benches, trash cans, Mutt Mitt dispensers, and posted rules. There's an agility course on site for dogs that want something to do beyond laps.\n\nGates open at 5am and close at 10pm, an hour earlier on the front end than most Williamson County parks. Parking is on site. For maintenance issues or questions, Georgetown Parks and Recreation takes calls at 512-930-3595.\n\nGeorgetown is roughly 30 minutes north of central Austin, so this is a destination park for most Austin residents and a neighborhood one for anyone in Williamson County. The pecan shade makes the drive more defensible in summer than it would be otherwise.",
     "features": [
-      "Separate large and small dog areas",
-      "Fully fenced",
-      "Water access",
-      "Shade structures",
-      "Waste bag stations",
-      "Georgetown city park"
+      "Mature pecan grove shade",
+      "Separate large and small dog areas (30 lb split)",
+      "Agility course",
+      "Drinking fountains for dogs and people in both areas",
+      "Benches and Mutt Mitt stations",
+      "On-site parking"
     ],
     "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
     "images": [
@@ -699,7 +703,10 @@
       "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
     ],
     "latitude": 30.6332,
-    "longitude": -97.6779
+    "longitude": -97.6779,
+    "metaTitle": "Georgetown Bark Park | Shaded Off-Leash Dog Park in a Pecan Grove",
+    "metaDescription": "Georgetown's free off-leash dog park on E Morrow St, set in a mature pecan grove. Separate large and small dog areas (30 lb split), agility course, water fountains. Open 5am-10pm.",
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "garey-park",
