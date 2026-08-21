@@ -337,7 +337,7 @@ export default function BestParksByFeature() {
             <div className="bg-purple-50 p-6 rounded-lg">
               <h3 className="text-xl font-bold text-gray-900 mb-3">For Social Butterflies</h3>
               <p className="text-gray-700 mb-3">Popular parks with consistent crowds and lots of playmates.</p>
-              <p className="text-gray-700 font-semibold">Top Picks: Yard Bar (private, admission fee), Auditorium Shores, Zilker</p>
+              <p className="text-gray-700 font-semibold">Top Picks: Dog House Drinkery (private, admission fee), Auditorium Shores, Zilker</p>
             </div>
           </div>
         </section>

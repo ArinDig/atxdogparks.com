@@ -113,7 +113,8 @@
       "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
     ],
     "latitude": 30.384,
-    "longitude": -97.6947
+    "longitude": -97.6947,
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "norwood-estate",
@@ -141,8 +142,9 @@
       "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
       "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
     ],
-    "latitude": 30.2564,
-    "longitude": -97.7647
+    "latitude": 30.2493,
+    "longitude": -97.7393,
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "shoal-creek",
@@ -169,7 +171,8 @@
       "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
     ],
     "latitude": 30.2942,
-    "longitude": -97.7447
+    "longitude": -97.7447,
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "mary-moore-searight",
@@ -317,36 +320,6 @@
     "metaTitle": "West Austin Park Dog Park | Fenced Off-Leash Area in Clarksville",
     "metaDescription": "Fenced off-leash area at West Austin Park in Clarksville. Dogs must stay leashed elsewhere in the park. Wading pool, playscape and 1930s bathhouse on site. Free, open 5am-10pm daily.",
     "lastUpdated": "2026-08-21"
-  },
-  {
-    "id": "yard-bar",
-    "name": "Yard Bar",
-    "slug": "yard-bar",
-    "address": "6700 Burnet Rd, Austin, TX 78757",
-    "phone": "(512) 900-3354",
-    "website": "https://yardbar.com",
-    "hours": "11:00 AM - 12:00 AM Daily",
-    "leashPolicy": "Off-Leash in Dog Park Area",
-    "fees": "$10-20 (Day Pass or Membership Required)",
-    "metaTitle": "Yard Bar Austin | Dog-Friendly Bar with Off-Leash Dog Park on Burnet Rd",
-    "metaDescription": "Austin's only dog-friendly bar with an off-leash dog park — Yard Bar on Burnet Road has agility equipment, craft cocktails, and food. Day passes $10–20. Open daily 11am–midnight.",
-    "description": "Austin's only bar-meets-dog-park — Yard Bar on Burnet Rd lets your dog roam a supervised off-leash area with agility equipment while you enjoy craft cocktails and food. Open daily 11am–midnight. Day passes $10–20, memberships available.",
-    "features": [
-      "Bar and restaurant on site",
-      "Professional agility equipment",
-      "Park attendants",
-      "Spacious off-leash area",
-      "Day passes and memberships available",
-      "Food and craft cocktails"
-    ],
-    "mainImage": "/blog/images/Yard_Barn-1.png",
-    "images": [
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
-    ],
-    "latitude": 30.3373,
-    "longitude": -97.7411
   },
   {
     "id": "onion-creek",
@@ -719,22 +692,23 @@
     "lastUpdated": "2026-08-21"
   },
   {
-    "id": "buda-sportsplex",
-    "name": "Buda City Park Dog Park",
-    "slug": "buda-city-park-dog-park",
-    "address": "305 S Main St, Buda, TX 78610",
-    "phone": "(512) 295-9901",
-    "website": "https://www.cityofbuda.net/parks",
-    "hours": "6:00 AM - 10:00 PM Daily",
+    "id": "stagecoach-park",
+    "name": "Historic Stagecoach Park Dog Park",
+    "slug": "stagecoach-park-dog-park",
+    "address": "405 E. Loop St, Building 100, Buda, TX 78610",
+    "phone": "(512) 295-7170",
+    "website": "https://www.budatx.gov/291/Historic-Stagecoach-Park",
+    "hours": "6:00 AM - 9:00 PM (Mar 1-Sep 30); 6:00 AM - 7:00 PM (Oct 1-Feb 28)",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Buda's community dog park offers fenced off-leash space in this growing suburb just south of Austin on I-35. The park serves dog owners in Buda, Kyle, and the nearby Manchaca community who want a local option without driving into Austin. Well-maintained and free to use, it's a solid neighborhood resource that reflects Buda's investment in its growing community.",
+    "description": "Buda's off-leash dog park relocated here from the old Sportsplex site in January 2026, after the city closed that location in August 2025 to build out the new grounds on the east side of Historic Stagecoach Park. It's a straightforward setup: a small-dog yard for dogs under 30 pounds and a separate large-dog yard, both fenced, with a water source and benches and picnic tables for owners.\n\nHours shift with daylight — 6am to 9pm from March through September, 6am to 7pm the rest of the year. Because it shares the grounds with Stagecoach Park's pavilion, amphitheater, playground, and trail system, it's easy to turn a dog park stop into a longer outing if the weather's decent.\n\nWorth knowing if you used the old Sportsplex location: that dog park is gone, not just renamed. This is a new build in a different part of town, on the east side of the historic park property off Main Street.",
     "features": [
-      "Fenced off-leash area",
-      "Open grassy space",
-      "Waste bag stations",
-      "South of Austin on I-35",
-      "Serves Buda and Kyle area",
+      "Separate small-dog and large-dog yards",
+      "Fully fenced",
+      "Water source on site",
+      "Benches and picnic tables",
+      "Seasonal hours (daylight-based)",
+      "Shares grounds with Stagecoach Park trails and pavilion",
       "Free access"
     ],
     "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
@@ -743,27 +717,31 @@
       "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
       "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
     ],
-    "latitude": 30.0852,
-    "longitude": -97.8413
+    "latitude": 30.0819,
+    "longitude": -97.8347,
+    "metaTitle": "Historic Stagecoach Park Dog Park — Buda's Off-Leash Park | ATX Dog Parks",
+    "metaDescription": "Buda's off-leash dog park moved to Historic Stagecoach Park in January 2026, with separate small- and large-dog yards. Free, seasonal hours, water access, benches.",
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "dog-house-drinkery",
-    "name": "Dog House Drinkery + Dog Park",
+    "name": "Dog House Drinkery & Dog Park",
     "slug": "dog-house-drinkery",
-    "address": "6219 Convict Hill Rd, Austin, TX 78749",
-    "phone": "(512) 645-4649",
-    "website": "https://www.doghousedrinkery.com",
-    "hours": "Mon-Thu 3:00 PM - 10:00 PM; Fri 3:00 PM - 11:00 PM; Sat-Sun 12:00 PM - 11:00 PM",
+    "address": "3800 County Road 175, Leander, TX 78641",
+    "phone": "(512) 291-6664",
+    "website": "https://www.doghousedrinkery.com/dog-house-park-home",
+    "hours": "Mon Closed; Tue-Thu 3:00 PM - 9:00 PM; Fri 3:00 PM - 10:00 PM; Sat 12:00 PM - 10:00 PM; Sun 12:00 PM - 9:00 PM",
     "leashPolicy": "Off-Leash in Dog Park Area",
-    "fees": "$5 dog fee (first visit), memberships available",
-    "description": "South Austin's beloved combination of craft beer bar and fenced off-leash dog park. Dog House Drinkery lets your dog run and socialize while you enjoy cold drinks in a relaxed, dog-forward atmosphere. The fenced dog area is supervised and well-maintained, with separate zones to keep play safe. A popular weekend hangout for the Oak Hill and Southwest Austin crowd, it perfectly captures Austin's dog-friendly culture.",
+    "fees": "$8 day pass, $200/year membership (+$50 per additional dog)",
+    "description": "Central Texas' original off-leash dog park bar, running since 2013 — Dog House Drinkery sits in Leander, about 25 minutes north of downtown Austin, not in South Austin as its name might suggest to anyone going off memory. The dog area is a fenced half-acre yard with park monitors on duty, attached to a full bar with beer, wine, and seltzers plus shaded patio seating.\n\nIt's closed Mondays (aside from occasional special events), then open Tuesday through Sunday with a $8 day pass or a $200 annual membership that covers one dog (additional dogs are $50/year each). Bring a copy of your dog's vaccination records — digital, tag, or paper all work, but they check.\n\nThe crowd draws from Leander, Cedar Park, Round Rock, and Liberty Hill as much as Austin proper, so plan on the drive if you're coming from central or south Austin.",
     "features": [
-      "Full bar with craft beer and cocktails",
-      "Fenced off-leash dog area",
-      "Separate play zones",
-      "Supervised environment",
-      "South Austin / Oak Hill location",
-      "Membership options available"
+      "Fully fenced half-acre off-leash yard",
+      "Full bar with beer, wine, and seltzers",
+      "Shaded patio seating",
+      "Trained park monitors on site",
+      "Day pass or annual membership",
+      "Weekly events (trivia, themed nights)",
+      "Vaccination records required at entry"
     ],
     "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
     "images": [
@@ -771,7 +749,10 @@
       "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
       "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
     ],
-    "latitude": 30.2247,
-    "longitude": -97.8213
+    "latitude": 30.552,
+    "longitude": -97.7653,
+    "metaTitle": "Dog House Drinkery & Dog Park — Leander's Off-Leash Bar | ATX Dog Parks",
+    "metaDescription": "Dog House Drinkery & Dog Park in Leander is Central Texas' original off-leash dog park bar — fenced half-acre yard, full bar, open Tue-Sun. $8 day pass or annual membership.",
+    "lastUpdated": "2026-08-21"
   }
 ]

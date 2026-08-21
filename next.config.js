@@ -36,6 +36,21 @@ const nextConfig = {
         destination: '/parks/dog-depot-dog-park',
         permanent: true,
       },
+      {
+        // Corrected Aug 2026: Buda's dog park relocated from the old Sportsplex
+        // (closed Aug 2025) to Historic Stagecoach Park, opened Jan 17, 2026.
+        // Slug and address updated to match; old slug preserved as a redirect.
+        source: '/parks/buda-city-park-dog-park',
+        destination: '/parks/stagecoach-park-dog-park',
+        permanent: true,
+      },
+      {
+        // Removed Aug 2026: Yard Bar (Burnet Rd) permanently closed May 30, 2026
+        // after 11 years in business. No replacement listing.
+        source: '/parks/yard-bar',
+        destination: '/parks',
+        permanent: true,
+      },
     ]
   },
   images: {
