@@ -530,22 +530,22 @@
   },
   {
     "id": "harris-branch",
-    "name": "Harris Branch Dog Park",
-    "slug": "harris-branch-dog-park",
-    "address": "14201 Burnet Rd, Austin, TX 78728",
-    "phone": "(512) 974-6700",
+    "name": "Harris Ridge Dog Park",
+    "slug": "harris-ridge-dog-park",
+    "address": "14400 Harris Ridge Blvd, Pflugerville, TX 78660",
+    "phone": "(512) 716-0759",
     "website": "https://www.austintexas.gov/page/park-directory",
-    "hours": "5:00 AM - 10:00 PM Daily",
+    "hours": "Dawn to dusk",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Located in the fast-growing Northeast Austin corridor, Harris Branch Dog Park serves the growing residential communities near Parmer Lane and Burnet Road. The park offers fenced off-leash space with open grassy areas and is a convenient option for dog owners in North Austin who want to avoid the drive to more distant parks.",
+    "description": "Harris Ridge Dog Park is fully fenced with separate, secured areas for large and small dogs, plus agility equipment, tables, and chairs — a more furnished setup than most neighborhood parks in the northern suburbs, with drinking water available for dogs on site.\n\nOne practical difference from a city park: this one is run by the Northtown Municipal Utility District rather than a parks department. Questions and maintenance issues go to the MUD at (512) 716-0759 or manager@northtownmud.org, not to Pflugerville or Austin Parks and Recreation.\n\nHours run dawn to dusk rather than a fixed clock, so the usable window shrinks noticeably in winter. In June and July, dawn is the only comfortable time to be here anyway — the agility area gets full sun.\n\nYou'll find it on Harris Ridge Boulevard, just off I-35 near the Pflugerville and North Austin line, which makes it a reasonable stop for anyone commuting that corridor.",
     "features": [
-      "Fenced off-leash area",
-      "Open grassy space",
-      "Waste stations",
-      "Northeast Austin location",
-      "Convenient for Parmer Lane area",
-      "Free parking"
+      "Fully fenced",
+      "Separate secured large and small dog areas",
+      "Agility equipment",
+      "Tables and chairs",
+      "Dog drinking water",
+      "Managed by Northtown MUD"
     ],
     "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
     "images": [
@@ -554,7 +554,10 @@
       "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
     ],
     "latitude": 30.4285,
-    "longitude": -97.6821
+    "longitude": -97.6821,
+    "metaTitle": "Harris Ridge Dog Park Pflugerville | Fenced Off-Leash Park with Agility Equipment",
+    "metaDescription": "Fully fenced off-leash park on Harris Ridge Blvd with separate large and small dog areas, agility equipment, seating and water. Open dawn to dusk. Run by Northtown MUD.",
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "cedar-bark",
@@ -622,51 +625,23 @@
     "lastUpdated": "2026-08-21"
   },
   {
-    "id": "steeplechase",
-    "name": "Steeplechase Park Dog Park",
-    "slug": "steeplechase-park-dog-park",
-    "address": "1800 Gattis School Rd, Round Rock, TX 78664",
-    "phone": "(512) 218-7022",
-    "website": "https://www.roundrocktexas.gov/departments/parks-and-recreation/",
-    "hours": "6:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "A neighborhood off-leash dog park in Round Rock's Steeplechase community, popular with residents in the northeast Round Rock and Pflugerville border area. The park offers fenced off-leash space with grassy terrain and is a convenient local option for dog owners in this fast-growing suburban corridor. A solid neighborhood park that doesn't require a long drive.",
-    "features": [
-      "Fenced off-leash area",
-      "Grassy terrain",
-      "Waste bag stations",
-      "Neighborhood setting",
-      "Round Rock northeast location",
-      "Free parking"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
-    ],
-    "latitude": 30.5118,
-    "longitude": -97.6312
-  },
-  {
     "id": "falcon-point",
-    "name": "Falcon Point Dog Park",
+    "name": "Falcon Pointe Garden and Bark Park",
     "slug": "falcon-point-dog-park",
-    "address": "18500 Weiss Ln, Pflugerville, TX 78660",
+    "address": "19417 Murchison Ridge Trail, Pflugerville, TX 78660",
     "phone": "(512) 990-6363",
     "website": "https://www.austintexas.gov/page/park-directory",
     "hours": "6:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "A community dog park serving Pflugerville's Falcon Point neighborhood and surrounding areas in northeast Travis County. The park features a fenced off-leash area with open space ideal for dogs who like to run. As Pflugerville continues to grow, this park fills an important gap for dog owners in the northeast corridor who previously had to drive to Austin proper.",
+    "description": "Falcon Pointe's bark park is attached to a demonstration garden, which makes it the odd one out among Pflugerville's off-leash options and the more interesting place to spend an hour.\n\nThe dog side is straightforward: 2.65 fenced acres split into separate small and large areas, with a watering station and large boulders set with built-in seating — a nicer solution than the usual scattered plastic chairs, and cooler to sit on in shade.\n\nWhat surrounds it is the unusual part. The grounds hold a village of purple martin houses, pear trees, and a set of themed demonstration gardens: rain, culinary, medicinal, butterfly and hummingbird, and native plantings. There's also a moon garden planted specifically for evening visits, built around fragrant white flowers that show up after dark. If you walk your dog at dusk in summer because the afternoon is unbearable, that last detail is more useful than it sounds.\n\nOpen 6am to 10pm. It sits off Murchison Ridge Trail in the Falcon Pointe neighborhood, on Pflugerville's east side.",
     "features": [
-      "Fenced off-leash area",
-      "Open running space",
-      "Waste stations",
-      "Pflugerville northeast location",
-      "Growing community",
-      "Free access"
+      "2.65 fenced acres",
+      "Separate small and large dog areas",
+      "Boulders with built-in seating",
+      "Dog watering area",
+      "Purple martin houses",
+      "Demonstration gardens including a moon garden"
     ],
     "mainImage": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
     "images": [
@@ -675,7 +650,10 @@
       "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
     ],
     "latitude": 30.4512,
-    "longitude": -97.6048
+    "longitude": -97.6048,
+    "metaTitle": "Falcon Pointe Bark Park Pflugerville | Fenced Dog Park & Demonstration Gardens",
+    "metaDescription": "Pflugerville's Falcon Pointe bark park: 2.65 fenced acres with separate small and large dog areas, boulder seating, purple martin houses and themed gardens. Open 6am-10pm. Free.",
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "georgetown-bark",
@@ -712,20 +690,21 @@
     "id": "garey-park",
     "name": "Garey Park",
     "slug": "garey-park",
-    "address": "7507 RM 2243, Georgetown, TX 78628",
+    "address": "6450 RM 2243, Georgetown, TX 78628",
     "phone": "(512) 930-3595",
     "website": "https://parks.georgetown.org/garey-park/",
-    "hours": "7:00 AM - 9:00 PM Daily (seasonal variation)",
+    "hours": "8:00 AM - 8:00 PM (Apr 1 - Sep 30); 8:00 AM - 6:00 PM (Oct 1 - Mar 31)",
     "leashPolicy": "On-Leash Required on Trails; Off-Leash Area Available",
-    "fees": "$3/person (resident), $5/person (non-resident)",
-    "description": "A stunning 312-acre nature park on the San Gabriel River just west of Georgetown. Garey Park is more of a nature experience than a traditional dog park, but dogs are very welcome throughout. The park features miles of trails along the river, open meadows, and beautiful Hill Country scenery. There is a designated off-leash area, and the expansive grounds make for an exceptional outing for active dogs and their owners.",
+    "fees": "$5/vehicle resident, $10/vehicle non-resident (up to 2 people); free Tuesdays Oct-Mar",
+    "description": "Garey Park's off-leash area is called the Dog Ranch, and it earns the name. Over four fenced acres of natural terrain rather than mown turf — brush, uneven ground, real cover — with separate enclosures for small and large dogs. For a dog that finds flat rectangles boring, this is a different kind of outing.\n\nFive shaded picnic shelters sit inside the fence, with water stations and dog-height drinking fountains. The shelters matter more here than at a neighborhood park, because most people stay longer than the usual twenty minutes.\n\nThe Dog Ranch is one piece of a 525-acre former ranch on the South San Gabriel River, donated to Georgetown and opened to the public. Trails run down toward the water, there's fishing when the river is up, and 4.68 miles of equestrian trail if you ride. It sits about 6.5 miles west of I-35 on RM 2243.\n\nTwo things separate it from everything else in this directory. It charges admission, and the fee is per vehicle rather than per person: $5 for Georgetown residents and $10 for non-residents, covering a driver and one passenger, with each additional person $2. Annual passes run $100 resident and $150 non-resident. And from October through March, entry is free on Tuesdays — the cheapest way to see whether the drive is worth it.\n\nHours shift with the season: 8am to 8pm from April through September, 8am to 6pm from October through March. Nobody is admitted within 30 minutes of closing, and the park shuts on Thanksgiving, Christmas Eve and Christmas Day.",
     "features": [
-      "312 acres of Hill Country landscape",
-      "San Gabriel River access",
-      "Miles of hiking trails",
-      "Designated off-leash area",
-      "Open meadows",
-      "Beautiful natural setting"
+      "Over 4 fenced acres of natural terrain",
+      "Separate small and large dog areas",
+      "5 shaded picnic shelters inside the fence",
+      "Dog-height drinking fountains",
+      "Part of a 525-acre river park",
+      "Free entry Tuesdays October-March",
+      "Trails, fishing and equestrian access"
     ],
     "mainImage": "https://images.unsplash.com/photo-1574063975800-8f99e5b04bf0?w=800&q=80",
     "images": [
@@ -734,7 +713,10 @@
       "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
     ],
     "latitude": 30.6401,
-    "longitude": -97.7315
+    "longitude": -97.7315,
+    "metaTitle": "Garey Park Dog Ranch Georgetown | 4-Acre Off-Leash Park on the San Gabriel",
+    "metaDescription": "The Dog Ranch at Garey Park: 4+ fenced acres of natural terrain, separate small and large dog areas, 5 shaded shelters. $5/vehicle resident, $10 non-resident. Free Tuesdays Oct-Mar.",
+    "lastUpdated": "2026-08-21"
   },
   {
     "id": "buda-sportsplex",
@@ -763,34 +745,6 @@
     ],
     "latitude": 30.0852,
     "longitude": -97.8413
-  },
-  {
-    "id": "bicentennial",
-    "name": "Bicentennial Park Dog Run",
-    "slug": "bicentennial-park-dog-run",
-    "address": "2100 E Howard Ln, Pflugerville, TX 78660",
-    "phone": "(512) 990-6363",
-    "website": "https://www.pflugervilletx.gov/city-departments/parks-recreation",
-    "hours": "6:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "Pflugerville's Bicentennial Park includes a popular off-leash dog run area that has become a go-to for dog owners throughout the northeast suburbs. The park features fenced off-leash space alongside sports fields, playgrounds, and recreational amenities — making it a good destination for families with dogs. Pflugerville's parks system is consistently well-funded and maintained.",
-    "features": [
-      "Fenced off-leash dog run",
-      "Part of larger recreational complex",
-      "Well-maintained facilities",
-      "Pflugerville central location",
-      "Family-friendly setting",
-      "Free access"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
-    ],
-    "latitude": 30.4388,
-    "longitude": -97.6201
   },
   {
     "id": "dog-house-drinkery",

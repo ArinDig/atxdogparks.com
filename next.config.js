@@ -15,6 +15,27 @@ const nextConfig = {
         destination: '/parks/dog-depot-dog-park',
         permanent: true,
       },
+      {
+        // Corrected Aug 2026: entry was "Harris Branch Dog Park" at an Austin address
+        // that does not exist. The real park is Harris Ridge in Pflugerville.
+        source: '/parks/harris-branch-dog-park',
+        destination: '/parks/harris-ridge-dog-park',
+        permanent: true,
+      },
+      {
+        // Removed Aug 2026: Pflugerville has two off-leash parks (Harris Ridge and
+        // Falcon Pointe). Bicentennial Park exists but has no dog park.
+        source: '/parks/bicentennial-park-dog-run',
+        destination: '/parks',
+        permanent: true,
+      },
+      {
+        // Removed Aug 2026: no dog park at Steeplechase Park in Round Rock. The
+        // Steeplechase dog park is in College Station; Round Rock's is Dog Depot.
+        source: '/parks/steeplechase-park-dog-park',
+        destination: '/parks/dog-depot-dog-park',
+        permanent: true,
+      },
     ]
   },
   images: {
