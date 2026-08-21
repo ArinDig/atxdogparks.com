@@ -16,5 +16,8 @@ export interface DogPark {
   images: string[];
   latitude: number;
   longitude: number;
+  /** ISO date (YYYY-MM-DD) of the last real content change. Feeds sitemap lastmod.
+   *  Set this when a park's content is actually updated; leave unset otherwise. */
+  lastUpdated?: string;
 }
 

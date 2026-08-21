@@ -15,8 +15,8 @@ export default function Header() {
           </Link>
           
           <div className="flex items-center space-x-6">
-            <Link 
-              href="/" 
+            <Link
+              href="/parks"
               className="hover:text-primary-100 transition-colors font-medium"
             >
               Parks

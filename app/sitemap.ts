@@ -10,10 +10,14 @@ const blogArticles = blogArticlesData as BlogArticle[]
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://atxdogparks.com'
 
+  // lastModified is intentionally omitted unless a park has a real `lastUpdated`
+  // date in dogParks.json. Reporting the build time as the modification date for
+  // every page teaches Google the lastmod signal is unreliable, and it starts
+  // ignoring it. Set `lastUpdated` on a park when its content actually changes.
   const parkUrls = dogParks.map((park) => ({
     url: `${baseUrl}/parks/${park.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
+    ...(park.lastUpdated ? { lastModified: new Date(park.lastUpdated) } : {}),
+    changeFrequency: 'monthly' as const,
     priority: 0.8,
   }))
 
@@ -27,91 +31,81 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
       url: baseUrl,
-      lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 1,
     },
     {
+      url: `${baseUrl}/parks`,
+      changeFrequency: 'weekly',
+      priority: 0.95,
+    },
+    {
       url: `${baseUrl}/guides`,
-      lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.95,
     },
     {
       url: `${baseUrl}/guides/dog-park-safety`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/guides/first-timer-guide`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/guides/dog-park-etiquette`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/guides/training-and-behavior`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/guides/seasonal-tips`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/guides/best-parks-by-feature`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/blog`,
-      lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
       url: `${baseUrl}/gear`,
-      lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.8,
     },
     {
       url: `${baseUrl}/faq`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     },
     {
       url: `${baseUrl}/about`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },
     {
       url: `${baseUrl}/contact`,
-      lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.6,
     },
     {
       url: `${baseUrl}/privacy`,
-      lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
     {
       url: `${baseUrl}/terms`,
-      lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.3,
     },
