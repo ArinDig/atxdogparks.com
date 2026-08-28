@@ -377,6 +377,12 @@ export default function ParkPage({ params }: PageProps) {
                 )}
               </div>
             </div>
+
+            {/* Compact gear in the sidebar - visible without scrolling past the
+                full park writeup, which is where the detailed block below sits. */}
+            <div className="mt-6">
+              <GearRecommendations parkType={getParkGearVariant(park)} compact />
+            </div>
           </div>
         </div>
 
