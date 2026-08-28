@@ -411,6 +411,31 @@ export default function ParkPage({ params }: PageProps) {
               </div>
             </Link>
           </div>
+
+          <h3 className="text-lg font-bold text-gray-900 mb-4">From the Blog</h3>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            <Link href="/blog/choosing-park-by-personality" className="flex items-start p-4 bg-gray-50 border border-gray-200 rounded-lg hover:border-primary-400 hover:shadow-sm transition-all">
+              <span className="text-2xl mr-3">🐕</span>
+              <div>
+                <div className="font-semibold text-gray-800">Choosing a Park by Personality</div>
+                <div className="text-sm text-gray-600">Match your dog&apos;s energy and temperament to the right Austin park.</div>
+              </div>
+            </Link>
+            <Link href="/blog/dog-park-safety-tips" className="flex items-start p-4 bg-gray-50 border border-gray-200 rounded-lg hover:border-primary-400 hover:shadow-sm transition-all">
+              <span className="text-2xl mr-3">✅</span>
+              <div>
+                <div className="font-semibold text-gray-800">Dog Park Safety Tips</div>
+                <div className="text-sm text-gray-600">Expert-approved habits for a safer visit, every time.</div>
+              </div>
+            </Link>
+            <Link href="/blog/essential-dog-park-gear-austin" className="flex items-start p-4 bg-gray-50 border border-gray-200 rounded-lg hover:border-primary-400 hover:shadow-sm transition-all">
+              <span className="text-2xl mr-3">🎒</span>
+              <div>
+                <div className="font-semibold text-gray-800">9 Must-Have Gear Items</div>
+                <div className="text-sm text-gray-600">What to pack for a comfortable trip to any Austin dog park.</div>
+              </div>
+            </Link>
+          </div>
         </div>
 
         {/* Back to All Parks */}
