@@ -3,6 +3,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import dogParksData from '@/data/dogParks.json'
 import { DogPark } from '@/types/dogPark'
+import GearRecommendations from '@/components/GearRecommendations'
+import { getParkGearVariant } from '@/lib/parkGearVariant'
 import { 
   FaMapMarkerAlt, 
   FaClock, 
@@ -376,6 +378,11 @@ export default function ParkPage({ params }: PageProps) {
               </div>
             </div>
           </div>
+        </div>
+
+        {/* Park-specific gear */}
+        <div className="mt-12">
+          <GearRecommendations parkType={getParkGearVariant(park)} />
         </div>
 
         {/* Related Guides */}
