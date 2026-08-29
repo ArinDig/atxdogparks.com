@@ -596,25 +596,31 @@
     "hours": "5:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash Trail Available",
     "fees": "Free",
-    "description": "Mary Moore Searight is one of the few Austin parks with a dedicated off-leash trail rather than a fenced pen. The loop runs a little over a mile through the north end of the park, on natural surface through cedar scrub and live oak, with a shallow creek crossing partway round that most dogs will stand in rather than swim.\n\nThe off-leash section is reached from 1st Street, south of Slaughter Lane. That matters, because navigating to the park's main Slaughter Lane address puts you at a different entrance with a fair walk to the dog trail.\n\nThe loop is marked but not fenced. Dogs need to be under voice control, and the trail has enough tree cover and bends that a dog fifty yards ahead is genuinely out of sight. The upside of the same feature is that this doesn't have the penned-in intensity of a small fenced run — dogs walk rather than mill around, which suits a lot of dogs better than a crowded enclosure does.\n\nIt's noticeably quieter than the central Austin parks. If your dog gets overwhelmed in a pack, or you'd rather not spend the visit managing introductions, the difference in atmosphere here is the main reason to make the drive south.\n\nThere's no water at the off-leash trailhead, so bring your own — the creek is not a drinking source, particularly after rain moves street runoff through it. Parking at the trailhead is free and rarely full, even at weekends.\n\nBeyond the dog loop the park has miles of additional on-leash trail, a disc golf course and sports fields, so it's easy to extend the visit. Summer afternoons the shaded stretches of the loop do real work, but the open sections are exposed; mornings are the sensible window from June through September.\n\nBecause the loop is unfenced rather than enclosed, the city's off-leash conditions matter more than usual: sight and sound control at all times, leashed on the way in and out, no dogs in heat, current rabies vaccination, and waste carried out to a bin.",
+    "description": "Mary Moore Searight is one of the few Austin parks with a dedicated off-leash trail rather than a fenced pen. The loop runs a little over a mile through the north end of the park, on natural surface through cedar scrub and live oak, with a shallow creek crossing partway round that most dogs will stand in rather than swim.\n\nThe off-leash section is reached from 1st Street, south of Slaughter Lane. That matters, because navigating to the park's main Slaughter Lane address puts you at a different entrance with a fair walk to the dog trail.\n\nThe loop is marked but not fenced. Dogs need to be under voice control, and the trail has enough tree cover and bends that a dog fifty yards ahead is genuinely out of sight. The upside of the same feature is that this doesn't have the penned-in intensity of a small fenced run — dogs walk rather than mill around, which suits a lot of dogs better than a crowded enclosure does.\n\nIt's noticeably quieter than the central Austin parks. If your dog gets overwhelmed in a pack, or you'd rather not spend the visit managing introductions, the difference in atmosphere here is the main reason to make the drive south.\n\nThere's no water at the off-leash trailhead, so bring your own — the creek is not a drinking source, particularly after rain moves street runoff through it. Parking at the trailhead is free and rarely full, even at weekends.\n\nBeyond the dog loop the park has miles of additional on-leash trail, a disc golf course and sports fields, so it's easy to extend the visit. Summer afternoons the shaded stretches of the loop do real work, but the open sections are exposed; mornings are the sensible window from June through September.\n\nBecause the loop is unfenced rather than enclosed, the city's off-leash conditions matter more than usual: sight and sound control at all times, leashed on the way in and out, no dogs in heat, current rabies vaccination, and waste carried out to a bin.\n\nTwo things the photographs add. First, the wildflowers are not incidental — the park posts \"Wildflower Area, No Mowing\" markers over sections of meadow, so the displays are deliberately managed rather than a lucky year. In a good spring the bluebonnets come in thick enough to carpet whole clearings, and by late summer the trailsides turn over to Maximilian sunflowers and Indian blanket. If you only visit once, March or April is the visit.\n\nSecond, this is genuinely cedar-and-oak country rather than mown parkland. The trail runs as crushed granite in the developed sections and packed dirt further out, threading between Ashe juniper and live oak with cut deadfall stacked along the edges. It opens periodically onto low rises with long views south across the hill country. In winter the same ground reads very differently — bare, grey and quiet, with the leaf litter down and the structure of the scrub exposed.\n\nThe trailhead carries a full Austin Parks board for the Slaughter Creek Greenbelt Trail, with a map, posted hours and the usual rules pictograms, plus a community noticeboard beside it. Worth a glance on arrival: the greenbelt trail network connects onward from here, so it is easy to extend a loop into a much longer walk than you intended.",
     "features": [
       "Off-leash loop trail, a little over a mile",
       "Shallow stream for cooling off",
       "Natural wooded areas",
       "Less crowded atmosphere",
-      "Ample parking"
+      "Ample parking",
+      "Managed wildflower meadows (bluebonnets in spring)",
+      "Crushed granite and packed dirt trail",
+      "Ashe juniper and live oak scrub",
+      "Long views south over the hill country",
+      "Connects to the Slaughter Creek Greenbelt Trail",
+      "Trailhead board with map and posted hours"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=800&q=80",
+    "mainImage": "/blog/images/Searight-7.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+      "/blog/images/Searight-3.jpg",
+      "/blog/images/Searight-4.jpg",
+      "/blog/images/Searight-1.jpg"
     ],
     "latitude": 30.1929,
     "longitude": -97.8223,
     "metaTitle": "Mary Moore Searight Metropolitan Park — Off-Leash Loop Trail South Austin | ATX Dog Parks",
     "metaDescription": "Mary Moore Searight has a 1-mile off-leash loop trail with creek access in South Austin near Slaughter Lane. Less crowded than central parks. Dogs need reliable recall — unfenced.",
-    "lastUpdated": "2026-08-28"
+    "lastUpdated": "2026-08-29"
   },
   {
     "id": "northtown-dog-park",
