@@ -427,7 +427,7 @@
     "hours": "5:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Great Northern Dog Park is a fenced off-leash area in Allandale, tucked behind the houses off Great Northern Boulevard in north-central Austin. Its formal name on city documents is the Great Northern Detention Basin Off-Leash Area, and that is not just bureaucratic phrasing — the park is a stormwater detention basin that doubles as a dog park, which explains almost everything about the way it looks and behaves.\n\nThe practical consequence is space. This is a wide, open, grassy bowl rather than a small pen, with walking paths around it, so dogs get room to actually run rather than circle. It also means the ground is engineered to hold water, so after heavy rain sections of it are genuinely soggy and the low ground near the pond stays wet longer than you would expect.\n\nBe realistic about what is not here. There are no drinking fountains, so bring water for your dog and yourself, and there is little in the way of shaded seating — the tree cover around the edges is thin and the middle is fully exposed. From June through September that combination makes this an early morning or evening park rather than a midday one. Waste bag stations are provided, and parking is free with wheelchair accessible entrances.\n\nThe retention pond is a feature people either like or avoid. Dogs will go in it. It is stormwater rather than a spring-fed creek, so what is in it depends on what has washed off the surrounding streets recently, and it is not somewhere to let a dog drink.\n\nThe crowd is a neighborhood one drawn from Allandale and Crestview rather than across the city, which keeps it calmer than the destination parks. For anyone in north-central Austin it is a reasonable everyday option, provided you bring your own water and pick your hour in summer.",
+    "description": "Great Northern Dog Park is a fenced off-leash area in Allandale, tucked behind the houses off Great Northern Boulevard in north-central Austin. Its formal name on city documents is the Great Northern Detention Basin Off-Leash Area, and that is not just bureaucratic phrasing — the park is a stormwater detention basin that doubles as a dog park, which explains almost everything about the way it looks and behaves.\n\nThe practical consequence is space. This is a wide, open, grassy bowl rather than a small pen, with walking paths around it, so dogs get room to actually run rather than circle. It also means the ground is engineered to hold water, so after heavy rain sections of it are genuinely soggy and the low ground near the pond stays wet longer than you would expect.\n\nBe realistic about what is not here. There are no drinking fountains, so bring water for your dog and yourself, and there is little in the way of shaded seating — the tree cover around the edges is thin and the middle is fully exposed. From June through September that combination makes this an early morning or evening park rather than a midday one. Waste bag stations are provided, and parking is free with wheelchair accessible entrances.\n\nThe retention pond is a feature people either like or avoid. Dogs will go in it. It is stormwater rather than a spring-fed creek, so what is in it depends on what has washed off the surrounding streets recently, and it is not somewhere to let a dog drink.\n\nThe crowd is a neighborhood one drawn from Allandale and Crestview rather than across the city, which keeps it calmer than the destination parks. For anyone in north-central Austin it is a reasonable everyday option, provided you bring your own water and pick your hour in summer.\n\nThe signage at the entrance tells you something about how the site works. Alongside the off-leash area sign there is a notice pointing out that dog waste is a leading water-quality and flood concern — not generic park boilerplate here, but the direct consequence of the ground being a stormwater basin. What is left on the grass goes into the pond and then into the drainage system.",
     "features": [
       "Fenced off-leash area",
       "Large open grassy basin",
@@ -438,11 +438,11 @@
       "Little shade",
       "Free parking, wheelchair accessible"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "mainImage": "/blog/images/Great_Northern-4.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
+      "/blog/images/Great_Northern-2.jpg",
+      "/blog/images/Great_Northern-1.jpg",
+      "/blog/images/Great_Northern-3.jpg"
     ],
     "latitude": 30.3851,
     "longitude": -97.7358,
