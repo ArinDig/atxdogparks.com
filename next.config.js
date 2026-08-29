@@ -27,6 +27,19 @@ const nextConfig = {
         permanent: true,
       },
       {
+        // Corrected Aug 2026 (revised): the Pflugerville park is Northtown Dog Park
+        // at 14401 Harris Ridge Blvd, run by Northtown MUD. "Harris Ridge Dog Park"
+        // at 14400 is an aggregator alias for the same park - matching MUD contact,
+        // matching amenities, and Google lists Northtown with 715 reviews vs 62.
+        //
+        // This also reverses an earlier mistake: we had redirected Harris Branch Dog
+        // Park here on the belief it did not exist. It does - 12041 Harris Branch
+        // Pkwy, 78754 - and it is now restored as its own entry.
+        source: '/parks/harris-ridge-dog-park',
+        destination: '/parks/northtown-dog-park',
+        permanent: true,
+      },
+      {
         source: '/blog/puppy-first-dog-park',
         destination: '/blog',
         permanent: true,
@@ -40,14 +53,7 @@ const nextConfig = {
         permanent: true,
       },
       {
-        // Corrected Aug 2026: entry was "Harris Branch Dog Park" at an Austin address
-        // that does not exist. The real park is Harris Ridge in Pflugerville.
-        source: '/parks/harris-branch-dog-park',
-        destination: '/parks/harris-ridge-dog-park',
-        permanent: true,
-      },
-      {
-        // Removed Aug 2026: Pflugerville has two off-leash parks (Harris Ridge and
+        // Removed Aug 2026: Pflugerville has two off-leash parks (Northtown and
         // Falcon Pointe). Bicentennial Park exists but has no dog park.
         source: '/parks/bicentennial-park-dog-run',
         destination: '/parks',

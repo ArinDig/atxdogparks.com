@@ -30,243 +30,6 @@
     "lastUpdated": "2026-08-28"
   },
   {
-    "id": "red-bud-isle",
-    "name": "Red Bud Isle",
-    "slug": "red-bud-isle",
-    "address": "3401 Red Bud Trail, Austin, TX 78746",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/page/park-directory",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "Red Bud Isle is a narrow peninsula jutting into Lake Austin near Tarrytown — and it's one of the best off-leash spots in the city for dogs who love water. There's no fence, so recall is important, but for dogs that are reliable off-leash this place is hard to beat. Multiple creek and lake access points let dogs wade in or swim depending on water levels, and the wooded trails through cedar and oak keep things shaded even on hot Austin days.\n\nThe entrance is off Redbud Trail just west of MoPac — look for the small parking area near the trailhead. Parking is free but the lot fills up fast on weekends and after work hours. Most regulars come early morning or on weekday afternoons to avoid the crowds. The trails are narrow and winding in spots, so larger packs of dogs can get a little chaotic at peak times.\n\nBring water for your dog — there are no water stations on the peninsula itself. The terrain is uneven in places with exposed roots and limestone rock, so dogs with mobility issues may have trouble on some sections. Overall it's a natural, low-infrastructure experience: no lights, no facilities, no benches — just trees, water, and trail. For water-loving dogs in central Austin, it doesn't get much better.\n\nAustin Parks and Recreation warns that toxic algae has been found in Lady Bird Lake and is most likely present in summer and autumn. It can be fatal to dogs, which are exposed both by drinking and by licking it off their coat afterwards. Avoid floating algae mats and scummy still water at the edges, and rinse your dog with clean water when you leave.",
-    "features": [
-      "Surrounded by water on three sides",
-      "Natural trails through trees",
-      "Multiple lake access points",
-      "Shaded areas",
-      "Great for swimming dogs"
-    ],
-    "mainImage": "/blog/images/Red-Bud-1.png",
-    "images": [
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
-    ],
-    "latitude": 30.2856,
-    "longitude": -97.7908,
-    "metaTitle": "Red Bud Isle Dog Park Austin — Off-Leash on Lake Austin Peninsula | ATX Dog Parks",
-    "metaDescription": "Red Bud Isle is Austin's top off-leash spot for water dogs — a wooded peninsula on Lake Austin with swimming access and shaded trails near Tarrytown. Free, unfenced, dogs must have solid recall.",
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "zilker-park",
-    "name": "Zilker Metropolitan Park",
-    "slug": "zilker-metropolitan-park",
-    "address": "2100 Barton Springs Rd, Austin, TX 78704",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/zilker-metropolitan-park",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash in Designated Areas",
-    "fees": "Free",
-    "description": "Zilker Metropolitan Park is Austin's backyard — 351 acres of open greenspace near Barton Springs and Lady Bird Lake, right in the heart of the city. Dogs are welcome in most areas of the park, and while they're required to be on-leash on the main fields and paved paths, the sheer amount of space means there's plenty of room to roam without feeling cramped.\n\nThe park sees heavy use, especially on weekends when kite flying, disc sports, and events draw big crowds. If you're coming with a dog, early mornings on weekdays are the sweet spot — the fields are empty, the temperature is tolerable, and Barton Creek runs along the southern edge of the park with some natural wading access. The hike-and-bike trail along Lady Bird Lake is also dog-friendly with leash required.\n\nZilker doesn't have a dedicated fenced dog park, so this isn't the spot for off-leash play unless your dog has solid on-leash manners in a busy environment. But for a long on-leash walk through a beautiful, centrally located park with lots of stimulation — smells, people, other dogs — it's one of the most engaging outings in Austin. Parking at Barton Springs Road entrance fills up fast; try the Robert E. Lee Road side for more availability.",
-    "features": [
-      "Large open spaces",
-      "Beautiful city and nature views",
-      "Multiple off-leash zones",
-      "Adjacent to Barton Springs Pool",
-      "Plenty of parking"
-    ],
-    "mainImage": "/blog/images/Zilker-1.png",
-    "images": [
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
-    ],
-    "latitude": 30.2672,
-    "longitude": -97.7731,
-    "metaTitle": "Zilker Metropolitan Park Austin — Dog-Friendly Trails & Barton Creek Access | ATX Dog Parks",
-    "metaDescription": "Dogs welcome at Zilker Metropolitan Park — 351 acres of open greenspace near Barton Springs and Lady Bird Lake in central Austin. On-leash required. Best for morning walks and creek access."
-  },
-  {
-    "id": "walnut-creek",
-    "name": "Walnut Creek Metropolitan Park",
-    "slug": "walnut-creek-metropolitan-park",
-    "address": "12138 N Lamar Blvd, Austin, TX 78753",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/page/park-directory",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash in Designated Areas",
-    "fees": "Free",
-    "description": "Walnut Creek is the largest off-leash area in Austin, and the scale changes what a visit actually is. This is 293 acres with roughly fifteen miles of trail running through it, so a trip here is closer to taking your dog on a hike than standing in a fenced run watching them circle. People routinely spend an hour or more and cover real ground.\n\nThe off-leash area is north of the creek, which catches first-timers out: the developed side of the park nearer the Lamar entrance — the pool, the ballfields, the playground and picnic areas — is leash-required, and the open running starts once you have crossed over. Signage exists but is not aggressive about it, so you want to know that before you arrive rather than working it out from other people's reactions.\n\nThe creek is the main attraction for most dogs. It runs shallow through much of the park with easy gravel entries, and on a summer afternoon there is usually a line of dogs standing in it cooling off. Depth varies a lot with recent rain — most of the year it is ankle to knee deep, but it moves fast after a storm and the limestone underfoot gets slick, so it is not a good day to let a poor swimmer wander in unattended.\n\nThe terrain is hilly and wooded, with limestone bluffs and a lot of tree cover, which makes it one of the more tolerable places to be outdoors here in August. It is also genuinely easy to lose track of where you are. The trail network is dense and the junctions look alike, so if your dog ranges wide, keep them in sight rather than trusting they will find you.\n\nOne real caution: this is a popular mountain biking park, and the trails are shared. Riders come through at speed, sometimes downhill and quiet, and a dog standing in a blind corner is a problem for everyone. A dog with reliable recall handles this fine. A dog that bolts at movement does not, and weekend mornings are the busiest window for bikes.\n\nParking is free in the lot off North Lamar and is rarely a problem given the size of the place. There are restrooms near the pool, though not out on the trails, and no water fountains once you are past the developed area — bring your own for a long loop, because the creek is not something you want your dog drinking from after a rain.",
-    "metaTitle": "Walnut Creek Metropolitan Park (Walnut Creek District Park) — Austin Dog Park Guide",
-    "metaDescription": "Walnut Creek Metropolitan Park — also called Walnut Creek District Park — has Austin's largest off-leash dog area, 293 acres of trails, and creek access. Hours, rules, and trail map.",
-    "features": [
-      "293 acres of parkland",
-      "Large off-leash area",
-      "Extensive hiking trails",
-      "Natural landscapes",
-      "Swimming pool on site"
-    ],
-    "mainImage": "/blog/images/Walnut_Creek-1.png",
-    "images": [
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
-    ],
-    "latitude": 30.384,
-    "longitude": -97.6947,
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "norwood-estate",
-    "name": "Norwood Estate Dog Park",
-    "slug": "norwood-estate-dog-park",
-    "metaTitle": "Norwood Estate Dog Park — Free Off-Leash Park in South Austin | ATX Dog Parks",
-    "metaDescription": "Norwood Estate Dog Park on Edgecliff Terrace has separate areas for small and large dogs, water fountains, benches, and waste stations. Free, open 5am–10pm daily in South Austin.",
-    "address": "1009 Edgecliff Terrace, Austin, TX 78704",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/page/park-directory",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "Norwood Estate sits on a bluff above Lady Bird Lake at the end of Edgecliff Terrace, and the thing regulars mention first is the shade. That is not a small detail in Austin. A good share of the city's fenced runs are open ground that turns punishing by ten in the morning from May through September, and the difference between a treed park and a bare one is the difference between a real visit and one lap of the fence before everyone gives up and goes home.\n\nThe park is fully fenced, which puts it in the minority here — many of Austin's off-leash options are open greenbelt or unfenced lakefront where solid recall is the price of entry. Norwood has a double-gated entry and a genuinely separate small-dog section, not a token corner, so a nervous ten-pounder does not have to negotiate with a pack of labradors. Water, benches and waste stations are on site, and the ground is packed dirt and tree roots rather than turf, which drains quickly but does turn to mud for a day or so after heavy rain.\n\nParking is free and immediately adjacent, which sounds mundane until you have circled Clarksville or Zilker for twenty minutes. On weekdays you will not think about it. Late weekend afternoons it fills.\n\nWorth being straight about the crowd, because it is the main reason people either make this their regular park or quietly stop coming: supervision here runs uneven. This is a busy park in a dense part of town, and on a given evening you may find several dogs whose owners are at the far end on their phones. That is true of urban dog parks generally, but it comes up about Norwood more than most. If your dog is reactive, or small enough to get bowled over by accident, mornings are noticeably calmer and the small-dog side is a real separation rather than a nominal one.\n\nThe name comes from the Norwood House, the 1920s estate on the bluff above the park that has been under a long slow restoration. It is not part of the dog park and you cannot walk through it, but it explains the odd tucked-away approach — you turn off Riverside, the road narrows and drops, and it stops feeling like you are four minutes from downtown.",
-    "features": [
-      "Separate areas for small and large dogs",
-      "Well-maintained facilities",
-      "Benches and shade",
-      "Water fountains",
-      "Waste stations"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1422565096762-bdb997a56a84?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
-    ],
-    "latitude": 30.2493,
-    "longitude": -97.7393,
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "shoal-creek",
-    "name": "Shoal Creek Greenbelt",
-    "slug": "shoal-creek-greenbelt",
-    "address": "2600 N Lamar Blvd, Austin, TX 78705",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/page/park-directory",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash (Between 24th and 29th Streets)",
-    "fees": "Free",
-    "description": "Shoal Creek Greenbelt runs for miles through central Austin, but only one stretch of it is off-leash: the section between 24th and 29th Streets, a little over a mile end to end. Everywhere else on the greenbelt your dog needs to be leashed, and that boundary is enforced more than people expect given how casual the rest of the trail feels.\n\nWhat this offers that a fenced run does not is a walk. The off-leash stretch is a corridor, not an enclosure, so dogs move with you rather than orbiting a patch of dirt. For a high-energy dog that has already learned to check in, an out-and-back here does more than an hour in a pen. For a dog that has not, it is the wrong place to find out — there is no fence between the trail and the surrounding streets.\n\nThe tree cover is the other draw. This is a genuinely shaded creek bed running below street level through the middle of a dense neighborhood, and in July that shade is worth driving for. The creek gives dogs somewhere to cool off, though it is an urban waterway with the flow to match: after heavy rain it comes up fast and runs dirty, and in a long dry spell it can reduce to standing pools that are not appealing for anyone.\n\nThe honest caveat is condition. Shoal Creek has taken repeated flood damage over the years, and sections of trail — including parts of the off-leash stretch — have been closed at various points for erosion repair and construction. It is worth a quick check with Austin Parks and Recreation before making a special trip across town, because a closure here can mean a detour up onto the street rather than a short walk around.\n\nAccess is easiest from the residential streets crossing the greenbelt at either end, and parking is on-street in a neighborhood where that is not always simple. Mornings are the better bet, both for spots and for the crowd — this stretch is popular with runners and cyclists as well as dog owners, and a loose dog on a narrow trail meets a lot of traffic at six in the evening.",
-    "features": [
-      "Shaded trails",
-      "Creek access",
-      "Urban greenbelt",
-      "Designated off-leash zone",
-      "Close to central Austin"
-    ],
-    "mainImage": "/blog/images/Shoal_Creek_Greenbelt-1.png",
-    "images": [
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
-    ],
-    "latitude": 30.2942,
-    "longitude": -97.7447,
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "mary-moore-searight",
-    "name": "Mary Moore Searight Metropolitan Park",
-    "slug": "mary-moore-searight-metropolitan-park",
-    "address": "907 Slaughter Ln, Austin, TX 78748",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/mary-moore-searight-metropolitan-park",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash Trail Available",
-    "fees": "Free",
-    "description": "Mary Moore Searight is one of the few Austin parks with a dedicated off-leash trail rather than a fenced pen. The loop runs a little over a mile through the north end of the park, on natural surface through cedar scrub and live oak, with a shallow creek crossing partway round that most dogs will stand in rather than swim.\n\nThe off-leash section is reached from 1st Street, south of Slaughter Lane. That matters, because navigating to the park's main Slaughter Lane address puts you at a different entrance with a fair walk to the dog trail.\n\nThe loop is marked but not fenced. Dogs need to be under voice control, and the trail has enough tree cover and bends that a dog fifty yards ahead is genuinely out of sight. The upside of the same feature is that this doesn't have the penned-in intensity of a small fenced run — dogs walk rather than mill around, which suits a lot of dogs better than a crowded enclosure does.\n\nIt's noticeably quieter than the central Austin parks. If your dog gets overwhelmed in a pack, or you'd rather not spend the visit managing introductions, the difference in atmosphere here is the main reason to make the drive south.\n\nThere's no water at the off-leash trailhead, so bring your own — the creek is not a drinking source, particularly after rain moves street runoff through it. Parking at the trailhead is free and rarely full, even at weekends.\n\nBeyond the dog loop the park has miles of additional on-leash trail, a disc golf course and sports fields, so it's easy to extend the visit. Summer afternoons the shaded stretches of the loop do real work, but the open sections are exposed; mornings are the sensible window from June through September.",
-    "features": [
-      "Off-leash loop trail, a little over a mile",
-      "Shallow stream for cooling off",
-      "Natural wooded areas",
-      "Less crowded atmosphere",
-      "Ample parking"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
-    ],
-    "latitude": 30.1929,
-    "longitude": -97.8223,
-    "metaTitle": "Mary Moore Searight Metropolitan Park — Off-Leash Loop Trail South Austin | ATX Dog Parks",
-    "metaDescription": "Mary Moore Searight has a 1-mile off-leash loop trail with creek access in South Austin near Slaughter Lane. Less crowded than central parks. Dogs need reliable recall — unfenced.",
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "bull-creek",
-    "name": "Bull Creek District Park",
-    "slug": "bull-creek-district-park",
-    "address": "6701 Lakewood Dr, Austin, TX 78731",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/dog-parks",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "On-Leash Required",
-    "fees": "Free",
-    "description": "Bull Creek District Park is one of the best places in Austin to be near water with a dog, and also one of the most misreported. It is worth getting the rules right before you go.\n\n**This is an on-leash park.** Austin Parks and Recreation removed off-leash privileges here after fecal contamination was found in Bull Creek and off-leash dog use was identified as the likely source. Plenty of what is written about the park online still describes it as a place where the leash rule is loosely observed at the water. We would rather not point you at that: the restriction exists because of a water quality problem in a creek that feeds into Lake Austin, and the dogs standing in it are the reason. Check the posted signage when you arrive, since rules here have changed before and may change again.\n\nNone of which stops it being a lovely place to take a leashed dog. The limestone creek bed steps down through a series of shallow pools shaded by bluffs and mature trees, and it stays genuinely cool in the middle of a Texas summer when almost nothing else outdoors does. Wading in the shallows on a long lead is most of what people come for.\n\nTwo cautions on the water. Swimming areas at Bull Creek have been closed at times over blue-green algae, which is toxic to dogs and can kill them — avoid still water with mats or scum on the surface, and rinse your dog afterwards. And the level swings hard with rainfall: after a dry spell the pools shrink to ankle depth, while after a storm the current through the rock channels is stronger than it looks.\n\nThe footing is rough. This is a natural creek bed, not a groomed park — loose limestone, uneven slabs, and slick rock under the water. Dogs with joint problems or poor balance will find it hard work, and so will you in the wrong shoes.\n\nAccess is off Lakewood Drive, just south of Loop 360. Parking is free but the lot is small and fills early on any decent weekend; before 9am or after 4pm gives you a realistic chance.",
-    "features": [
-      "Limestone creek beds and shallow pools",
-      "Natural swimming holes",
-      "Scenic hiking trails",
-      "On-leash only - off-leash privileges removed",
-      "Deep shade from bluffs and mature trees",
-      "Rough, uneven footing"
-    ],
-    "mainImage": "/blog/images/Bull_Creek-1.png",
-    "images": [
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
-    ],
-    "latitude": 30.3675,
-    "longitude": -97.7779,
-    "metaTitle": "Bull Creek District Park Austin — Dog Swimming in Natural Limestone Creek | ATX Dog Parks",
-    "metaDescription": "Bull Creek is Austin's best natural dog swimming spot — limestone creek pools stay cool through summer. NW Austin near Loop 360. Rocky terrain, leash required on trails.",
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "emma-long",
-    "name": "Emma Long Metropolitan Park",
-    "slug": "emma-long-metropolitan-park",
-    "address": "1600 City Park Rd, Austin, TX 78730",
-    "phone": "(512) 346-1831",
-    "website": "https://www.austintexas.gov/department/emma-long-metropolitan-park",
-    "hours": "7:00 AM - 10:00 PM Daily",
-    "leashPolicy": "On-Leash on trails, Off-leash in designated areas",
-    "fees": "$5 per vehicle on weekends, Free on weekdays",
-    "description": "Emma Long Metropolitan Park is Austin's largest city park at 1,147 acres, stretching along the south shore of Lake Austin west of downtown. It's a rugged, natural park — minimal facilities, uneven trails, and real hill country terrain that makes it feel far removed from the city even though you're still within Austin city limits. Dogs are allowed on a leash throughout the park, and there are designated off-leash areas near the day-use sections.\n\nLake Austin frontage is the main draw. There are several points where dogs can access the water for swimming, and the clear, cold lake is a major draw for dogs and owners alike on hot summer days. The park has both primitive and improved camping, picnic areas, and a boat ramp. It's an all-day destination more than a quick after-work stop — plan to spend at least a few hours to make the drive worthwhile.\n\nThe entrance is off City Park Road, which branches off FM 2222 — the road in is narrow and winding, and the park sits at the end of a long residential stretch. No cell service once you're on City Park Road. Parking is $5 per vehicle. The remoteness keeps crowds down, and if you're looking for a more adventurous, off-the-beaten-path outing with your dog that includes lake swimming, this is one of the better options in Austin.",
-    "features": [
-      "1,147 acres of parkland",
-      "Lake Austin access",
-      "Extensive trail system",
-      "Camping available",
-      "Boat ramp"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1444212477490-ca407925329e?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
-    ],
-    "latitude": 30.3515,
-    "longitude": -97.8801,
-    "metaTitle": "Emma Long Metropolitan Park Austin — Dogs, Trails & Lake Austin Swimming | ATX Dog Parks",
-    "metaDescription": "Austin's largest city park — 1,147 acres with Lake Austin access and off-leash areas. Remote location off FM 2222. $5 entry. Great for adventurous dogs who want to swim and explore."
-  },
-  {
     "id": "bartholomew",
     "name": "Bartholomew District Park",
     "slug": "bartholomew-district-park",
@@ -294,68 +57,6 @@
     "longitude": -97.6847,
     "metaTitle": "Bartholomew District Park Dog Park — Fenced Off-Leash in East Austin | ATX Dog Parks",
     "metaDescription": "Bartholomew District Park has a fenced off-leash dog park in East Austin with separate small and large dog sections. Near Mueller and Windsor Park. Free parking, water stations on site."
-  },
-  {
-    "id": "west-austin-park",
-    "name": "West Austin Park",
-    "slug": "west-austin-park",
-    "address": "1317 W 10th St, Austin, TX 78703",
-    "phone": "(512) 974-6700",
-    "website": "https://www.westaustinpark.org",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash in Designated Area",
-    "fees": "Free",
-    "description": "West Austin Park takes up a single block in Clarksville, and the off-leash area is a fenced section of it rather than the whole park. That distinction matters here more than at most places. Friends of West Austin Park, the volunteer group that helps look after the grounds, asks plainly that dogs stay leashed everywhere outside the fence, and the reasoning is practical rather than fussy: the open field runs right up against the playground and the pool, and an unfamiliar dog jogging toward someone's kid unsettles people no matter how friendly it is.\n\nInside the fence it is a compact, heavily used run with water and waste bags on site. Most evenings bring the same faces, which is the real character of the place — a neighborhood park in the older sense, where people know each other's dogs by name and notice a new one.\n\nThe rest of the block is worth knowing about if kids are coming along. The wading pool runs roughly 1 to 8pm for stretches of June through August, stays under four feet throughout, and has a lifeguard on duty. Restrooms are inside the 1930s Tudor-style bathhouse beside it. There is a playscape, a basketball hoop, a swing set tucked behind the pool, and picnic tables that cannot be reserved, birthday party or not.\n\nParking is on the street in a dense neighborhood, so mornings are considerably easier than evenings.",
-    "features": [
-      "Fully-fenced off-leash area",
-      "Separate areas for large and small dogs",
-      "Basketball and tennis courts",
-      "Picnic tables",
-      "Pool on site",
-      "Central West Austin location"
-    ],
-    "mainImage": "/blog/images/West_Austin_Dog_Park-1.jpg",
-    "images": [
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
-    ],
-    "latitude": 30.2796,
-    "longitude": -97.7633,
-    "metaTitle": "West Austin Park Dog Park | Fenced Off-Leash Area in Clarksville",
-    "metaDescription": "Fenced off-leash area at West Austin Park in Clarksville. Dogs must stay leashed elsewhere in the park. Wading pool, playscape and 1930s bathhouse on site. Free, open 5am-10pm daily.",
-    "lastUpdated": "2026-08-21"
-  },
-  {
-    "id": "onion-creek",
-    "name": "Onion Creek District Park",
-    "slug": "onion-creek-district-park",
-    "address": "7002 Onion Creek Dr, Austin, TX 78739",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/onion-creek-district-park",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash in Designated Area",
-    "fees": "Free",
-    "metaTitle": "Onion Creek District Park Dog Park (Dog Park Blue) — Off-Leash & Swimming | ATX Dog Parks",
-    "metaDescription": "Dog Park Blue at Onion Creek District Park is one of South Austin's best off-leash areas with Onion Creek swimming access. 517 acres, unfenced. Dogs need solid recall. Free parking off Slaughter Ln.",
-    "description": "Onion Creek District Park covers 517 acres in South Austin, and the off-leash section within it is called Dog Park Blue — an unfenced area at the northeast tip of the park, close enough to Onion Creek that most dogs end up in the water within a few minutes of arriving.\n\nThe creek is the reason people come. It runs wide and shallow across most of this stretch, with gradual gravel banks rather than steep drops, which makes it approachable for dogs that are curious about water without being strong swimmers. In summer it is the difference between a walk and a genuinely cooling outing. Depth changes with recent rain, and after a real storm the current is stronger than it looks.\n\nBecause the area is unfenced, this is a park for dogs that come back when called. It is large, the wooded sections along the creek break sight lines quickly, and a dog that decides to follow an interesting smell can be out of view faster than you expect. Regulars here tend to be experienced off-leash owners and the culture reflects that. If your dog is still learning recall, one of the fenced options — Bartholomew, Domain Central, Cedar Bark — is a better place to build the skill first.\n\nThere are no water fountains at the off-leash section. Bring your own, particularly between May and September — the creek is not something you want your dog relying on for drinking water, especially after rain washes street runoff into it. Waste bag dispensers are distributed along the trails and are usually stocked.\n\nParking is free and there is normally room, with peak weekend mornings in good weather being the exception. The wider park has picnic facilities and additional trails if you want to extend the visit beyond the dog area.\n\nShade is patchy. Sections along the creek are well covered, but the open ground between the parking and the water is exposed, and in July and August the walk in is the hottest part of the trip. Early morning is the sensible window in summer; spring and autumn it is pleasant most of the day.",
-    "features": [
-      "517 acres of parkland",
-      "Creek access for swimming",
-      "Large off-leash area",
-      "Natural terrain",
-      "Plenty of shade",
-      "South Austin location"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
-    ],
-    "latitude": 30.1447,
-    "longitude": -97.8353,
-    "lastUpdated": "2026-08-28"
   },
   {
     "id": "barton-creek",
@@ -386,37 +87,6 @@
     "longitude": -97.8172,
     "metaTitle": "Barton Creek Greenbelt Austin — Dog-Friendly Hiking & Natural Swimming Holes | ATX Dog Parks",
     "metaDescription": "Barton Creek Greenbelt has 8 miles of dog-friendly trails with limestone swimming holes in central Austin. Leash required. Multiple access points. Best for active dogs who love water and trails."
-  },
-  {
-    "id": "domain-central",
-    "name": "Domain Central Dog Park",
-    "slug": "domain-central-dog-park",
-    "address": "11100 Alterra Pkwy, Austin, TX 78758",
-    "phone": "(512) 821-5850",
-    "website": "https://www.domainnorthside.com",
-    "hours": "6:00 AM - 11:00 PM Daily",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "metaTitle": "Domain Central Dog Park Austin — Fenced Off-Leash at The Domain | ATX Dog Parks",
-    "metaDescription": "Domain Central Dog Park is a free, fenced off-leash park inside The Domain in North Austin. Separate small/large dog areas, mature shade, double-gate entry. Park then shop or dine nearby.",
-    "description": "Domain Central Dog Park sits inside the Domain retail district in north Austin, off Alterra Parkway near the H-E-B. It is fully fenced with double-gated entry and separate large and small sides, which makes it one of the more forgiving places in north Austin to work with a dog that is not yet reliable off-leash.\n\nThe park is not big. Mature trees give it decent shade and the grass holds up better than most heavily used city runs, because it is maintained by the property rather than the city — but at 5pm on a weekday, or on a Saturday morning, it fills, and a small fenced space with a lot of dogs in it is a different proposition from the same space at ten on a Tuesday. If your dog finds crowding stressful, the timing matters more here than the facilities do.\n\nWhat it has over almost every other option in north Austin is that it is embedded in somewhere you were probably going anyway. You can run the dog for half an hour and then do the grocery shop, or eat, without a second trip. Parking is in the Domain garages and the first two hours are free, which covers a normal visit comfortably.\n\nThe mixed crowd is worth flagging. Because the district draws people from across the city rather than one neighbourhood, you get more first-time visitors and fewer regulars who know each other's dogs than you would at a place like Hancock or West Austin. That cuts both ways — friendlier to a newcomer, less predictable in terms of who is watching their dog.",
-    "features": [
-      "Fully fenced with double gates",
-      "Mature shade trees",
-      "Comfortable seating",
-      "Well-maintained grounds",
-      "Near Domain shopping",
-      "Modern amenities"
-    ],
-    "mainImage": "/blog/images/Domain_Dog_Park-1.png",
-    "images": [
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
-    ],
-    "latitude": 30.3984,
-    "longitude": -97.7229,
-    "lastUpdated": "2026-08-28"
   },
   {
     "id": "bob-wentz",
@@ -451,100 +121,34 @@
     "lastUpdated": "2026-08-28"
   },
   {
-    "id": "hancock",
-    "name": "Hancock Dog Park",
-    "slug": "hancock-dog-park",
-    "address": "3307 Kim Ln, Austin, TX 78705",
+    "id": "bull-creek",
+    "name": "Bull Creek District Park",
+    "slug": "bull-creek-district-park",
+    "address": "6701 Lakewood Dr, Austin, TX 78731",
     "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/department/parks-and-recreation",
-    "hours": "8:00 AM - 8:00 PM Daily",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "Hancock Dog Park is a small fenced run in central Austin, tucked off Kim Lane between Hyde Park and the Hancock golf course. It is not a destination park and does not pretend to be — the appeal is that it exists within a few minutes of a dense, walkable part of town where the alternative is driving to Bartholomew or further.\n\n**One thing to check before you go: the hours are 8am to 8pm.** Most Austin parks run 5am to 10pm, and a fair number of people turn up here at seven in the morning out of habit and find it shut. In summer, when the sensible window for a dark-coated dog is before eight anyway, that restriction genuinely limits the park's usefulness.\n\nThe ground is a mix of grass and rock, and the rocky sections are more prominent than at most city runs — worth a thought for a dog with soft pads or one that skids into turns at speed. Mature trees give reasonable shade over part of the space, and there's seating.\n\nWaste bags are provided. Water is less dependable: there is a fountain, but reports of it being off or dry are common enough that bringing your own is the safer assumption between May and September.\n\nThe crowd is a neighbourhood one, largely the same faces on weekday mornings and weekend afternoons, and it is small enough that a single boisterous dog changes the character of the whole park for the duration. Parking is on the surrounding residential streets rather than a lot, which is straightforward on a weekday and less so on a weekend afternoon.",
-    "features": [
-      "Fenced off-leash area",
-      "Shaded seating areas",
-      "Waste bag stations",
-      "Mixed terrain (grass and rocks)",
-      "Central Austin location",
-      "Neighborhood atmosphere"
-    ],
-    "mainImage": "/blog/images/Hancock-1.png",
-    "images": [
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
-    ],
-    "latitude": 30.3047,
-    "longitude": -97.7348,
-    "metaTitle": "Hancock Dog Park Austin — Fenced Off-Leash Near Hyde Park | ATX Dog Parks",
-    "metaDescription": "Hancock Dog Park is a free, fenced off-leash park in Central Austin near Hyde Park. Separate small/large dog areas. No frills, neighborhood feel. Easy street parking off 41st Street.",
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "great-northern",
-    "name": "Great Northern Dog Park",
-    "slug": "great-northern-dog-park",
-    "address": "7099 Great Northern Blvd, Austin, TX 78757",
-    "phone": "(512) 974-6700",
-    "website": "https://www.austintexas.gov/page/park-directory",
+    "website": "https://www.austintexas.gov/department/dog-parks",
     "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash",
+    "leashPolicy": "On-Leash Required",
     "fees": "Free",
-    "description": "Great Northern Dog Park is a fenced off-leash area in Allandale, tucked behind the houses off Great Northern Boulevard in north-central Austin. Its formal name on city documents is the Great Northern Detention Basin Off-Leash Area, and that is not just bureaucratic phrasing — the park is a stormwater detention basin that doubles as a dog park, which explains almost everything about the way it looks and behaves.\n\nThe practical consequence is space. This is a wide, open, grassy bowl rather than a small pen, with walking paths around it, so dogs get room to actually run rather than circle. It also means the ground is engineered to hold water, so after heavy rain sections of it are genuinely soggy and the low ground near the pond stays wet longer than you would expect.\n\nBe realistic about what is not here. There are no drinking fountains, so bring water for your dog and yourself, and there is little in the way of shaded seating — the tree cover around the edges is thin and the middle is fully exposed. From June through September that combination makes this an early morning or evening park rather than a midday one. Waste bag stations are provided, and parking is free with wheelchair accessible entrances.\n\nThe retention pond is a feature people either like or avoid. Dogs will go in it. It is stormwater rather than a spring-fed creek, so what is in it depends on what has washed off the surrounding streets recently, and it is not somewhere to let a dog drink.\n\nThe crowd is a neighbourhood one drawn from Allandale and Crestview rather than across the city, which keeps it calmer than the destination parks. For anyone in north-central Austin it is a reasonable everyday option, provided you bring your own water and pick your hour in summer.",
+    "description": "Bull Creek District Park is one of the best places in Austin to be near water with a dog, and also one of the most misreported. It is worth getting the rules right before you go.\n\n**This is an on-leash park.** Austin Parks and Recreation removed off-leash privileges here after fecal contamination was found in Bull Creek and off-leash dog use was identified as the likely source. Plenty of what is written about the park online still describes it as a place where the leash rule is loosely observed at the water. We would rather not point you at that: the restriction exists because of a water quality problem in a creek that feeds into Lake Austin, and the dogs standing in it are the reason. Check the posted signage when you arrive, since rules here have changed before and may change again.\n\nNone of which stops it being a lovely place to take a leashed dog. The limestone creek bed steps down through a series of shallow pools shaded by bluffs and mature trees, and it stays genuinely cool in the middle of a Texas summer when almost nothing else outdoors does. Wading in the shallows on a long lead is most of what people come for.\n\nTwo cautions on the water. Swimming areas at Bull Creek have been closed at times over blue-green algae, which is toxic to dogs and can kill them — avoid still water with mats or scum on the surface, and rinse your dog afterwards. And the level swings hard with rainfall: after a dry spell the pools shrink to ankle depth, while after a storm the current through the rock channels is stronger than it looks.\n\nThe footing is rough. This is a natural creek bed, not a groomed park — loose limestone, uneven slabs, and slick rock under the water. Dogs with joint problems or poor balance will find it hard work, and so will you in the wrong shoes.\n\nAccess is off Lakewood Drive, just south of Loop 360. Parking is free but the lot is small and fills early on any decent weekend; before 9am or after 4pm gives you a realistic chance.",
     "features": [
-      "Fenced off-leash area",
-      "Large open grassy basin",
-      "Walking paths",
-      "Retention pond",
-      "Waste bag stations",
-      "No drinking fountains - bring water",
-      "Little shade",
-      "Free parking, wheelchair accessible"
+      "Limestone creek beds and shallow pools",
+      "Natural swimming holes",
+      "Scenic hiking trails",
+      "On-leash only - off-leash privileges removed",
+      "Deep shade from bluffs and mature trees",
+      "Rough, uneven footing"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "mainImage": "/blog/images/Bull_Creek-1.png",
     "images": [
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
       "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
     ],
-    "latitude": 30.3851,
-    "longitude": -97.7358,
-    "metaTitle": "Great Northern Dog Park Austin — Off-Leash Near North Loop & Rundberg | ATX Dog Parks",
-    "metaDescription": "Great Northern Dog Park is a free, fenced off-leash park in North Austin near the North Loop area. Neighborhood feel, regular crowd, grassy open space. Good for daily off-leash runs.",
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "harris-branch",
-    "name": "Harris Ridge Dog Park",
-    "slug": "harris-ridge-dog-park",
-    "address": "14400 Harris Ridge Blvd, Pflugerville, TX 78660",
-    "phone": "(512) 716-0759",
-    "website": "https://www.austintexas.gov/page/park-directory",
-    "hours": "Dawn to dusk",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "Harris Ridge Dog Park is fully fenced with separate, secured areas for large and small dogs, plus agility equipment, tables, and chairs — a more furnished setup than most neighborhood parks in the northern suburbs, with drinking water available for dogs on site.\n\nOne practical difference from a city park: this one is run by the Northtown Municipal Utility District rather than a parks department. Questions and maintenance issues go to the MUD at (512) 716-0759 or manager@northtownmud.org, not to Pflugerville or Austin Parks and Recreation.\n\nHours run dawn to dusk rather than a fixed clock, so the usable window shrinks noticeably in winter. In June and July, dawn is the only comfortable time to be here anyway — the agility area gets full sun.\n\nYou'll find it on Harris Ridge Boulevard, just off I-35 near the Pflugerville and North Austin line, which makes it a reasonable stop for anyone commuting that corridor.\n\nOne thing to be aware of before you set off: **there are two dog parks facing each other on Harris Ridge Boulevard.** Harris Ridge Dog Park at 14400 is the fenced one, dawn to dusk. Northtown Dog Park at 14401, directly across the road, is unfenced, keeps different hours, and has trails rather than a run. If your dog needs a fence, the house number matters.\n\nReviews consistently mention mature trees giving genuine shade over parts of the park, which is unusual for a suburban run of this age and makes it more tolerable in summer than the open agility area alone would suggest.\n\nHouse rules are stricter than a city park: no alcohol, no glass containers, and no motorized vehicles anywhere on the grounds.",
-    "features": [
-      "Fully fenced",
-      "Separate secured large and small dog areas",
-      "Agility equipment",
-      "Tables and chairs",
-      "Dog drinking water",
-      "Managed by Northtown MUD",
-      "Mature tree shade",
-      "No alcohol or glass containers"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
-    ],
-    "latitude": 30.4285,
-    "longitude": -97.6821,
-    "metaTitle": "Harris Ridge Dog Park Pflugerville | Fenced Off-Leash Park with Agility Equipment",
-    "metaDescription": "Fully fenced off-leash park on Harris Ridge Blvd with separate large and small dog areas, agility equipment, seating and water. Open dawn to dusk. Run by Northtown MUD.",
+    "latitude": 30.3675,
+    "longitude": -97.7779,
+    "metaTitle": "Bull Creek District Park Austin — Dog Swimming in Natural Limestone Creek | ATX Dog Parks",
+    "metaDescription": "Bull Creek is Austin's best natural dog swimming spot — limestone creek pools stay cool through summer. NW Austin near Loop 360. Rocky terrain, leash required on trails.",
     "lastUpdated": "2026-08-28"
   },
   {
@@ -616,135 +220,6 @@
     "lastUpdated": "2026-08-21"
   },
   {
-    "id": "falcon-pointe",
-    "name": "Falcon Pointe Garden and Bark Park",
-    "slug": "falcon-pointe-dog-park",
-    "address": "19417 Murchison Ridge Trail, Pflugerville, TX 78660",
-    "phone": "(512) 990-6363",
-    "website": "https://www.austintexas.gov/page/park-directory",
-    "hours": "6:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "Falcon Pointe's bark park is attached to a demonstration garden, which makes it the odd one out among Pflugerville's off-leash options and the more interesting place to spend an hour.\n\nThe dog side is 2.65 fenced acres split into separate large and small runs, each with its own gate off a shared concrete apron. Both gates have a waste bag dispenser and there's a water bowl set out between them. Note that the signs are pictures rather than a posted weight limit — a labrador silhouette on one gate, a corgi on the other — so unlike Cedar Bark, where the split is written as 30 pounds, sorting a borderline dog is left to your judgement.\n\nThe large run is genuinely large, closer to a field than a pen, with real turf rather than the worn dirt a lot of heavily used runs turn into. The ground near the gates is bare and packed from traffic, but it opens up quickly. Mature live oaks along the fence line give proper shade over a decent share of the space, and there are more young trees planted through the middle that will matter in another ten years. A soccer pitch sits immediately beyond the far fence, so on league mornings there's noise and movement on the other side of the rail — which matters if your dog fixates on that sort of thing.\n\nWhat surrounds it is the unusual part. The grounds hold a village of purple martin houses, pear trees, and a set of themed demonstration gardens: rain, culinary, medicinal, butterfly and hummingbird, and native plantings. There's also a moon garden planted for evening visits, built around fragrant white flowers that show up after dark. If you walk your dog at dusk in summer because the afternoon is unbearable, that's more useful than it sounds.\n\nThe pavilion is the other landmark — a hexagonal shelter with a deep red roof and picnic tables, set on a concrete circle next to a repurposed grain silo. It's the obvious place to wait out a squall or eat something while the dog runs.\n\nOpen 6am to 10pm, free, with free parking. It sits off Murchison Ridge Trail on Pflugerville's east side. The field is open enough that there's little shelter from wind in winter, and the photographs of it under ice are a reminder that Central Texas does occasionally deliver that.",
-    "features": [
-      "2.65 fenced acres",
-      "Separate large and small dog runs",
-      "Double-gated entry",
-      "Waste stations and water bowl at the gates",
-      "Mature live oak shade",
-      "Boulders with built-in seating",
-      "Purple martin houses",
-      "Demonstration gardens including a moon garden",
-      "Covered pavilion and picnic tables"
-    ],
-    "mainImage": "/blog/images/Falcon_Pointe-1.jpg",
-    "images": [
-      "/blog/images/Falcon_Pointe-2.jpg",
-      "/blog/images/Falcon_Pointe-3.jpg",
-      "/blog/images/Falcon_Pointe-4.jpg"
-    ],
-    "latitude": 30.4512,
-    "longitude": -97.6048,
-    "metaTitle": "Falcon Pointe Bark Park Pflugerville | Fenced Dog Park & Demonstration Gardens",
-    "metaDescription": "Pflugerville's Falcon Pointe bark park: 2.65 fenced acres with separate small and large dog areas, boulder seating, purple martin houses and themed gardens. Open 6am-10pm. Free.",
-    "lastUpdated": "2026-08-28"
-  },
-  {
-    "id": "georgetown-bark",
-    "name": "Georgetown Bark Park",
-    "slug": "georgetown-bark-park",
-    "address": "445 E Morrow St, Georgetown, TX 78626",
-    "phone": "(512) 930-3595",
-    "website": "https://parks.georgetown.org",
-    "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "Georgetown's Bark Park sits in a pecan grove on East Morrow Street, and the trees are the whole reason to choose it over a newer park. Most dog parks in the region are open turf with a couple of young shade structures. This one has mature canopy, which changes what an August afternoon feels like for everyone standing in it.\n\nThere are two fenced sections, split at 30 pounds — worth noting if your dog sits near the line, since other parks in the area draw it at 40. Both sides have drinking fountains for dogs and people, benches, trash cans, Mutt Mitt dispensers, and posted rules. There's an agility course on site for dogs that want something to do beyond laps.\n\nGates open at 5am and close at 10pm, an hour earlier on the front end than most Williamson County parks. Parking is on site. For maintenance issues or questions, Georgetown Parks and Recreation takes calls at 512-930-3595.\n\nGeorgetown is roughly 30 minutes north of central Austin, so this is a destination park for most Austin residents and a neighborhood one for anyone in Williamson County. The pecan shade makes the drive more defensible in summer than it would be otherwise.",
-    "features": [
-      "Mature pecan grove shade",
-      "Separate large and small dog areas (30 lb split)",
-      "Agility course",
-      "Drinking fountains for dogs and people in both areas",
-      "Benches and Mutt Mitt stations",
-      "On-site parking"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
-    ],
-    "latitude": 30.6332,
-    "longitude": -97.6779,
-    "metaTitle": "Georgetown Bark Park | Shaded Off-Leash Dog Park in a Pecan Grove",
-    "metaDescription": "Georgetown's free off-leash dog park on E Morrow St, set in a mature pecan grove. Separate large and small dog areas (30 lb split), agility course, water fountains. Open 5am-10pm.",
-    "lastUpdated": "2026-08-21"
-  },
-  {
-    "id": "garey-park",
-    "name": "Garey Park",
-    "slug": "garey-park",
-    "address": "6450 RM 2243, Georgetown, TX 78628",
-    "phone": "(512) 930-3595",
-    "website": "https://parks.georgetown.org/garey-park/",
-    "hours": "8:00 AM - 8:00 PM (Apr 1 - Sep 30); 8:00 AM - 6:00 PM (Oct 1 - Mar 31)",
-    "leashPolicy": "On-Leash Required on Trails; Off-Leash Area Available",
-    "fees": "$5/vehicle resident, $10/vehicle non-resident (up to 2 people); free Tuesdays Oct-Mar",
-    "description": "Garey Park's off-leash area is called the Dog Ranch, and it earns the name. Over four fenced acres of natural terrain rather than mown turf — brush, uneven ground, real cover — with separate enclosures for small and large dogs. For a dog that finds flat rectangles boring, this is a different kind of outing.\n\nFive shaded picnic shelters sit inside the fence, with water stations and dog-height drinking fountains. The shelters matter more here than at a neighborhood park, because most people stay longer than the usual twenty minutes.\n\nThe Dog Ranch is one piece of a 525-acre former ranch on the South San Gabriel River, donated to Georgetown and opened to the public. Trails run down toward the water, there's fishing when the river is up, and 4.68 miles of equestrian trail if you ride. It sits about 6.5 miles west of I-35 on RM 2243.\n\nTwo things separate it from everything else in this directory. It charges admission, and the fee is per vehicle rather than per person: $5 for Georgetown residents and $10 for non-residents, covering a driver and one passenger, with each additional person $2. Annual passes run $100 resident and $150 non-resident. And from October through March, entry is free on Tuesdays — the cheapest way to see whether the drive is worth it.\n\nHours shift with the season: 8am to 8pm from April through September, 8am to 6pm from October through March. Nobody is admitted within 30 minutes of closing, and the park shuts on Thanksgiving, Christmas Eve and Christmas Day.",
-    "features": [
-      "Over 4 fenced acres of natural terrain",
-      "Separate small and large dog areas",
-      "5 shaded picnic shelters inside the fence",
-      "Dog-height drinking fountains",
-      "Part of a 525-acre river park",
-      "Free entry Tuesdays October-March",
-      "Trails, fishing and equestrian access"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1574063975800-8f99e5b04bf0?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
-    ],
-    "latitude": 30.6401,
-    "longitude": -97.7315,
-    "metaTitle": "Garey Park Dog Ranch Georgetown | 4-Acre Off-Leash Park on the San Gabriel",
-    "metaDescription": "The Dog Ranch at Garey Park: 4+ fenced acres of natural terrain, separate small and large dog areas, 5 shaded shelters. $5/vehicle resident, $10 non-resident. Free Tuesdays Oct-Mar.",
-    "lastUpdated": "2026-08-21"
-  },
-  {
-    "id": "stagecoach-park",
-    "name": "Historic Stagecoach Park Dog Park",
-    "slug": "stagecoach-park-dog-park",
-    "address": "405 E. Loop St, Building 100, Buda, TX 78610",
-    "phone": "(512) 295-7170",
-    "website": "https://www.budatx.gov/291/Historic-Stagecoach-Park",
-    "hours": "6:00 AM - 9:00 PM (Mar 1-Sep 30); 6:00 AM - 7:00 PM (Oct 1-Feb 28)",
-    "leashPolicy": "Off-Leash",
-    "fees": "Free",
-    "description": "Buda's off-leash dog park relocated here from the old Sportsplex site in January 2026, after the city closed that location in August 2025 to build out the new grounds on the east side of Historic Stagecoach Park. It's a straightforward setup: a small-dog yard for dogs under 30 pounds and a separate large-dog yard, both fenced, with a water source and benches and picnic tables for owners.\n\nHours shift with daylight — 6am to 9pm from March through September, 6am to 7pm the rest of the year. Because it shares the grounds with Stagecoach Park's pavilion, amphitheater, playground, and trail system, it's easy to turn a dog park stop into a longer outing if the weather's decent.\n\nWorth knowing if you used the old Sportsplex location: that dog park is gone, not just renamed. This is a new build in a different part of town, on the east side of the historic park property off Main Street.\n\nThe shared grounds are the argument for coming here over a standalone run. The dog yards sit on the same property as Stagecoach Park's pavilion, amphitheatre, playground and trail network, so a dog park visit folds into a longer outing without a second drive — genuinely useful if you have children who lose interest in watching dogs after fifteen minutes.\n\nIt is also worth checking the season before you go. The winter closing time of 7pm means that from October the park shuts before most people finish work, which makes it a weekend option for much of the year.",
-    "features": [
-      "Separate small-dog and large-dog yards",
-      "Fully fenced",
-      "Water source on site",
-      "Benches and picnic tables",
-      "Seasonal hours (daylight-based)",
-      "Shares grounds with Stagecoach Park trails and pavilion",
-      "Free access"
-    ],
-    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-    "images": [
-      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
-    ],
-    "latitude": 30.0819,
-    "longitude": -97.8347,
-    "metaTitle": "Historic Stagecoach Park Dog Park — Buda's Off-Leash Park | ATX Dog Parks",
-    "metaDescription": "Buda's off-leash dog park moved to Historic Stagecoach Park in January 2026, with separate small- and large-dog yards. Free, seasonal hours, water access, benches.",
-    "lastUpdated": "2026-08-28"
-  },
-  {
     "id": "dog-house-drinkery",
     "name": "Dog House Drinkery & Dog Park",
     "slug": "dog-house-drinkery",
@@ -779,5 +254,565 @@
     "metaTitle": "Dog House Drinkery & Dog Park — Leander's Off-Leash Bar | ATX Dog Parks",
     "metaDescription": "Dog House Drinkery & Dog Park in Leander is Central Texas' original off-leash dog park bar — fenced half-acre yard, full bar, open Tue-Sun. $8 day pass or annual membership.",
     "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "domain-central",
+    "name": "Domain Central Dog Park",
+    "slug": "domain-central-dog-park",
+    "address": "11100 Alterra Pkwy, Austin, TX 78758",
+    "phone": "(512) 821-5850",
+    "website": "https://www.domainnorthside.com",
+    "hours": "6:00 AM - 11:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "metaTitle": "Domain Central Dog Park Austin — Fenced Off-Leash at The Domain | ATX Dog Parks",
+    "metaDescription": "Domain Central Dog Park is a free, fenced off-leash park inside The Domain in North Austin. Separate small/large dog areas, mature shade, double-gate entry. Park then shop or dine nearby.",
+    "description": "Domain Central Dog Park sits inside the Domain retail district in north Austin, off Alterra Parkway near the H-E-B. It is fully fenced with double-gated entry and separate large and small sides, which makes it one of the more forgiving places in north Austin to work with a dog that is not yet reliable off-leash.\n\nThe park is not big. Mature trees give it decent shade and the grass holds up better than most heavily used city runs, because it is maintained by the property rather than the city — but at 5pm on a weekday, or on a Saturday morning, it fills, and a small fenced space with a lot of dogs in it is a different proposition from the same space at ten on a Tuesday. If your dog finds crowding stressful, the timing matters more here than the facilities do.\n\nWhat it has over almost every other option in north Austin is that it is embedded in somewhere you were probably going anyway. You can run the dog for half an hour and then do the grocery shop, or eat, without a second trip. Parking is in the Domain garages and the first two hours are free, which covers a normal visit comfortably.\n\nThe mixed crowd is worth flagging. Because the district draws people from across the city rather than one neighbourhood, you get more first-time visitors and fewer regulars who know each other's dogs than you would at a place like Hancock or West Austin. That cuts both ways — friendlier to a newcomer, less predictable in terms of who is watching their dog.",
+    "features": [
+      "Fully fenced with double gates",
+      "Mature shade trees",
+      "Comfortable seating",
+      "Well-maintained grounds",
+      "Near Domain shopping",
+      "Modern amenities"
+    ],
+    "mainImage": "/blog/images/Domain_Dog_Park-1.png",
+    "images": [
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
+    ],
+    "latitude": 30.3984,
+    "longitude": -97.7229,
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "emma-long",
+    "name": "Emma Long Metropolitan Park",
+    "slug": "emma-long-metropolitan-park",
+    "address": "1600 City Park Rd, Austin, TX 78730",
+    "phone": "(512) 346-1831",
+    "website": "https://www.austintexas.gov/department/emma-long-metropolitan-park",
+    "hours": "7:00 AM - 10:00 PM Daily",
+    "leashPolicy": "On-Leash on trails, Off-leash in designated areas",
+    "fees": "$5 per vehicle on weekends, Free on weekdays",
+    "description": "Emma Long Metropolitan Park is Austin's largest city park at 1,147 acres, stretching along the south shore of Lake Austin west of downtown. It's a rugged, natural park — minimal facilities, uneven trails, and real hill country terrain that makes it feel far removed from the city even though you're still within Austin city limits. Dogs are allowed on a leash throughout the park, and there are designated off-leash areas near the day-use sections.\n\nLake Austin frontage is the main draw. There are several points where dogs can access the water for swimming, and the clear, cold lake is a major draw for dogs and owners alike on hot summer days. The park has both primitive and improved camping, picnic areas, and a boat ramp. It's an all-day destination more than a quick after-work stop — plan to spend at least a few hours to make the drive worthwhile.\n\nThe entrance is off City Park Road, which branches off FM 2222 — the road in is narrow and winding, and the park sits at the end of a long residential stretch. No cell service once you're on City Park Road. Parking is $5 per vehicle. The remoteness keeps crowds down, and if you're looking for a more adventurous, off-the-beaten-path outing with your dog that includes lake swimming, this is one of the better options in Austin.",
+    "features": [
+      "1,147 acres of parkland",
+      "Lake Austin access",
+      "Extensive trail system",
+      "Camping available",
+      "Boat ramp"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1444212477490-ca407925329e?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.3515,
+    "longitude": -97.8801,
+    "metaTitle": "Emma Long Metropolitan Park Austin — Dogs, Trails & Lake Austin Swimming | ATX Dog Parks",
+    "metaDescription": "Austin's largest city park — 1,147 acres with Lake Austin access and off-leash areas. Remote location off FM 2222. $5 entry. Great for adventurous dogs who want to swim and explore."
+  },
+  {
+    "id": "falcon-pointe",
+    "name": "Falcon Pointe Garden and Bark Park",
+    "slug": "falcon-pointe-dog-park",
+    "address": "19417 Murchison Ridge Trail, Pflugerville, TX 78660",
+    "phone": "(512) 990-6363",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "6:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Falcon Pointe's bark park is attached to a demonstration garden, which makes it the odd one out among Pflugerville's off-leash options and the more interesting place to spend an hour.\n\nThe dog side is 2.65 fenced acres split into separate large and small runs, each with its own gate off a shared concrete apron. Both gates have a waste bag dispenser and there's a water bowl set out between them. Note that the signs are pictures rather than a posted weight limit — a labrador silhouette on one gate, a corgi on the other — so unlike Cedar Bark, where the split is written as 30 pounds, sorting a borderline dog is left to your judgement.\n\nThe large run is genuinely large, closer to a field than a pen, with real turf rather than the worn dirt a lot of heavily used runs turn into. The ground near the gates is bare and packed from traffic, but it opens up quickly. Mature live oaks along the fence line give proper shade over a decent share of the space, and there are more young trees planted through the middle that will matter in another ten years. A soccer pitch sits immediately beyond the far fence, so on league mornings there's noise and movement on the other side of the rail — which matters if your dog fixates on that sort of thing.\n\nWhat surrounds it is the unusual part. The grounds hold a village of purple martin houses, pear trees, and a set of themed demonstration gardens: rain, culinary, medicinal, butterfly and hummingbird, and native plantings. There's also a moon garden planted for evening visits, built around fragrant white flowers that show up after dark. If you walk your dog at dusk in summer because the afternoon is unbearable, that's more useful than it sounds.\n\nThe pavilion is the other landmark — a hexagonal shelter with a deep red roof and picnic tables, set on a concrete circle next to a repurposed grain silo. It's the obvious place to wait out a squall or eat something while the dog runs.\n\nOpen 6am to 10pm, free, with free parking. It sits off Murchison Ridge Trail on Pflugerville's east side. The field is open enough that there's little shelter from wind in winter, and the photographs of it under ice are a reminder that Central Texas does occasionally deliver that.",
+    "features": [
+      "2.65 fenced acres",
+      "Separate large and small dog runs",
+      "Double-gated entry",
+      "Waste stations and water bowl at the gates",
+      "Mature live oak shade",
+      "Boulders with built-in seating",
+      "Purple martin houses",
+      "Demonstration gardens including a moon garden",
+      "Covered pavilion and picnic tables"
+    ],
+    "mainImage": "/blog/images/Falcon_Pointe-1.jpg",
+    "images": [
+      "/blog/images/Falcon_Pointe-2.jpg",
+      "/blog/images/Falcon_Pointe-3.jpg",
+      "/blog/images/Falcon_Pointe-4.jpg"
+    ],
+    "latitude": 30.4512,
+    "longitude": -97.6048,
+    "metaTitle": "Falcon Pointe Bark Park Pflugerville | Fenced Dog Park & Demonstration Gardens",
+    "metaDescription": "Pflugerville's Falcon Pointe bark park: 2.65 fenced acres with separate small and large dog areas, boulder seating, purple martin houses and themed gardens. Open 6am-10pm. Free.",
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "garey-park",
+    "name": "Garey Park",
+    "slug": "garey-park",
+    "address": "6450 RM 2243, Georgetown, TX 78628",
+    "phone": "(512) 930-3595",
+    "website": "https://parks.georgetown.org/garey-park/",
+    "hours": "8:00 AM - 8:00 PM (Apr 1 - Sep 30); 8:00 AM - 6:00 PM (Oct 1 - Mar 31)",
+    "leashPolicy": "On-Leash Required on Trails; Off-Leash Area Available",
+    "fees": "$5/vehicle resident, $10/vehicle non-resident (up to 2 people); free Tuesdays Oct-Mar",
+    "description": "Garey Park's off-leash area is called the Dog Ranch, and it earns the name. Over four fenced acres of natural terrain rather than mown turf — brush, uneven ground, real cover — with separate enclosures for small and large dogs. For a dog that finds flat rectangles boring, this is a different kind of outing.\n\nFive shaded picnic shelters sit inside the fence, with water stations and dog-height drinking fountains. The shelters matter more here than at a neighborhood park, because most people stay longer than the usual twenty minutes.\n\nThe Dog Ranch is one piece of a 525-acre former ranch on the South San Gabriel River, donated to Georgetown and opened to the public. Trails run down toward the water, there's fishing when the river is up, and 4.68 miles of equestrian trail if you ride. It sits about 6.5 miles west of I-35 on RM 2243.\n\nTwo things separate it from everything else in this directory. It charges admission, and the fee is per vehicle rather than per person: $5 for Georgetown residents and $10 for non-residents, covering a driver and one passenger, with each additional person $2. Annual passes run $100 resident and $150 non-resident. And from October through March, entry is free on Tuesdays — the cheapest way to see whether the drive is worth it.\n\nHours shift with the season: 8am to 8pm from April through September, 8am to 6pm from October through March. Nobody is admitted within 30 minutes of closing, and the park shuts on Thanksgiving, Christmas Eve and Christmas Day.",
+    "features": [
+      "Over 4 fenced acres of natural terrain",
+      "Separate small and large dog areas",
+      "5 shaded picnic shelters inside the fence",
+      "Dog-height drinking fountains",
+      "Part of a 525-acre river park",
+      "Free entry Tuesdays October-March",
+      "Trails, fishing and equestrian access"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1574063975800-8f99e5b04bf0?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
+    ],
+    "latitude": 30.6401,
+    "longitude": -97.7315,
+    "metaTitle": "Garey Park Dog Ranch Georgetown | 4-Acre Off-Leash Park on the San Gabriel",
+    "metaDescription": "The Dog Ranch at Garey Park: 4+ fenced acres of natural terrain, separate small and large dog areas, 5 shaded shelters. $5/vehicle resident, $10 non-resident. Free Tuesdays Oct-Mar.",
+    "lastUpdated": "2026-08-21"
+  },
+  {
+    "id": "georgetown-bark",
+    "name": "Georgetown Bark Park",
+    "slug": "georgetown-bark-park",
+    "address": "445 E Morrow St, Georgetown, TX 78626",
+    "phone": "(512) 930-3595",
+    "website": "https://parks.georgetown.org",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Georgetown's Bark Park sits in a pecan grove on East Morrow Street, and the trees are the whole reason to choose it over a newer park. Most dog parks in the region are open turf with a couple of young shade structures. This one has mature canopy, which changes what an August afternoon feels like for everyone standing in it.\n\nThere are two fenced sections, split at 30 pounds — worth noting if your dog sits near the line, since other parks in the area draw it at 40. Both sides have drinking fountains for dogs and people, benches, trash cans, Mutt Mitt dispensers, and posted rules. There's an agility course on site for dogs that want something to do beyond laps.\n\nGates open at 5am and close at 10pm, an hour earlier on the front end than most Williamson County parks. Parking is on site. For maintenance issues or questions, Georgetown Parks and Recreation takes calls at 512-930-3595.\n\nGeorgetown is roughly 30 minutes north of central Austin, so this is a destination park for most Austin residents and a neighborhood one for anyone in Williamson County. The pecan shade makes the drive more defensible in summer than it would be otherwise.",
+    "features": [
+      "Mature pecan grove shade",
+      "Separate large and small dog areas (30 lb split)",
+      "Agility course",
+      "Drinking fountains for dogs and people in both areas",
+      "Benches and Mutt Mitt stations",
+      "On-site parking"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
+    ],
+    "latitude": 30.6332,
+    "longitude": -97.6779,
+    "metaTitle": "Georgetown Bark Park | Shaded Off-Leash Dog Park in a Pecan Grove",
+    "metaDescription": "Georgetown's free off-leash dog park on E Morrow St, set in a mature pecan grove. Separate large and small dog areas (30 lb split), agility course, water fountains. Open 5am-10pm.",
+    "lastUpdated": "2026-08-21"
+  },
+  {
+    "id": "great-northern",
+    "name": "Great Northern Dog Park",
+    "slug": "great-northern-dog-park",
+    "address": "7099 Great Northern Blvd, Austin, TX 78757",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Great Northern Dog Park is a fenced off-leash area in Allandale, tucked behind the houses off Great Northern Boulevard in north-central Austin. Its formal name on city documents is the Great Northern Detention Basin Off-Leash Area, and that is not just bureaucratic phrasing — the park is a stormwater detention basin that doubles as a dog park, which explains almost everything about the way it looks and behaves.\n\nThe practical consequence is space. This is a wide, open, grassy bowl rather than a small pen, with walking paths around it, so dogs get room to actually run rather than circle. It also means the ground is engineered to hold water, so after heavy rain sections of it are genuinely soggy and the low ground near the pond stays wet longer than you would expect.\n\nBe realistic about what is not here. There are no drinking fountains, so bring water for your dog and yourself, and there is little in the way of shaded seating — the tree cover around the edges is thin and the middle is fully exposed. From June through September that combination makes this an early morning or evening park rather than a midday one. Waste bag stations are provided, and parking is free with wheelchair accessible entrances.\n\nThe retention pond is a feature people either like or avoid. Dogs will go in it. It is stormwater rather than a spring-fed creek, so what is in it depends on what has washed off the surrounding streets recently, and it is not somewhere to let a dog drink.\n\nThe crowd is a neighbourhood one drawn from Allandale and Crestview rather than across the city, which keeps it calmer than the destination parks. For anyone in north-central Austin it is a reasonable everyday option, provided you bring your own water and pick your hour in summer.",
+    "features": [
+      "Fenced off-leash area",
+      "Large open grassy basin",
+      "Walking paths",
+      "Retention pond",
+      "Waste bag stations",
+      "No drinking fountains - bring water",
+      "Little shade",
+      "Free parking, wheelchair accessible"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
+    ],
+    "latitude": 30.3851,
+    "longitude": -97.7358,
+    "metaTitle": "Great Northern Dog Park Austin — Off-Leash Near North Loop & Rundberg | ATX Dog Parks",
+    "metaDescription": "Great Northern Dog Park is a free, fenced off-leash park in North Austin near the North Loop area. Neighborhood feel, regular crowd, grassy open space. Good for daily off-leash runs.",
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "hancock",
+    "name": "Hancock Dog Park",
+    "slug": "hancock-dog-park",
+    "address": "3307 Kim Ln, Austin, TX 78705",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/parks-and-recreation",
+    "hours": "8:00 AM - 8:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Hancock Dog Park is a small fenced run in central Austin, tucked off Kim Lane between Hyde Park and the Hancock golf course. It is not a destination park and does not pretend to be — the appeal is that it exists within a few minutes of a dense, walkable part of town where the alternative is driving to Bartholomew or further.\n\n**One thing to check before you go: the hours are 8am to 8pm.** Most Austin parks run 5am to 10pm, and a fair number of people turn up here at seven in the morning out of habit and find it shut. In summer, when the sensible window for a dark-coated dog is before eight anyway, that restriction genuinely limits the park's usefulness.\n\nThe ground is a mix of grass and rock, and the rocky sections are more prominent than at most city runs — worth a thought for a dog with soft pads or one that skids into turns at speed. Mature trees give reasonable shade over part of the space, and there's seating.\n\nWaste bags are provided. Water is less dependable: there is a fountain, but reports of it being off or dry are common enough that bringing your own is the safer assumption between May and September.\n\nThe crowd is a neighbourhood one, largely the same faces on weekday mornings and weekend afternoons, and it is small enough that a single boisterous dog changes the character of the whole park for the duration. Parking is on the surrounding residential streets rather than a lot, which is straightforward on a weekday and less so on a weekend afternoon.",
+    "features": [
+      "Fenced off-leash area",
+      "Shaded seating areas",
+      "Waste bag stations",
+      "Mixed terrain (grass and rocks)",
+      "Central Austin location",
+      "Neighborhood atmosphere"
+    ],
+    "mainImage": "/blog/images/Hancock-1.png",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.3047,
+    "longitude": -97.7348,
+    "metaTitle": "Hancock Dog Park Austin — Fenced Off-Leash Near Hyde Park | ATX Dog Parks",
+    "metaDescription": "Hancock Dog Park is a free, fenced off-leash park in Central Austin near Hyde Park. Separate small/large dog areas. No frills, neighborhood feel. Easy street parking off 41st Street.",
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "harris-branch",
+    "name": "Harris Branch Dog Park",
+    "slug": "harris-branch-dog-park",
+    "address": "12041 Harris Branch Pkwy, Austin, TX 78754",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/dog-parks",
+    "hours": "Check posted signage on site",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Harris Branch Dog Park is a small neighbourhood run in the Harris Branch development in north-east Austin, off Harris Branch Parkway. It is fenced, with separate large and small dog sides connected within the same enclosure, double-gated entry, agility obstacles, benches and water.\n\nIt is worth setting expectations honestly: this is a pocket park serving the surrounding subdivision, not a destination. Public ratings for it are noticeably lower than for the other fenced parks in this part of the city, and the recurring theme in reviews is size — the small-dog side in particular is compact, and on a busy evening the whole park can feel tight. If you have a dog that needs distance from others to stay comfortable, Northtown up the road is the roomier option.\n\nWhat it does offer is proximity. For anyone living in Harris Branch, Pioneer Crossing or the surrounding 78754 streets, this is a walk rather than a drive, and a fenced space five minutes from home gets used far more often than a better park twenty minutes away. Shade comes from young trees around the perimeter, so it is thinner than at the older parks and the middle is exposed in summer.\n\nWaste stations are provided and the grounds are generally kept clean. Parking is on the street alongside the park.\n\nCheck current hours and any posted rules on arrival — this is a neighbourhood facility and signage on site is the reliable source.",
+    "features": [
+      "Fenced off-leash area",
+      "Separate large and small dog sides",
+      "Double-gated entry",
+      "Agility obstacles",
+      "Benches",
+      "Water available",
+      "Waste stations",
+      "Street parking",
+      "Small neighbourhood park"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.3646,
+    "longitude": -97.6338,
+    "metaTitle": "Harris Branch Dog Park — Small Fenced Off-Leash Park in North-East Austin",
+    "metaDescription": "Fenced neighbourhood dog park on Harris Branch Pkwy in 78754, with separate large and small sides, agility obstacles and water. Compact - see how it compares to Northtown.",
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "stagecoach-park",
+    "name": "Historic Stagecoach Park Dog Park",
+    "slug": "stagecoach-park-dog-park",
+    "address": "405 E. Loop St, Building 100, Buda, TX 78610",
+    "phone": "(512) 295-7170",
+    "website": "https://www.budatx.gov/291/Historic-Stagecoach-Park",
+    "hours": "6:00 AM - 9:00 PM (Mar 1-Sep 30); 6:00 AM - 7:00 PM (Oct 1-Feb 28)",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Buda's off-leash dog park relocated here from the old Sportsplex site in January 2026, after the city closed that location in August 2025 to build out the new grounds on the east side of Historic Stagecoach Park. It's a straightforward setup: a small-dog yard for dogs under 30 pounds and a separate large-dog yard, both fenced, with a water source and benches and picnic tables for owners.\n\nHours shift with daylight — 6am to 9pm from March through September, 6am to 7pm the rest of the year. Because it shares the grounds with Stagecoach Park's pavilion, amphitheater, playground, and trail system, it's easy to turn a dog park stop into a longer outing if the weather's decent.\n\nWorth knowing if you used the old Sportsplex location: that dog park is gone, not just renamed. This is a new build in a different part of town, on the east side of the historic park property off Main Street.\n\nThe shared grounds are the argument for coming here over a standalone run. The dog yards sit on the same property as Stagecoach Park's pavilion, amphitheatre, playground and trail network, so a dog park visit folds into a longer outing without a second drive — genuinely useful if you have children who lose interest in watching dogs after fifteen minutes.\n\nIt is also worth checking the season before you go. The winter closing time of 7pm means that from October the park shuts before most people finish work, which makes it a weekend option for much of the year.",
+    "features": [
+      "Separate small-dog and large-dog yards",
+      "Fully fenced",
+      "Water source on site",
+      "Benches and picnic tables",
+      "Seasonal hours (daylight-based)",
+      "Shares grounds with Stagecoach Park trails and pavilion",
+      "Free access"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.0819,
+    "longitude": -97.8347,
+    "metaTitle": "Historic Stagecoach Park Dog Park — Buda's Off-Leash Park | ATX Dog Parks",
+    "metaDescription": "Buda's off-leash dog park moved to Historic Stagecoach Park in January 2026, with separate small- and large-dog yards. Free, seasonal hours, water access, benches.",
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "mary-moore-searight",
+    "name": "Mary Moore Searight Metropolitan Park",
+    "slug": "mary-moore-searight-metropolitan-park",
+    "address": "907 Slaughter Ln, Austin, TX 78748",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/mary-moore-searight-metropolitan-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash Trail Available",
+    "fees": "Free",
+    "description": "Mary Moore Searight is one of the few Austin parks with a dedicated off-leash trail rather than a fenced pen. The loop runs a little over a mile through the north end of the park, on natural surface through cedar scrub and live oak, with a shallow creek crossing partway round that most dogs will stand in rather than swim.\n\nThe off-leash section is reached from 1st Street, south of Slaughter Lane. That matters, because navigating to the park's main Slaughter Lane address puts you at a different entrance with a fair walk to the dog trail.\n\nThe loop is marked but not fenced. Dogs need to be under voice control, and the trail has enough tree cover and bends that a dog fifty yards ahead is genuinely out of sight. The upside of the same feature is that this doesn't have the penned-in intensity of a small fenced run — dogs walk rather than mill around, which suits a lot of dogs better than a crowded enclosure does.\n\nIt's noticeably quieter than the central Austin parks. If your dog gets overwhelmed in a pack, or you'd rather not spend the visit managing introductions, the difference in atmosphere here is the main reason to make the drive south.\n\nThere's no water at the off-leash trailhead, so bring your own — the creek is not a drinking source, particularly after rain moves street runoff through it. Parking at the trailhead is free and rarely full, even at weekends.\n\nBeyond the dog loop the park has miles of additional on-leash trail, a disc golf course and sports fields, so it's easy to extend the visit. Summer afternoons the shaded stretches of the loop do real work, but the open sections are exposed; mornings are the sensible window from June through September.",
+    "features": [
+      "Off-leash loop trail, a little over a mile",
+      "Shallow stream for cooling off",
+      "Natural wooded areas",
+      "Less crowded atmosphere",
+      "Ample parking"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.1929,
+    "longitude": -97.8223,
+    "metaTitle": "Mary Moore Searight Metropolitan Park — Off-Leash Loop Trail South Austin | ATX Dog Parks",
+    "metaDescription": "Mary Moore Searight has a 1-mile off-leash loop trail with creek access in South Austin near Slaughter Lane. Less crowded than central parks. Dogs need reliable recall — unfenced.",
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "northtown-dog-park",
+    "name": "Northtown Dog Park",
+    "slug": "northtown-dog-park",
+    "address": "14401 Harris Ridge Blvd, Pflugerville, TX 78660",
+    "phone": "(512) 716-0759",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "7:00 AM - 9:00 PM Daily (closed weekends following rain)",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Northtown Dog Park is the fenced off-leash park on Harris Ridge Boulevard in Pflugerville, run by the Northtown Municipal Utility District rather than a city parks department. That distinction is the practical one: questions, closures and maintenance go to the MUD on (512) 716-0759 or manager@northtownmud.org, not to Pflugerville or Austin Parks and Recreation.\n\nYou may see this park listed elsewhere as \"Harris Ridge Dog Park,\" sometimes at 14400 rather than 14401. It is the same place. The MUD's own name for it is Northtown.\n\nIt is a more furnished setup than most suburban runs. Both the large and small sides are separately fenced and secured, there is agility equipment, tables and chairs for owners, and dog drinking fountains on site. Mature trees give real shade across parts of the grounds, which is worth more here than any piece of equipment between June and September.\n\nHours are 7am to 9pm daily. One rule that catches people out: **the park closes on weekends following rain**, deliberately, to stop the grass being churned up while the ground is soft. It generally reopens the next day once things dry out, but if it has rained on a Friday night it is worth checking before loading the dog into the car on Saturday morning.\n\nHouse rules are stricter than a typical city park — no alcohol, no glass containers, and no motorised vehicles anywhere on the grounds.\n\nIt sits just off I-35 near the Pflugerville and north Austin line, which makes it a practical stop for anyone commuting that corridor rather than a destination in its own right.",
+    "features": [
+      "Fully fenced",
+      "Separate secured large and small dog areas",
+      "Agility equipment",
+      "Tables and chairs",
+      "Dog drinking fountains",
+      "Mature tree shade",
+      "Closes weekends after rain",
+      "No alcohol or glass containers",
+      "Managed by Northtown MUD"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
+    ],
+    "latitude": 30.4285,
+    "longitude": -97.6821,
+    "metaTitle": "Northtown Dog Park (formerly listed as Harris Ridge) — Pflugerville Off-Leash Park",
+    "metaDescription": "Fenced off-leash dog park on Harris Ridge Blvd in Pflugerville, run by Northtown MUD. Separate large and small sides, agility equipment, shade. Open 7am-9pm; closed weekends after rain.",
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "norwood-estate",
+    "name": "Norwood Estate Dog Park",
+    "slug": "norwood-estate-dog-park",
+    "metaTitle": "Norwood Estate Dog Park — Free Off-Leash Park in South Austin | ATX Dog Parks",
+    "metaDescription": "Norwood Estate Dog Park on Edgecliff Terrace has separate areas for small and large dogs, water fountains, benches, and waste stations. Free, open 5am–10pm daily in South Austin.",
+    "address": "1009 Edgecliff Terrace, Austin, TX 78704",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Norwood Estate sits on a bluff above Lady Bird Lake at the end of Edgecliff Terrace, and the thing regulars mention first is the shade. That is not a small detail in Austin. A good share of the city's fenced runs are open ground that turns punishing by ten in the morning from May through September, and the difference between a treed park and a bare one is the difference between a real visit and one lap of the fence before everyone gives up and goes home.\n\nThe park is fully fenced, which puts it in the minority here — many of Austin's off-leash options are open greenbelt or unfenced lakefront where solid recall is the price of entry. Norwood has a double-gated entry and a genuinely separate small-dog section, not a token corner, so a nervous ten-pounder does not have to negotiate with a pack of labradors. Water, benches and waste stations are on site, and the ground is packed dirt and tree roots rather than turf, which drains quickly but does turn to mud for a day or so after heavy rain.\n\nParking is free and immediately adjacent, which sounds mundane until you have circled Clarksville or Zilker for twenty minutes. On weekdays you will not think about it. Late weekend afternoons it fills.\n\nWorth being straight about the crowd, because it is the main reason people either make this their regular park or quietly stop coming: supervision here runs uneven. This is a busy park in a dense part of town, and on a given evening you may find several dogs whose owners are at the far end on their phones. That is true of urban dog parks generally, but it comes up about Norwood more than most. If your dog is reactive, or small enough to get bowled over by accident, mornings are noticeably calmer and the small-dog side is a real separation rather than a nominal one.\n\nThe name comes from the Norwood House, the 1920s estate on the bluff above the park that has been under a long slow restoration. It is not part of the dog park and you cannot walk through it, but it explains the odd tucked-away approach — you turn off Riverside, the road narrows and drops, and it stops feeling like you are four minutes from downtown.",
+    "features": [
+      "Separate areas for small and large dogs",
+      "Well-maintained facilities",
+      "Benches and shade",
+      "Water fountains",
+      "Waste stations"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1422565096762-bdb997a56a84?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
+    ],
+    "latitude": 30.2493,
+    "longitude": -97.7393,
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "onion-creek",
+    "name": "Onion Creek District Park",
+    "slug": "onion-creek-district-park",
+    "address": "7002 Onion Creek Dr, Austin, TX 78739",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/onion-creek-district-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Area",
+    "fees": "Free",
+    "metaTitle": "Onion Creek District Park Dog Park (Dog Park Blue) — Off-Leash & Swimming | ATX Dog Parks",
+    "metaDescription": "Dog Park Blue at Onion Creek District Park is one of South Austin's best off-leash areas with Onion Creek swimming access. 517 acres, unfenced. Dogs need solid recall. Free parking off Slaughter Ln.",
+    "description": "Onion Creek District Park covers 517 acres in South Austin, and the off-leash section within it is called Dog Park Blue — an unfenced area at the northeast tip of the park, close enough to Onion Creek that most dogs end up in the water within a few minutes of arriving.\n\nThe creek is the reason people come. It runs wide and shallow across most of this stretch, with gradual gravel banks rather than steep drops, which makes it approachable for dogs that are curious about water without being strong swimmers. In summer it is the difference between a walk and a genuinely cooling outing. Depth changes with recent rain, and after a real storm the current is stronger than it looks.\n\nBecause the area is unfenced, this is a park for dogs that come back when called. It is large, the wooded sections along the creek break sight lines quickly, and a dog that decides to follow an interesting smell can be out of view faster than you expect. Regulars here tend to be experienced off-leash owners and the culture reflects that. If your dog is still learning recall, one of the fenced options — Bartholomew, Domain Central, Cedar Bark — is a better place to build the skill first.\n\nThere are no water fountains at the off-leash section. Bring your own, particularly between May and September — the creek is not something you want your dog relying on for drinking water, especially after rain washes street runoff into it. Waste bag dispensers are distributed along the trails and are usually stocked.\n\nParking is free and there is normally room, with peak weekend mornings in good weather being the exception. The wider park has picnic facilities and additional trails if you want to extend the visit beyond the dog area.\n\nShade is patchy. Sections along the creek are well covered, but the open ground between the parking and the water is exposed, and in July and August the walk in is the hottest part of the trip. Early morning is the sensible window in summer; spring and autumn it is pleasant most of the day.",
+    "features": [
+      "517 acres of parkland",
+      "Creek access for swimming",
+      "Large off-leash area",
+      "Natural terrain",
+      "Plenty of shade",
+      "South Austin location"
+    ],
+    "mainImage": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
+    ],
+    "latitude": 30.1447,
+    "longitude": -97.8353,
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "red-bud-isle",
+    "name": "Red Bud Isle",
+    "slug": "red-bud-isle",
+    "address": "3401 Red Bud Trail, Austin, TX 78746",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash",
+    "fees": "Free",
+    "description": "Red Bud Isle is a narrow peninsula jutting into Lake Austin near Tarrytown — and it's one of the best off-leash spots in the city for dogs who love water. There's no fence, so recall is important, but for dogs that are reliable off-leash this place is hard to beat. Multiple creek and lake access points let dogs wade in or swim depending on water levels, and the wooded trails through cedar and oak keep things shaded even on hot Austin days.\n\nThe entrance is off Redbud Trail just west of MoPac — look for the small parking area near the trailhead. Parking is free but the lot fills up fast on weekends and after work hours. Most regulars come early morning or on weekday afternoons to avoid the crowds. The trails are narrow and winding in spots, so larger packs of dogs can get a little chaotic at peak times.\n\nBring water for your dog — there are no water stations on the peninsula itself. The terrain is uneven in places with exposed roots and limestone rock, so dogs with mobility issues may have trouble on some sections. Overall it's a natural, low-infrastructure experience: no lights, no facilities, no benches — just trees, water, and trail. For water-loving dogs in central Austin, it doesn't get much better.\n\nAustin Parks and Recreation warns that toxic algae has been found in Lady Bird Lake and is most likely present in summer and autumn. It can be fatal to dogs, which are exposed both by drinking and by licking it off their coat afterwards. Avoid floating algae mats and scummy still water at the edges, and rinse your dog with clean water when you leave.",
+    "features": [
+      "Surrounded by water on three sides",
+      "Natural trails through trees",
+      "Multiple lake access points",
+      "Shaded areas",
+      "Great for swimming dogs"
+    ],
+    "mainImage": "/blog/images/Red-Bud-1.png",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80"
+    ],
+    "latitude": 30.2856,
+    "longitude": -97.7908,
+    "metaTitle": "Red Bud Isle Dog Park Austin — Off-Leash on Lake Austin Peninsula | ATX Dog Parks",
+    "metaDescription": "Red Bud Isle is Austin's top off-leash spot for water dogs — a wooded peninsula on Lake Austin with swimming access and shaded trails near Tarrytown. Free, unfenced, dogs must have solid recall.",
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "shoal-creek",
+    "name": "Shoal Creek Greenbelt",
+    "slug": "shoal-creek-greenbelt",
+    "address": "2600 N Lamar Blvd, Austin, TX 78705",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash (Between 24th and 29th Streets)",
+    "fees": "Free",
+    "description": "Shoal Creek Greenbelt runs for miles through central Austin, but only one stretch of it is off-leash: the section between 24th and 29th Streets, a little over a mile end to end. Everywhere else on the greenbelt your dog needs to be leashed, and that boundary is enforced more than people expect given how casual the rest of the trail feels.\n\nWhat this offers that a fenced run does not is a walk. The off-leash stretch is a corridor, not an enclosure, so dogs move with you rather than orbiting a patch of dirt. For a high-energy dog that has already learned to check in, an out-and-back here does more than an hour in a pen. For a dog that has not, it is the wrong place to find out — there is no fence between the trail and the surrounding streets.\n\nThe tree cover is the other draw. This is a genuinely shaded creek bed running below street level through the middle of a dense neighborhood, and in July that shade is worth driving for. The creek gives dogs somewhere to cool off, though it is an urban waterway with the flow to match: after heavy rain it comes up fast and runs dirty, and in a long dry spell it can reduce to standing pools that are not appealing for anyone.\n\nThe honest caveat is condition. Shoal Creek has taken repeated flood damage over the years, and sections of trail — including parts of the off-leash stretch — have been closed at various points for erosion repair and construction. It is worth a quick check with Austin Parks and Recreation before making a special trip across town, because a closure here can mean a detour up onto the street rather than a short walk around.\n\nAccess is easiest from the residential streets crossing the greenbelt at either end, and parking is on-street in a neighborhood where that is not always simple. Mornings are the better bet, both for spots and for the crowd — this stretch is popular with runners and cyclists as well as dog owners, and a loose dog on a narrow trail meets a lot of traffic at six in the evening.",
+    "features": [
+      "Shaded trails",
+      "Creek access",
+      "Urban greenbelt",
+      "Designated off-leash zone",
+      "Close to central Austin"
+    ],
+    "mainImage": "/blog/images/Shoal_Creek_Greenbelt-1.png",
+    "images": [
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80"
+    ],
+    "latitude": 30.2942,
+    "longitude": -97.7447,
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "walnut-creek",
+    "name": "Walnut Creek Metropolitan Park",
+    "slug": "walnut-creek-metropolitan-park",
+    "address": "12138 N Lamar Blvd, Austin, TX 78753",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/page/park-directory",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Areas",
+    "fees": "Free",
+    "description": "Walnut Creek is the largest off-leash area in Austin, and the scale changes what a visit actually is. This is 293 acres with roughly fifteen miles of trail running through it, so a trip here is closer to taking your dog on a hike than standing in a fenced run watching them circle. People routinely spend an hour or more and cover real ground.\n\nThe off-leash area is north of the creek, which catches first-timers out: the developed side of the park nearer the Lamar entrance — the pool, the ballfields, the playground and picnic areas — is leash-required, and the open running starts once you have crossed over. Signage exists but is not aggressive about it, so you want to know that before you arrive rather than working it out from other people's reactions.\n\nThe creek is the main attraction for most dogs. It runs shallow through much of the park with easy gravel entries, and on a summer afternoon there is usually a line of dogs standing in it cooling off. Depth varies a lot with recent rain — most of the year it is ankle to knee deep, but it moves fast after a storm and the limestone underfoot gets slick, so it is not a good day to let a poor swimmer wander in unattended.\n\nThe terrain is hilly and wooded, with limestone bluffs and a lot of tree cover, which makes it one of the more tolerable places to be outdoors here in August. It is also genuinely easy to lose track of where you are. The trail network is dense and the junctions look alike, so if your dog ranges wide, keep them in sight rather than trusting they will find you.\n\nOne real caution: this is a popular mountain biking park, and the trails are shared. Riders come through at speed, sometimes downhill and quiet, and a dog standing in a blind corner is a problem for everyone. A dog with reliable recall handles this fine. A dog that bolts at movement does not, and weekend mornings are the busiest window for bikes.\n\nParking is free in the lot off North Lamar and is rarely a problem given the size of the place. There are restrooms near the pool, though not out on the trails, and no water fountains once you are past the developed area — bring your own for a long loop, because the creek is not something you want your dog drinking from after a rain.",
+    "metaTitle": "Walnut Creek Metropolitan Park (Walnut Creek District Park) — Austin Dog Park Guide",
+    "metaDescription": "Walnut Creek Metropolitan Park — also called Walnut Creek District Park — has Austin's largest off-leash dog area, 293 acres of trails, and creek access. Hours, rules, and trail map.",
+    "features": [
+      "293 acres of parkland",
+      "Large off-leash area",
+      "Extensive hiking trails",
+      "Natural landscapes",
+      "Swimming pool on site"
+    ],
+    "mainImage": "/blog/images/Walnut_Creek-1.png",
+    "images": [
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
+    ],
+    "latitude": 30.384,
+    "longitude": -97.6947,
+    "lastUpdated": "2026-08-28"
+  },
+  {
+    "id": "west-austin-park",
+    "name": "West Austin Park",
+    "slug": "west-austin-park",
+    "address": "1317 W 10th St, Austin, TX 78703",
+    "phone": "(512) 974-6700",
+    "website": "https://www.westaustinpark.org",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Area",
+    "fees": "Free",
+    "description": "West Austin Park takes up a single block in Clarksville, and the off-leash area is a fenced section of it rather than the whole park. That distinction matters here more than at most places. Friends of West Austin Park, the volunteer group that helps look after the grounds, asks plainly that dogs stay leashed everywhere outside the fence, and the reasoning is practical rather than fussy: the open field runs right up against the playground and the pool, and an unfamiliar dog jogging toward someone's kid unsettles people no matter how friendly it is.\n\nInside the fence it is a compact, heavily used run with water and waste bags on site. Most evenings bring the same faces, which is the real character of the place — a neighborhood park in the older sense, where people know each other's dogs by name and notice a new one.\n\nThe rest of the block is worth knowing about if kids are coming along. The wading pool runs roughly 1 to 8pm for stretches of June through August, stays under four feet throughout, and has a lifeguard on duty. Restrooms are inside the 1930s Tudor-style bathhouse beside it. There is a playscape, a basketball hoop, a swing set tucked behind the pool, and picnic tables that cannot be reserved, birthday party or not.\n\nParking is on the street in a dense neighborhood, so mornings are considerably easier than evenings.",
+    "features": [
+      "Fully-fenced off-leash area",
+      "Separate areas for large and small dogs",
+      "Basketball and tennis courts",
+      "Picnic tables",
+      "Pool on site",
+      "Central West Austin location"
+    ],
+    "mainImage": "/blog/images/West_Austin_Dog_Park-1.jpg",
+    "images": [
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.2796,
+    "longitude": -97.7633,
+    "metaTitle": "West Austin Park Dog Park | Fenced Off-Leash Area in Clarksville",
+    "metaDescription": "Fenced off-leash area at West Austin Park in Clarksville. Dogs must stay leashed elsewhere in the park. Wading pool, playscape and 1930s bathhouse on site. Free, open 5am-10pm daily.",
+    "lastUpdated": "2026-08-21"
+  },
+  {
+    "id": "zilker-park",
+    "name": "Zilker Metropolitan Park",
+    "slug": "zilker-metropolitan-park",
+    "address": "2100 Barton Springs Rd, Austin, TX 78704",
+    "phone": "(512) 974-6700",
+    "website": "https://www.austintexas.gov/department/zilker-metropolitan-park",
+    "hours": "5:00 AM - 10:00 PM Daily",
+    "leashPolicy": "Off-Leash in Designated Areas",
+    "fees": "Free",
+    "description": "Zilker Metropolitan Park is Austin's backyard — 351 acres of open greenspace near Barton Springs and Lady Bird Lake, right in the heart of the city. Dogs are welcome in most areas of the park, and while they're required to be on-leash on the main fields and paved paths, the sheer amount of space means there's plenty of room to roam without feeling cramped.\n\nThe park sees heavy use, especially on weekends when kite flying, disc sports, and events draw big crowds. If you're coming with a dog, early mornings on weekdays are the sweet spot — the fields are empty, the temperature is tolerable, and Barton Creek runs along the southern edge of the park with some natural wading access. The hike-and-bike trail along Lady Bird Lake is also dog-friendly with leash required.\n\nZilker doesn't have a dedicated fenced dog park, so this isn't the spot for off-leash play unless your dog has solid on-leash manners in a busy environment. But for a long on-leash walk through a beautiful, centrally located park with lots of stimulation — smells, people, other dogs — it's one of the most engaging outings in Austin. Parking at Barton Springs Road entrance fills up fast; try the Robert E. Lee Road side for more availability.",
+    "features": [
+      "Large open spaces",
+      "Beautiful city and nature views",
+      "Multiple off-leash zones",
+      "Adjacent to Barton Springs Pool",
+      "Plenty of parking"
+    ],
+    "mainImage": "/blog/images/Zilker-1.png",
+    "images": [
+      "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+    ],
+    "latitude": 30.2672,
+    "longitude": -97.7731,
+    "metaTitle": "Zilker Metropolitan Park Austin — Dog-Friendly Trails & Barton Creek Access | ATX Dog Parks",
+    "metaDescription": "Dogs welcome at Zilker Metropolitan Park — 351 acres of open greenspace near Barton Springs and Lady Bird Lake in central Austin. On-leash required. Best for morning walks and creek access."
   }
 ]
