@@ -3,6 +3,22 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        // Ezoic requires ads.txt to be served by their Ads.txt Manager rather than
+        // from a static file, so this hands the URL off to them (manager acct 19390).
+        // Once live, THIS is the authoritative ads.txt - public/ads.txt is shadowed
+        // because Next checks redirects before the filesystem. The static file is
+        // left in place deliberately: deleting this redirect restores it instantly
+        // if we ever need to back out.
+        //
+        // statusCode 301 rather than `permanent: true` on purpose - `permanent`
+        // emits a 308, and ads.txt crawlers are simple clients that don't all
+        // follow 307/308. The IAB spec allows exactly one off-domain redirect,
+        // which is what this is.
+        source: '/ads.txt',
+        destination: 'https://srv.adstxtmanager.com/19390/atxdogparks.com',
+        statusCode: 301,
+      },
+      {
         source: '/blog/puppy-first-dog-park',
         destination: '/blog',
         permanent: true,
