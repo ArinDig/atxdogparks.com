@@ -383,7 +383,7 @@
     "hours": "8:00 AM - 8:00 PM (Apr 1 - Sep 30); 8:00 AM - 6:00 PM (Oct 1 - Mar 31)",
     "leashPolicy": "On-Leash Required on Trails; Off-Leash Area Available",
     "fees": "$5/vehicle resident, $10/vehicle non-resident (up to 2 people); free Tuesdays Oct-Mar",
-    "description": "Garey Park's off-leash area is called the Dog Ranch, and it earns the name. Over four fenced acres of natural terrain rather than mown turf — brush, uneven ground, real cover — with separate enclosures for small and large dogs. For a dog that finds flat rectangles boring, this is a different kind of outing.\n\nFive shaded picnic shelters sit inside the fence, with water stations and dog-height drinking fountains. The shelters matter more here than at a neighborhood park, because most people stay longer than the usual twenty minutes.\n\nThe Dog Ranch is one piece of a 525-acre former ranch on the South San Gabriel River, donated to Georgetown and opened to the public. Trails run down toward the water, there's fishing when the river is up, and 4.68 miles of equestrian trail if you ride. It sits about 6.5 miles west of I-35 on RM 2243.\n\nTwo things separate it from everything else in this directory. It charges admission, and the fee is per vehicle rather than per person: $5 for Georgetown residents and $10 for non-residents, covering a driver and one passenger, with each additional person $2. Annual passes run $100 resident and $150 non-resident. And from October through March, entry is free on Tuesdays — the cheapest way to see whether the drive is worth it.\n\nHours shift with the season: 8am to 8pm from April through September, 8am to 6pm from October through March. Nobody is admitted within 30 minutes of closing, and the park shuts on Thanksgiving, Christmas Eve and Christmas Day.\n\nWorth understanding what you are paying for, because Garey is not a drop-in neighborhood run. The entry fee, the drive and the seasonal hours all point the same way: this is a half-day out rather than a twenty-minute leg-stretch. The Dog Ranch is the anchor, but the wider 525 acres — river frontage on the South San Gabriel, trails, an equestrian area and a playground — are what justify the trip.",
+    "description": "Garey Park's off-leash area is called the Dog Ranch, and it earns the name. Over four fenced acres of natural terrain rather than mown turf — brush, uneven ground, real cover — with separate enclosures for small and large dogs. For a dog that finds flat rectangles boring, this is a different kind of outing.\n\nFive shaded picnic shelters sit inside the fence, with water stations and dog-height drinking fountains. The shelters matter more here than at a neighborhood park, because most people stay longer than the usual twenty minutes.\n\nThe Dog Ranch is one piece of a 525-acre former ranch on the South San Gabriel River, donated to Georgetown and opened to the public. Trails run down toward the water, there's fishing when the river is up, and 4.68 miles of equestrian trail if you ride. It sits about 6.5 miles west of I-35 on RM 2243.\n\nTwo things separate it from everything else in this directory. It charges admission, and the fee is per vehicle rather than per person: $5 for Georgetown residents and $10 for non-residents, covering a driver and one passenger, with each additional person $2. Annual passes run $100 resident and $150 non-resident. And from October through March, entry is free on Tuesdays — the cheapest way to see whether the drive is worth it.\n\nHours shift with the season: 8am to 8pm from April through September, 8am to 6pm from October through March. Nobody is admitted within 30 minutes of closing, and the park shuts on Thanksgiving, Christmas Eve and Christmas Day.\n\nWorth understanding what you are paying for, because Garey is not a drop-in neighborhood run. The entry fee, the drive and the seasonal hours all point the same way: this is a half-day out rather than a twenty-minute leg-stretch. The Dog Ranch is the anchor, but the wider 525 acres — river frontage on the South San Gabriel, trails, an equestrian area and a playground — are what justify the trip.\n\nThe South San Gabriel is what lifts this above a fenced run with a fee. It comes through the property shallow and startlingly clear over pale limestone cobble, with wide gravel bars on the inside of the bends and slabs of rock big enough to sit on at the edge. In a dry spell it drops to ankle depth threading between exposed rock; after rain it moves. Either way the water is a different proposition from the muddy urban creeks further into Austin.\n\nThe rest of the grounds are more manicured than the Dog Ranch suggests. There is a spring-fed pond with a fountain and a stone spillway, a pergola on limestone columns, and the restored Garey House with its tile roof looking out over the water — this was a working ranch given to the city, and the homestead end of it is kept accordingly. Beyond that the land rolls away into oak savanna and hill country views, which is where the trail mileage is.\n\n**One thing to keep straight: the Garey Play Ranch is not the Dog Ranch.** The Play Ranch is the children's area near the entrance — splash pad, playground, pavilions, its own gated arch and its own posted day-use rules. Dogs are not the point there. The off-leash Dog Ranch is a separate enclosure elsewhere on the property, so follow signs for that specifically rather than the first arch you see.",
     "features": [
       "Over 4 fenced acres of natural terrain",
       "Separate small and large dog areas",
@@ -391,13 +391,19 @@
       "Dog-height drinking fountains",
       "Part of a 525-acre river park",
       "Free entry Tuesdays October-March",
-      "Trails, fishing and equestrian access"
+      "Trails, fishing and equestrian access",
+      "Clear shallow river over limestone cobble",
+      "Gravel bars and rock slabs at the water",
+      "Spring-fed pond with fountain",
+      "Restored Garey House and pergola",
+      "Oak savanna and hill country views",
+      "Separate Garey Play Ranch (children's area, not the Dog Ranch)"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1574063975800-8f99e5b04bf0?w=800&q=80",
+    "mainImage": "/blog/images/Garey_Park-4.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
+      "/blog/images/Garey_Park-5.jpg",
+      "/blog/images/Garey_Park-3.jpg",
+      "/blog/images/Garey_Park-6.jpg"
     ],
     "latitude": 30.6401,
     "longitude": -97.7315,
