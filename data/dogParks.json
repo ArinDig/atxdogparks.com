@@ -244,7 +244,7 @@
     "hours": "Mon Closed; Tue-Thu 3:00 PM - 9:00 PM; Fri 3:00 PM - 10:00 PM; Sat 12:00 PM - 10:00 PM; Sun 12:00 PM - 9:00 PM",
     "leashPolicy": "Off-Leash in Dog Park Area",
     "fees": "$8 day pass, $200/year membership (+$50 per additional dog)",
-    "description": "Central Texas' original off-leash dog park bar, running since 2013 — Dog House Drinkery sits in Leander, about 25 minutes north of downtown Austin, not in South Austin as its name might suggest to anyone going off memory. The dog area is a fenced half-acre yard with park monitors on duty, attached to a full bar with beer, wine, and seltzers plus shaded patio seating.\n\nIt's closed Mondays (aside from occasional special events), then open Tuesday through Sunday with a $8 day pass or a $200 annual membership that covers one dog (additional dogs are $50/year each). Bring a copy of your dog's vaccination records — digital, tag, or paper all work, but they check.\n\nThe crowd draws from Leander, Cedar Park, Round Rock, and Liberty Hill as much as Austin proper, so plan on the drive if you're coming from central or south Austin.\n\nA few rules catch people out. **The main park is 16 and over** — it is a bar with a dog yard attached, not a family venue, and the private event space is the part that accommodates younger visitors. Dogs must be spayed or neutered. Outside food is not allowed in the main yard, though food trucks turn up some evenings and there is a full bar inside.\n\nThe referees are the real differentiator versus a public park. Staff are in the yard watching play rather than sitting behind a counter, and they will step in on a dog that is being a problem long before the owners would. If you have been put off public runs by unsupervised dogs, that supervision is most of what the entry fee buys.\n\nBeyond the yard there is indoor and outdoor dog-friendly seating, big-screen TVs, foosball and cornhole, so it functions as somewhere to spend an evening rather than a twenty-minute stop. Worth doing the arithmetic on the pass, though: at $8 a visit, anyone going weekly is better off on the $200 annual membership within about six months.",
+    "description": "Central Texas' original off-leash dog park bar, running since 2013 — Dog House Drinkery sits in Leander, about 25 minutes north of downtown Austin, not in South Austin as its name might suggest to anyone going off memory. The dog area is a fenced half-acre yard with park monitors on duty, attached to a full bar with beer, wine, and seltzers plus shaded patio seating.\n\nIt's closed Mondays (aside from occasional special events), then open Tuesday through Sunday with a $8 day pass or a $200 annual membership that covers one dog (additional dogs are $50/year each). Bring a copy of your dog's vaccination records — digital, tag, or paper all work, but they check.\n\nThe crowd draws from Leander, Cedar Park, Round Rock, and Liberty Hill as much as Austin proper, so plan on the drive if you're coming from central or south Austin.\n\nA few rules catch people out. **The main park is 16 and over** — it is a bar with a dog yard attached, not a family venue, and the private event space is the part that accommodates younger visitors. Dogs must be spayed or neutered. Outside food is not allowed in the main yard, though food trucks turn up some evenings and there is a full bar inside.\n\nThe referees are the real differentiator versus a public park. Staff are in the yard watching play rather than sitting behind a counter, and they will step in on a dog that is being a problem long before the owners would. If you have been put off public runs by unsupervised dogs, that supervision is most of what the entry fee buys.\n\nBeyond the yard there is indoor and outdoor dog-friendly seating, big-screen TVs, foosball and cornhole, so it functions as somewhere to spend an evening rather than a twenty-minute stop. Worth doing the arithmetic on the pass, though: at $8 a visit, anyone going weekly is better off on the $200 annual membership within about six months.\n\nThe yard itself is a wooded lot rather than a lawn. Mature post oaks are spread through it, the ground is packed dirt and patchy grass under them, and the furniture is a deliberately mismatched collection of picnic tables, patio sets and plastic chairs scattered under umbrellas. String lights run tree to tree, which makes the evenings the best time to be there, and there are patio heaters out for the cold months — this is not a summer-only venue.\n\nTwo details that matter more than the drinks list. There is a stock tank sunk at the base of one of the oaks, filled from a hose and usually holding a few tennis balls, and on an August afternoon there is a permanent queue of large dogs lying in it. And there is a covered pavilion running off the stone building, so a sudden Hill Country downpour does not end the visit.\n\nInside, the bar is a proper room rather than a serving window: pool table, bar stools, taps and a concrete floor that makes sense the moment you think about wet dogs. Dogs come in with you.\n\nEvents are a real part of the offer rather than an afterthought — paw-print painting sessions, trivia nights, themed evenings — and the social calendar is why a lot of the regulars treat it as somewhere to spend an evening rather than a place to exercise a dog for twenty minutes.\n\nOne piece of logistics from the signage: non-members check in at the bar rather than walking straight through to the yard.",
     "features": [
       "Fully fenced half-acre off-leash yard",
       "Full bar with beer, wine, and seltzers",
@@ -256,13 +256,19 @@
       "Main park is 16+",
       "Spay/neuter required",
       "No outside food in main yard",
-      "Indoor seating, TVs, foosball and cornhole"
+      "Indoor seating, TVs, foosball and cornhole",
+      "Wooded lot under mature post oaks",
+      "Stock tank cooling pool",
+      "Covered pavilion",
+      "String lights and patio heaters",
+      "Indoor bar with pool table",
+      "Non-members check in at the bar"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
+    "mainImage": "/blog/images/Dog_House_Drinkery-10.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+      "/blog/images/Dog_House_Drinkery-8.jpg",
+      "/blog/images/Dog_House_Drinkery-3.jpg",
+      "/blog/images/Dog_House_Drinkery-1.jpg"
     ],
     "latitude": 30.552,
     "longitude": -97.7653,
