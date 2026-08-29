@@ -214,15 +214,16 @@
     "phone": "(512) 974-6700",
     "website": "https://www.austintexas.gov/department/dog-parks",
     "hours": "5:00 AM - 10:00 PM Daily",
-    "leashPolicy": "On-Leash (Off-leash in creek areas)",
+    "leashPolicy": "On-Leash Required",
     "fees": "Free",
-    "description": "Bull Creek District Park in Northwest Austin is one of the city's most popular spots for dogs who love to swim — the limestone creek bed forms a series of natural pools that stay cool even in summer. Dogs are technically required to be leashed on park trails, but the creek areas are where everyone congregates, and the shallow rocky sections are perfect for wading and splashing around.\n\nThe main access point is off Lakewood Drive, just south of Loop 360. Parking is free but the small lot fills up quickly on weekends — arrive before 9am or after 4pm to have a reasonable shot at a spot. The creek is shaded by limestone bluffs and large trees, which keeps temperatures manageable even in July and August when most outdoor spaces in Austin are punishing.\n\nThe terrain is rocky and uneven — this isn't a manicured dog park. It's a natural swimming hole that happens to be dog-friendly. Dogs with joint issues may struggle on the loose rock in the creek bed. Water level varies significantly with rainfall; after a dry stretch the pools can be shallow, after heavy rain the current can be strong. Check conditions before you go.",
+    "description": "Bull Creek District Park is one of the best places in Austin to be near water with a dog, and also one of the most misreported. It is worth getting the rules right before you go.\n\n**This is an on-leash park.** Austin Parks and Recreation removed off-leash privileges here after fecal contamination was found in Bull Creek and off-leash dog use was identified as the likely source. Plenty of what is written about the park online still describes it as a place where the leash rule is loosely observed at the water. We would rather not point you at that: the restriction exists because of a water quality problem in a creek that feeds into Lake Austin, and the dogs standing in it are the reason. Check the posted signage when you arrive, since rules here have changed before and may change again.\n\nNone of which stops it being a lovely place to take a leashed dog. The limestone creek bed steps down through a series of shallow pools shaded by bluffs and mature trees, and it stays genuinely cool in the middle of a Texas summer when almost nothing else outdoors does. Wading in the shallows on a long lead is most of what people come for.\n\nTwo cautions on the water. Swimming areas at Bull Creek have been closed at times over blue-green algae, which is toxic to dogs and can kill them — avoid still water with mats or scum on the surface, and rinse your dog afterwards. And the level swings hard with rainfall: after a dry spell the pools shrink to ankle depth, while after a storm the current through the rock channels is stronger than it looks.\n\nThe footing is rough. This is a natural creek bed, not a groomed park — loose limestone, uneven slabs, and slick rock under the water. Dogs with joint problems or poor balance will find it hard work, and so will you in the wrong shoes.\n\nAccess is off Lakewood Drive, just south of Loop 360. Parking is free but the lot is small and fills early on any decent weekend; before 9am or after 4pm gives you a realistic chance.",
     "features": [
-      "Limestone creek beds",
+      "Limestone creek beds and shallow pools",
       "Natural swimming holes",
       "Scenic hiking trails",
-      "Off-leash in water areas",
-      "Beautiful natural setting"
+      "On-leash only - off-leash privileges removed",
+      "Deep shade from bluffs and mature trees",
+      "Rough, uneven footing"
     ],
     "mainImage": "/blog/images/Bull_Creek-1.png",
     "images": [
@@ -233,7 +234,8 @@
     "latitude": 30.3675,
     "longitude": -97.7779,
     "metaTitle": "Bull Creek District Park Austin — Dog Swimming in Natural Limestone Creek | ATX Dog Parks",
-    "metaDescription": "Bull Creek is Austin's best natural dog swimming spot — limestone creek pools stay cool through summer. NW Austin near Loop 360. Rocky terrain, leash required on trails."
+    "metaDescription": "Bull Creek is Austin's best natural dog swimming spot — limestone creek pools stay cool through summer. NW Austin near Loop 360. Rocky terrain, leash required on trails.",
+    "lastUpdated": "2026-08-28"
   },
   {
     "id": "emma-long",
@@ -483,20 +485,22 @@
     "id": "great-northern",
     "name": "Great Northern Dog Park",
     "slug": "great-northern-dog-park",
-    "address": "7525 Great Northern Blvd, Austin, TX 78757",
+    "address": "7099 Great Northern Blvd, Austin, TX 78757",
     "phone": "(512) 974-6700",
     "website": "https://www.austintexas.gov/page/park-directory",
     "hours": "5:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Great Northern Dog Park is a neighborhood off-leash park in North Austin that serves the Great Northern and Rundberg area — a solid local option for dog owners in the north-central corridor who want a fenced off-leash run without driving to a larger regional park. It's fenced, free, and consistently maintained, with a relaxed neighborhood atmosphere that draws a regular local crowd rather than visitors from across the city.\n\nThe park has a grassy open area with some shade, waste bag stations, and seating for owners. It's not large, but for daily use and quick off-leash exercise it's perfectly functional. The crowd tends to be familiar with each other — regulars recognize each other's dogs, and the vibe is easygoing. It's a good spot for dogs that need socialization in a lower-key environment compared to busier parks like Onion Creek or Auditorium Shores.\n\nLocated near North Loop Boulevard in the 78756/78758 area, the park is easily accessible from North Lamar and Airport Boulevard. Street parking is available nearby. If you're in North Austin between the Domain and 183, this is your most convenient off-leash option — close enough to stop on the way home without it being a dedicated trip. Not a destination park, but a reliable neighborhood asset.",
+    "description": "Great Northern Dog Park is a fenced off-leash area in Allandale, tucked behind the houses off Great Northern Boulevard in north-central Austin. Its formal name on city documents is the Great Northern Detention Basin Off-Leash Area, and that is not just bureaucratic phrasing — the park is a stormwater detention basin that doubles as a dog park, which explains almost everything about the way it looks and behaves.\n\nThe practical consequence is space. This is a wide, open, grassy bowl rather than a small pen, with walking paths around it, so dogs get room to actually run rather than circle. It also means the ground is engineered to hold water, so after heavy rain sections of it are genuinely soggy and the low ground near the pond stays wet longer than you would expect.\n\nBe realistic about what is not here. There are no drinking fountains, so bring water for your dog and yourself, and there is little in the way of shaded seating — the tree cover around the edges is thin and the middle is fully exposed. From June through September that combination makes this an early morning or evening park rather than a midday one. Waste bag stations are provided, and parking is free with wheelchair accessible entrances.\n\nThe retention pond is a feature people either like or avoid. Dogs will go in it. It is stormwater rather than a spring-fed creek, so what is in it depends on what has washed off the surrounding streets recently, and it is not somewhere to let a dog drink.\n\nThe crowd is a neighbourhood one drawn from Allandale and Crestview rather than across the city, which keeps it calmer than the destination parks. For anyone in north-central Austin it is a reasonable everyday option, provided you bring your own water and pick your hour in summer.",
     "features": [
       "Fenced off-leash area",
-      "Grassy open space",
-      "Shaded seating",
+      "Large open grassy basin",
+      "Walking paths",
+      "Retention pond",
       "Waste bag stations",
-      "Neighborhood atmosphere",
-      "Less crowded than central parks"
+      "No drinking fountains - bring water",
+      "Little shade",
+      "Free parking, wheelchair accessible"
     ],
     "mainImage": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
     "images": [
@@ -507,7 +511,8 @@
     "latitude": 30.3851,
     "longitude": -97.7358,
     "metaTitle": "Great Northern Dog Park Austin — Off-Leash Near North Loop & Rundberg | ATX Dog Parks",
-    "metaDescription": "Great Northern Dog Park is a free, fenced off-leash park in North Austin near the North Loop area. Neighborhood feel, regular crowd, grassy open space. Good for daily off-leash runs."
+    "metaDescription": "Great Northern Dog Park is a free, fenced off-leash park in North Austin near the North Loop area. Neighborhood feel, regular crowd, grassy open space. Good for daily off-leash runs.",
+    "lastUpdated": "2026-08-28"
   },
   {
     "id": "harris-branch",
@@ -519,14 +524,16 @@
     "hours": "Dawn to dusk",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Harris Ridge Dog Park is fully fenced with separate, secured areas for large and small dogs, plus agility equipment, tables, and chairs — a more furnished setup than most neighborhood parks in the northern suburbs, with drinking water available for dogs on site.\n\nOne practical difference from a city park: this one is run by the Northtown Municipal Utility District rather than a parks department. Questions and maintenance issues go to the MUD at (512) 716-0759 or manager@northtownmud.org, not to Pflugerville or Austin Parks and Recreation.\n\nHours run dawn to dusk rather than a fixed clock, so the usable window shrinks noticeably in winter. In June and July, dawn is the only comfortable time to be here anyway — the agility area gets full sun.\n\nYou'll find it on Harris Ridge Boulevard, just off I-35 near the Pflugerville and North Austin line, which makes it a reasonable stop for anyone commuting that corridor.",
+    "description": "Harris Ridge Dog Park is fully fenced with separate, secured areas for large and small dogs, plus agility equipment, tables, and chairs — a more furnished setup than most neighborhood parks in the northern suburbs, with drinking water available for dogs on site.\n\nOne practical difference from a city park: this one is run by the Northtown Municipal Utility District rather than a parks department. Questions and maintenance issues go to the MUD at (512) 716-0759 or manager@northtownmud.org, not to Pflugerville or Austin Parks and Recreation.\n\nHours run dawn to dusk rather than a fixed clock, so the usable window shrinks noticeably in winter. In June and July, dawn is the only comfortable time to be here anyway — the agility area gets full sun.\n\nYou'll find it on Harris Ridge Boulevard, just off I-35 near the Pflugerville and North Austin line, which makes it a reasonable stop for anyone commuting that corridor.\n\nOne thing to be aware of before you set off: **there are two dog parks facing each other on Harris Ridge Boulevard.** Harris Ridge Dog Park at 14400 is the fenced one, dawn to dusk. Northtown Dog Park at 14401, directly across the road, is unfenced, keeps different hours, and has trails rather than a run. If your dog needs a fence, the house number matters.\n\nReviews consistently mention mature trees giving genuine shade over parts of the park, which is unusual for a suburban run of this age and makes it more tolerable in summer than the open agility area alone would suggest.\n\nHouse rules are stricter than a city park: no alcohol, no glass containers, and no motorized vehicles anywhere on the grounds.",
     "features": [
       "Fully fenced",
       "Separate secured large and small dog areas",
       "Agility equipment",
       "Tables and chairs",
       "Dog drinking water",
-      "Managed by Northtown MUD"
+      "Managed by Northtown MUD",
+      "Mature tree shade",
+      "No alcohol or glass containers"
     ],
     "mainImage": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
     "images": [
@@ -538,7 +545,7 @@
     "longitude": -97.6821,
     "metaTitle": "Harris Ridge Dog Park Pflugerville | Fenced Off-Leash Park with Agility Equipment",
     "metaDescription": "Fully fenced off-leash park on Harris Ridge Blvd with separate large and small dog areas, agility equipment, seating and water. Open dawn to dusk. Run by Northtown MUD.",
-    "lastUpdated": "2026-08-21"
+    "lastUpdated": "2026-08-28"
   },
   {
     "id": "cedar-bark",
@@ -715,7 +722,7 @@
     "hours": "6:00 AM - 9:00 PM (Mar 1-Sep 30); 6:00 AM - 7:00 PM (Oct 1-Feb 28)",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Buda's off-leash dog park relocated here from the old Sportsplex site in January 2026, after the city closed that location in August 2025 to build out the new grounds on the east side of Historic Stagecoach Park. It's a straightforward setup: a small-dog yard for dogs under 30 pounds and a separate large-dog yard, both fenced, with a water source and benches and picnic tables for owners.\n\nHours shift with daylight — 6am to 9pm from March through September, 6am to 7pm the rest of the year. Because it shares the grounds with Stagecoach Park's pavilion, amphitheater, playground, and trail system, it's easy to turn a dog park stop into a longer outing if the weather's decent.\n\nWorth knowing if you used the old Sportsplex location: that dog park is gone, not just renamed. This is a new build in a different part of town, on the east side of the historic park property off Main Street.",
+    "description": "Buda's off-leash dog park relocated here from the old Sportsplex site in January 2026, after the city closed that location in August 2025 to build out the new grounds on the east side of Historic Stagecoach Park. It's a straightforward setup: a small-dog yard for dogs under 30 pounds and a separate large-dog yard, both fenced, with a water source and benches and picnic tables for owners.\n\nHours shift with daylight — 6am to 9pm from March through September, 6am to 7pm the rest of the year. Because it shares the grounds with Stagecoach Park's pavilion, amphitheater, playground, and trail system, it's easy to turn a dog park stop into a longer outing if the weather's decent.\n\nWorth knowing if you used the old Sportsplex location: that dog park is gone, not just renamed. This is a new build in a different part of town, on the east side of the historic park property off Main Street.\n\nThe shared grounds are the argument for coming here over a standalone run. The dog yards sit on the same property as Stagecoach Park's pavilion, amphitheatre, playground and trail network, so a dog park visit folds into a longer outing without a second drive — genuinely useful if you have children who lose interest in watching dogs after fifteen minutes.\n\nIt is also worth checking the season before you go. The winter closing time of 7pm means that from October the park shuts before most people finish work, which makes it a weekend option for much of the year.",
     "features": [
       "Separate small-dog and large-dog yards",
       "Fully fenced",
@@ -735,7 +742,7 @@
     "longitude": -97.8347,
     "metaTitle": "Historic Stagecoach Park Dog Park — Buda's Off-Leash Park | ATX Dog Parks",
     "metaDescription": "Buda's off-leash dog park moved to Historic Stagecoach Park in January 2026, with separate small- and large-dog yards. Free, seasonal hours, water access, benches.",
-    "lastUpdated": "2026-08-21"
+    "lastUpdated": "2026-08-28"
   },
   {
     "id": "dog-house-drinkery",
@@ -747,7 +754,7 @@
     "hours": "Mon Closed; Tue-Thu 3:00 PM - 9:00 PM; Fri 3:00 PM - 10:00 PM; Sat 12:00 PM - 10:00 PM; Sun 12:00 PM - 9:00 PM",
     "leashPolicy": "Off-Leash in Dog Park Area",
     "fees": "$8 day pass, $200/year membership (+$50 per additional dog)",
-    "description": "Central Texas' original off-leash dog park bar, running since 2013 — Dog House Drinkery sits in Leander, about 25 minutes north of downtown Austin, not in South Austin as its name might suggest to anyone going off memory. The dog area is a fenced half-acre yard with park monitors on duty, attached to a full bar with beer, wine, and seltzers plus shaded patio seating.\n\nIt's closed Mondays (aside from occasional special events), then open Tuesday through Sunday with a $8 day pass or a $200 annual membership that covers one dog (additional dogs are $50/year each). Bring a copy of your dog's vaccination records — digital, tag, or paper all work, but they check.\n\nThe crowd draws from Leander, Cedar Park, Round Rock, and Liberty Hill as much as Austin proper, so plan on the drive if you're coming from central or south Austin.",
+    "description": "Central Texas' original off-leash dog park bar, running since 2013 — Dog House Drinkery sits in Leander, about 25 minutes north of downtown Austin, not in South Austin as its name might suggest to anyone going off memory. The dog area is a fenced half-acre yard with park monitors on duty, attached to a full bar with beer, wine, and seltzers plus shaded patio seating.\n\nIt's closed Mondays (aside from occasional special events), then open Tuesday through Sunday with a $8 day pass or a $200 annual membership that covers one dog (additional dogs are $50/year each). Bring a copy of your dog's vaccination records — digital, tag, or paper all work, but they check.\n\nThe crowd draws from Leander, Cedar Park, Round Rock, and Liberty Hill as much as Austin proper, so plan on the drive if you're coming from central or south Austin.\n\nA few rules catch people out. **The main park is 16 and over** — it is a bar with a dog yard attached, not a family venue, and the private event space is the part that accommodates younger visitors. Dogs must be spayed or neutered. Outside food is not allowed in the main yard, though food trucks turn up some evenings and there is a full bar inside.\n\nThe referees are the real differentiator versus a public park. Staff are in the yard watching play rather than sitting behind a counter, and they will step in on a dog that is being a problem long before the owners would. If you have been put off public runs by unsupervised dogs, that supervision is most of what the entry fee buys.\n\nBeyond the yard there is indoor and outdoor dog-friendly seating, big-screen TVs, foosball and cornhole, so it functions as somewhere to spend an evening rather than a twenty-minute stop. Worth doing the arithmetic on the pass, though: at $8 a visit, anyone going weekly is better off on the $200 annual membership within about six months.",
     "features": [
       "Fully fenced half-acre off-leash yard",
       "Full bar with beer, wine, and seltzers",
@@ -755,7 +762,11 @@
       "Trained park monitors on site",
       "Day pass or annual membership",
       "Weekly events (trivia, themed nights)",
-      "Vaccination records required at entry"
+      "Vaccination records required at entry",
+      "Main park is 16+",
+      "Spay/neuter required",
+      "No outside food in main yard",
+      "Indoor seating, TVs, foosball and cornhole"
     ],
     "mainImage": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
     "images": [
@@ -767,6 +778,6 @@
     "longitude": -97.7653,
     "metaTitle": "Dog House Drinkery & Dog Park — Leander's Off-Leash Bar | ATX Dog Parks",
     "metaDescription": "Dog House Drinkery & Dog Park in Leander is Central Texas' original off-leash dog park bar — fenced half-acre yard, full bar, open Tue-Sun. $8 day pass or annual membership.",
-    "lastUpdated": "2026-08-21"
+    "lastUpdated": "2026-08-28"
   }
 ]
