@@ -198,7 +198,7 @@
     "hours": "6:00 AM - 8:00 PM (Apr 1 - Oct 1); 6:00 AM - 6:00 PM (Oct 2 - Mar 31)",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "The City of Round Rock calls this Dog Depot Dog Park on its parks pages and the Round Rock Dog Depot in its own descriptions of it; Google lists it under the latter. Same place either way, inside Lake Creek Park on Deerfoot Drive.\n\nRound Rock's off-leash park is Dog Depot, 1.85 fenced acres behind the Lake Creek Pool on Deerfoot Drive. Worth stating up front, because it trips people up: this is not at Old Settlers Park. Old Settlers is the bigger name in town and the one people assume, but dogs there are leash-only.\n\nThe layout is unusual in a way that pays off. There are three sections instead of the usual two — a large dog area, a small dog area for anything under 40 pounds, and a rotation area the city closes off periodically so the grass can recover. That third section is why the footing here holds up better than at most parks getting this much traffic.\n\nThe gates are winding sally-port entrances, which makes it much harder for a dog to slip past you on the way in or out. Agility equipment is spread through the large side: a tire jump, an A-frame contact ramp, and a tunnel.\n\nTwo rules catch visitors off guard. No food of any kind is allowed inside, and that includes training treats. And every dog must be both vaccinated and microchipped — Round Rock states it directly rather than burying it in fine print.\n\nHours shift seasonally: 6am to 8pm from April 1 through October 1, then 6am to 6pm from October 2 through March 31. Restrooms are at the Lake Creek Park pavilion outside the fence, in front of the pool, and there are hand sanitizer stations at the gates.\n\nThe no-food rule deserves emphasis because it catches out anyone who trains with treats as a matter of routine. Round Rock means all food, not just meals, and the reasoning is straightforward: food in a shared enclosure is the most reliable way to start a fight between dogs that were getting along fine.",
+    "description": "The City of Round Rock calls this Dog Depot Dog Park on its parks pages and the Round Rock Dog Depot in its own descriptions of it; Google lists it under the latter. Same place either way, inside Lake Creek Park on Deerfoot Drive.\n\nRound Rock's off-leash park is Dog Depot, 1.85 fenced acres behind the Lake Creek Pool on Deerfoot Drive. Worth stating up front, because it trips people up: this is not at Old Settlers Park. Old Settlers is the bigger name in town and the one people assume, but dogs there are leash-only.\n\nThe layout is unusual in a way that pays off. There are three sections instead of the usual two — a large dog area, a small dog area for anything under 40 pounds, and a rotation area the city closes off periodically so the grass can recover. That third section is why the footing here holds up better than at most parks getting this much traffic.\n\nThe gates are winding sally-port entrances, which makes it much harder for a dog to slip past you on the way in or out. Agility equipment is spread through the large side: a tire jump, an A-frame contact ramp, and a tunnel.\n\nTwo rules catch visitors off guard. No food of any kind is allowed inside, and that includes training treats. And every dog must be both vaccinated and microchipped — Round Rock states it directly rather than burying it in fine print.\n\nHours shift seasonally: 6am to 8pm from April 1 through October 1, then 6am to 6pm from October 2 through March 31. Restrooms are at the Lake Creek Park pavilion outside the fence, in front of the pool, and there are hand sanitizer stations at the gates.\n\nThe no-food rule deserves emphasis because it catches out anyone who trains with treats as a matter of routine. Round Rock means all food, not just meals, and the reasoning is straightforward: food in a shared enclosure is the most reliable way to start a fight between dogs that were getting along fine.\n\n**A navigation note worth having.** The monument sign at the park entrance reads \"Lake Creek Park, 800 Deerfoot Lane,\" while the city's own website, and Google, both give the address as 800 Deerfoot **Drive**. Same place — the dog park sits behind Lake Creek Pool — but if a map app argues with the sign in front of you, the sign is the outlier.\n\nThe entrance arch dates the park to 2008, and the western theming runs through the whole site: a timber windmill with a water trough at its base, a replica water tower, and rustic pergola shelters rather than the usual metal shade sails. It gives the place more character than the average municipal run, and the pergolas throw proper shade over the seating.\n\nThere is also a stone-edged wading pool near the entrance, which on a hot afternoon is where you will find at least one dog refusing to leave.\n\nIt is a genuinely popular park — on a decent weekend morning you can count twenty or more dogs across the large side — so if yours prefers quiet, the seasonal early opening at 6am is the window to use.",
     "features": [
       "1.85 fenced acres",
       "Large dog, small dog (under 40 lbs) and rotation areas",
@@ -207,13 +207,19 @@
       "Hand sanitizer stations at gates",
       "Restrooms at Lake Creek Park pavilion",
       "Microchip and vaccination required",
-      "No food or treats permitted inside"
+      "No food or treats permitted inside",
+      "Established 2008",
+      "Windmill and water tower landmarks",
+      "Rustic timber pergola shade",
+      "Stone wading pool",
+      "Sally-port entrances",
+      "Hand sanitizer at the gates"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=800&q=80",
+    "mainImage": "/blog/images/Dog_Depot-1.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80",
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80"
+      "/blog/images/Dog_Depot-3.jpg",
+      "/blog/images/Dog_Depot-4.jpg",
+      "/blog/images/Dog_Depot-2.jpg"
     ],
     "latitude": 30.5219,
     "longitude": -97.6471,
