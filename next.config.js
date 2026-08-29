@@ -19,6 +19,14 @@ const nextConfig = {
         statusCode: 301,
       },
       {
+        // Corrected Aug 2026: the park is Falcon POINTE (Murchison Ridge Trail,
+        // Pflugerville) - confirmed against the city listing and on-site signage.
+        // Slug was missing the 'e', so the URL didn't match how anyone searches it.
+        source: '/parks/falcon-point-dog-park',
+        destination: '/parks/falcon-pointe-dog-park',
+        permanent: true,
+      },
+      {
         source: '/blog/puppy-first-dog-park',
         destination: '/blog',
         permanent: true,

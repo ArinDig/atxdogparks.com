@@ -604,35 +604,38 @@
     "lastUpdated": "2026-08-21"
   },
   {
-    "id": "falcon-point",
+    "id": "falcon-pointe",
     "name": "Falcon Pointe Garden and Bark Park",
-    "slug": "falcon-point-dog-park",
+    "slug": "falcon-pointe-dog-park",
     "address": "19417 Murchison Ridge Trail, Pflugerville, TX 78660",
     "phone": "(512) 990-6363",
     "website": "https://www.austintexas.gov/page/park-directory",
     "hours": "6:00 AM - 10:00 PM Daily",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Falcon Pointe's bark park is attached to a demonstration garden, which makes it the odd one out among Pflugerville's off-leash options and the more interesting place to spend an hour.\n\nThe dog side is straightforward: 2.65 fenced acres split into separate small and large areas, with a watering station and large boulders set with built-in seating — a nicer solution than the usual scattered plastic chairs, and cooler to sit on in shade.\n\nWhat surrounds it is the unusual part. The grounds hold a village of purple martin houses, pear trees, and a set of themed demonstration gardens: rain, culinary, medicinal, butterfly and hummingbird, and native plantings. There's also a moon garden planted specifically for evening visits, built around fragrant white flowers that show up after dark. If you walk your dog at dusk in summer because the afternoon is unbearable, that last detail is more useful than it sounds.\n\nOpen 6am to 10pm. It sits off Murchison Ridge Trail in the Falcon Pointe neighborhood, on Pflugerville's east side.",
+    "description": "Falcon Pointe's bark park is attached to a demonstration garden, which makes it the odd one out among Pflugerville's off-leash options and the more interesting place to spend an hour.\n\nThe dog side is 2.65 fenced acres split into separate large and small runs, each with its own gate off a shared concrete apron. Both gates have a waste bag dispenser and there's a water bowl set out between them. Worth noting that the signs are pictures rather than a posted weight limit — a labrador silhouette on one gate, a corgi on the other — so unlike Cedar Bark, where the split is written as 30 pounds, sorting a borderline dog is left to your judgement.\n\nThe large run is genuinely large, closer to a field than a pen, with real turf rather than the worn dirt a lot of heavily used runs turn into. The ground near the gates is bare and packed from traffic, but it opens up quickly. Mature live oaks along the fence line give proper shade over a decent share of the space, and there are more young trees planted through the middle that will matter in another ten years. A soccer pitch sits immediately beyond the far fence, so on league mornings there's noise and movement on the other side of the rail — worth knowing if your dog fixates on that sort of thing.\n\nWhat surrounds it is the unusual part. The grounds hold a village of purple martin houses, pear trees, and a set of themed demonstration gardens: rain, culinary, medicinal, butterfly and hummingbird, and native plantings. There's also a moon garden planted for evening visits, built around fragrant white flowers that show up after dark. If you walk your dog at dusk in summer because the afternoon is unbearable, that's more useful than it sounds.\n\nThe pavilion is the other landmark — a hexagonal shelter with a deep red roof and picnic tables, set on a concrete circle next to a repurposed grain silo. It's the obvious place to wait out a squall or eat something while the dog runs.\n\nOpen 6am to 10pm, free, with free parking. It sits off Murchison Ridge Trail on Pflugerville's east side. The field is open enough that there's little shelter from wind in winter, and the photographs of it under ice are a reminder that Central Texas does occasionally deliver that.",
     "features": [
       "2.65 fenced acres",
-      "Separate small and large dog areas",
+      "Separate large and small dog runs",
+      "Double-gated entry",
+      "Waste stations and water bowl at the gates",
+      "Mature live oak shade",
       "Boulders with built-in seating",
-      "Dog watering area",
       "Purple martin houses",
-      "Demonstration gardens including a moon garden"
+      "Demonstration gardens including a moon garden",
+      "Covered pavilion and picnic tables"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+    "mainImage": "/blog/images/Falcon_Pointe-1.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80",
-      "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&q=80"
+      "/blog/images/Falcon_Pointe-2.jpg",
+      "/blog/images/Falcon_Pointe-3.jpg",
+      "/blog/images/Falcon_Pointe-4.jpg"
     ],
     "latitude": 30.4512,
     "longitude": -97.6048,
     "metaTitle": "Falcon Pointe Bark Park Pflugerville | Fenced Dog Park & Demonstration Gardens",
     "metaDescription": "Pflugerville's Falcon Pointe bark park: 2.65 fenced acres with separate small and large dog areas, boulder seating, purple martin houses and themed gardens. Open 6am-10pm. Free.",
-    "lastUpdated": "2026-08-21"
+    "lastUpdated": "2026-08-28"
   },
   {
     "id": "georgetown-bark",
