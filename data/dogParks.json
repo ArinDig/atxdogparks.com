@@ -438,10 +438,10 @@
       "Little shade",
       "Free parking, wheelchair accessible"
     ],
-    "mainImage": "/blog/images/Great_Northern-4.jpg",
+    "mainImage": "/blog/images/Great_Northern-1.jpg",
     "images": [
+      "/blog/images/Great_Northern-4.jpg",
       "/blog/images/Great_Northern-2.jpg",
-      "/blog/images/Great_Northern-1.jpg",
       "/blog/images/Great_Northern-3.jpg"
     ],
     "latitude": 30.3851,
