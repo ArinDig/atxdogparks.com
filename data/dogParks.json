@@ -542,7 +542,7 @@
     "hours": "6:00 AM - 10:00 PM (Tue opens 3:00 PM, Fri opens 11:00 AM for maintenance)",
     "leashPolicy": "Off-Leash",
     "fees": "Free",
-    "description": "Cedar Bark Park is five fenced acres inside Veterans Memorial Park on West New Hope Drive. It is not at Elizabeth Milburn Park, which is a separate Cedar Park facility a few miles away and a common mix-up.\n\nThe draw here is water. There's a dog pond for swimming and, more unusually, dog showers on site — so the muddy retriever who just discovered the pond doesn't have to ride home that way. Drinking fountains, waste stations, and benches are spread through the grounds, and the site keeps a fair amount of natural landscape rather than being scraped flat and sodded.\n\nCheck the day before you drive over, because the maintenance schedule closes the park on two mornings a week. Tuesdays it stays shut from 7am until 3pm, and Fridays from 7am until 11am, while the city services the wash stations and clears trash. Every other day runs 6am to 10pm.\n\nCedar Park asks visitors to be diligent about picking up, and the reason is specific rather than generic: waste left near the pond ends up in the water the dogs are swimming in.",
+    "description": "Cedar Bark Park is five fenced acres inside Veterans Memorial Park on West New Hope Drive. It is not at Elizabeth Milburn Park, which is a separate Cedar Park facility a few miles away and a common mix-up.\n\nThe draw here is water. There's a dog pond for swimming and, more unusually, dog showers on site — so the muddy retriever who just discovered the pond doesn't have to ride home that way. Drinking fountains, waste stations, and benches are spread through the grounds, and the site keeps a fair amount of natural landscape rather than being scraped flat and sodded.\n\nCheck the day before you drive over, because the maintenance schedule closes the park on two mornings a week. Tuesdays it stays shut from 7am until 3pm, and Fridays from 7am until 11am, while the city services the wash stations and clears trash. Every other day runs 6am to 10pm.\n\nCedar Park asks visitors to be diligent about picking up, and the reason is specific rather than generic: waste left near the pond ends up in the water the dogs are swimming in.\n\nThe pond is a genuine one rather than a splash pad — a fenced basin with an aerating fountain in the middle and a short dock along one edge. The bank is gravel with a concrete ramp giving dogs a gradual way in and out instead of a drop, and on a warm afternoon there are usually a few standing in the shallows near the ramp rather than swimming properly.\n\nEntry is through a double gate, and the small and large sides are split at 30 pounds. In the large field there is a dachshund-shaped tunnel that puppies find considerably more interesting than the adult dogs do.",
     "features": [
       "5 fenced acres",
       "Dog pond for swimming",
@@ -550,19 +550,22 @@
       "Drinking fountains",
       "Pet waste stations",
       "Benches and natural landscaping",
-      "Inside Veterans Memorial Park"
+      "Inside Veterans Memorial Park",
+      "Double-gated entry",
+      "Small/large split at 30 lbs",
+      "Dock and aerated swimming pond"
     ],
-    "mainImage": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
+    "mainImage": "/blog/images/Cedar_Bark_Park-1.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=800&q=80",
-      "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
-      "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?w=800&q=80"
+      "/blog/images/Cedar_Bark_Park-2.jpg",
+      "/blog/images/Cedar_Bark_Park-3.jpg",
+      "/blog/images/Cedar_Bark_Park-4.jpg"
     ],
     "latitude": 30.5053,
     "longitude": -97.8224,
     "metaTitle": "Cedar Bark Park | 5-Acre Dog Park with Pond & Showers in Cedar Park",
     "metaDescription": "Cedar Park's 5-acre fenced dog park in Veterans Memorial Park, with a swimming pond and dog wash stations. Closed Tuesday mornings and Friday mornings for maintenance. Free.",
-    "lastUpdated": "2026-08-21"
+    "lastUpdated": "2026-08-28"
   },
   {
     "id": "round-rock-old-settlers",
