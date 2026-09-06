@@ -33,7 +33,7 @@ const products: Product[] = [
     name: 'Kurgo Collapsible Dog Bowl',
     description: 'Portable, lightweight bowl perfect for dog park visits',
     category: 'Hydration',
-    amazonLink: 'https://www.amazon.com/dp/B005QZ4YZQ?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B005QZ4YZQ?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/61RwkuO7-uL._AC_SL1500_.jpg',
     imageAlt: 'Kurgo Collapsible Dog Water Bowl',
     whyRecommended: 'Essential for keeping your dog hydrated at any Austin dog park, especially during hot Texas summers.'
@@ -43,7 +43,7 @@ const products: Product[] = [
     name: 'Cibaabo Dog Water Bottle',
     description: 'All-in-one hydration solution for active dogs',
     category: 'Hydration',
-    amazonLink: 'https://www.amazon.com/dp/B0BZQZZP7Q?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B0BZQZZP7Q?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/71UCf0OTWaL._AC_SL1500_.jpg',
     imageAlt: 'Cibaabo Dog Water Bottle with Built-in Bowl',
     whyRecommended: 'Convenient one-handed operation makes it easy to give your dog water during play sessions.'
@@ -53,7 +53,7 @@ const products: Product[] = [
     name: 'Earth Rated Poop Bag Dispenser',
     description: 'Never forget waste bags again with this handy clip-on dispenser',
     category: 'Cleanup',
-    amazonLink: 'https://www.amazon.com/dp/B08VN2W5NC?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B08VN2W5NC?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/71LU1a0g37L._AC_SL1200_.jpg',
     imageAlt: 'Earth Rated Dog Waste Bag Dispenser',
     whyRecommended: 'Attaches to any leash for easy access. Essential dog park etiquette!'
@@ -63,7 +63,7 @@ const products: Product[] = [
     name: 'Pet First Aid Kit',
     description: 'Comprehensive first aid supplies for minor injuries',
     category: 'Safety',
-    amazonLink: 'https://www.amazon.com/dp/B0B1W5R11Y?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B0B1W5R11Y?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/81KtJv2RAzL._AC_SL1500_.jpg',
     imageAlt: 'Pet First Aid Kit for Dogs',
     whyRecommended: 'Be prepared for minor scrapes, cuts, or bee stings at the dog park.'
@@ -73,7 +73,7 @@ const products: Product[] = [
     name: 'Joytale Reflective Dog Leash',
     description: 'Strong, durable leash with reflective stitching for early morning or evening visits',
     category: 'Safety',
-    amazonLink: 'https://www.amazon.com/dp/B08573BRLS?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B08573BRLS?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/81IQtEPqk6L._AC_SL1500_.jpg',
     imageAlt: 'Joytale Reflective High-Visibility Dog Leash',
     whyRecommended: 'Perfect for early morning or evening dog park visits when visibility is low.'
@@ -83,7 +83,7 @@ const products: Product[] = [
     name: 'SGODA Dog Cooling Vest',
     description: 'Evaporative cooling vest for hot Texas summers',
     category: 'Summer Gear',
-    amazonLink: 'https://www.amazon.com/dp/B072LSJ6YX?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B072LSJ6YX?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/61DY6gRCxlL._AC_SL1005_.jpg',
     imageAlt: 'SGODA Dog Cooling Vest for Summer',
     whyRecommended: 'Essential for Austin summers. Keeps your dog cool during outdoor play in 95°+ heat.'
@@ -93,7 +93,7 @@ const products: Product[] = [
     name: "Musher's Secret Paw Wax",
     description: 'Protects paws from hot pavement and rough terrain',
     category: 'Paw Care',
-    amazonLink: 'https://www.amazon.com/dp/B0002IJQDC?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B0002IJQDC?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/716VEpvp99L._AC_SL1500_.jpg',
     imageAlt: "Musher's Secret Paw Protection Wax",
     whyRecommended: 'Prevents burns from hot Austin pavement and protects against rough, rocky park surfaces.'
@@ -103,7 +103,7 @@ const products: Product[] = [
     name: 'Bone Dry Microfiber Dog Towel',
     description: 'Super absorbent towel for water-loving dogs',
     category: 'Cleanup',
-    amazonLink: 'https://www.amazon.com/dp/B00T7W30IG?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B00T7W30IG?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/61rz83VBW0L._AC_SL1500_.jpg',
     imageAlt: 'Bone Dry Quick-Dry Microfiber Dog Towel',
     whyRecommended: 'Perfect for parks with water access like Red Bud Isle or Zilker. Dries quickly and fits in any car.'
@@ -113,7 +113,7 @@ const products: Product[] = [
     name: "Zuke's Mini Naturals Training Treats",
     description: 'Small, low-calorie treats perfect for recall training',
     category: 'Training',
-    amazonLink: 'https://www.amazon.com/dp/B000H0ZJHW?tag=adiaustin-20',
+    amazonLink: 'https://www.amazon.com/dp/B000H0ZJHW?tag=adiaustin-adp-20',
     imageUrl: 'https://m.media-amazon.com/images/I/819RhWn5RXL._AC_SL1500_.jpg',
     imageAlt: "Zuke's Mini Naturals Dog Training Treats",
     whyRecommended: 'Essential for practicing recall commands at off-leash areas. Keep your dog focused and responsive.'

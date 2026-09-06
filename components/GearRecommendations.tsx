@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { FaExternalLinkAlt, FaShoppingBag } from 'react-icons/fa'
 
-const AMAZON_TAG = 'adiaustin-20'
+const AMAZON_TAG = 'adiaustin-adp-20'
 
 // Clean canonical product links. Deliberately NOT the long copied search-result
 // URLs — those carry session tokens and sponsored-placement params that rot and
