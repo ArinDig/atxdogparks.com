@@ -32,7 +32,7 @@ const recommendations: Record<ParkGearVariant, GearItem[]> = {
       asin: 'B00T7W30IG',
       name: 'Bone Dry Microfiber Dog Towel',
       reason: 'Wrings out fast and keeps a soaked dog off your back seat on the drive home.',
-      price: '~$14',
+      price: '~$11',
       imageUrl: 'https://m.media-amazon.com/images/I/61rz83VBW0L._AC_SL1200_.jpg',
     },
     {
@@ -55,7 +55,7 @@ const recommendations: Record<ParkGearVariant, GearItem[]> = {
       asin: 'B01M8JT6FT',
       name: 'rabbitgoo No-Pull Dog Harness',
       reason: 'Better control than a collar on uneven footing, and the top handle helps over ledges.',
-      price: '~$16',
+      price: '~$18',
       imageUrl: 'https://m.media-amazon.com/images/I/71eROBTwkVL._AC_SL1200_.jpg',
     },
     {
