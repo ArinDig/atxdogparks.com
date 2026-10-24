@@ -67,24 +67,20 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* Ezoic Privacy Scripts - MUST load first for compliance */}
-        <Script
-          src="https://cmp.gatekeeperconsent.com/min.js"
-          data-cfasync="false"
-          strategy="beforeInteractive"
-        />
-        <Script
-          src="https://the.gatekeeperconsent.com/cmp.min.js"
-          data-cfasync="false"
-          strategy="beforeInteractive"
-        />
-        
-        {/* Ezoic Header Script */}
-        <Script
-          src="//www.ezojs.com/ezoic/sa.min.js"
-          strategy="beforeInteractive"
-        />
-        
+        {/*
+          Ezoic integration REMOVED 24 Oct 2026.
+
+          Google Ad Manager disapproved atxdogparks.com through Ezoic ("low value content")
+          on 24 Oct 2026, after a reapplication on 10 Oct. With no Ad Manager approval the
+          scripts served nothing (Ezoic showed $0 and 0 visits), but still cost two consent
+          scripts, the Ezoic header script and a cookie-consent banner on every page load.
+          Same decision as pickleballatx.org on 15 Sep 2026.
+
+          Left in place on purpose: the /ads.txt redirect to Ezoic's Ads.txt Manager in
+          next.config.js. It's harmless and keeps the Ezoic account ready if we reapply.
+          To re-integrate: the CMP scripts (cmp.gatekeeperconsent.com/min.js, then
+          the.gatekeeperconsent.com/cmp.min.js) must load before ezojs.com/ezoic/sa.min.js.
+        */}
         {/* Organization Structured Data */}
         <script
           type="application/ld+json"
