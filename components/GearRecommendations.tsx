@@ -55,7 +55,7 @@ const recommendations: Record<ParkGearVariant, GearItem[]> = {
       asin: 'B01M8JT6FT',
       name: 'rabbitgoo No-Pull Dog Harness',
       reason: 'Better control than a collar on uneven footing, and the top handle helps over ledges.',
-      price: '~$18',
+      price: '~$16',
       imageUrl: 'https://m.media-amazon.com/images/I/71eROBTwkVL._AC_SL1200_.jpg',
     },
     {
@@ -85,7 +85,7 @@ const recommendations: Record<ParkGearVariant, GearItem[]> = {
       asin: 'B08573BRLS',
       name: 'Joytale Reflective Dog Leash',
       reason: 'Most Austin parks open at sunrise and close after dark. Reflective stitching earns its keep.',
-      price: '~$8',
+      price: '~$9',
       imageUrl: 'https://m.media-amazon.com/images/I/81IQtEPqk6L._AC_SL1200_.jpg',
     },
   ],
