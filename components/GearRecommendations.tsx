@@ -22,10 +22,10 @@ interface GearItem {
 const recommendations: Record<ParkGearVariant, GearItem[]> = {
   water: [
     {
-      asin: 'B0081XIK4Q',
+      asin: 'B0081XIKYG',
       name: 'Outward Hound Granby Splash Life Jacket',
       reason: 'Lake Austin and Lady Bird Lake have current and steep drop-offs. Even strong swimmers tire.',
-      price: '~$24',
+      price: '~$20',
       imageUrl: 'https://m.media-amazon.com/images/I/71s2fr1Wx+L._AC_SL1200_.jpg',
     },
     {
