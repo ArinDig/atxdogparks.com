@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
 
 export const metadata: Metadata = {
-  title: 'Contact Us | ATX Dog Parks',
+  title: 'Contact Us',
   description: 'Contact ATX Dog Parks - Get in touch with us for questions, suggestions, or to report issues.',
   alternates: {
     canonical: 'https://atxdogparks.com/contact',

@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { FaQuestionCircle, FaDog, FaMapMarkedAlt, FaClock, FaShieldAlt, FaPaw, FaThermometerHalf } from 'react-icons/fa'
 
 export const metadata: Metadata = {
-  title: 'Frequently Asked Questions About Austin Dog Parks | ATX Dog Parks',
+  title: 'Frequently Asked Questions About Austin Dog Parks',
   description: 'Get answers to common questions about visiting Austin dog parks, including rules, safety tips, best times to visit, what to bring, and more.',
   alternates: {
     canonical: 'https://atxdogparks.com/faq',
